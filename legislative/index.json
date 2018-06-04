@@ -1,3 +1,24 @@
 [
-
+  {
+    "comment": "Senate of Chile",
+    "house_item_id": "Q2119458",
+    "position_item_id": "Q18882653",
+    "terms": [
+      {
+        "comment": "8th Chilean Legislative Period",
+        "term_item_id": "Q29044335"
+      }
+    ]
+  },
+  {
+    "comment": "Chamber of Deputies",
+    "house_item_id": "Q2119518",
+    "position_item_id": "Q18067639",
+    "terms": [
+      {
+        "comment": "8th Chilean Legislative Period",
+        "term_item_id": "Q29044335"
+      }
+    ]
+  }
 ]
