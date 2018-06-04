@@ -1,0 +1,92 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Jorge Rathgeb",
+        "lang:en": "Jorge Rathgeb"
+      },
+      "id": "Q26695256",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26695256"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alejandro Santana",
+        "lang:en": "Alejandro Santana"
+      },
+      "id": "Q28846115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28846115"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Cámara de Diputados de Chile",
+        "lang:en": "Chamber of Deputies"
+      },
+      "id": "Q2119518",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2119518"
+        }
+      ],
+      "area_id": "Q298",
+      "seat_counts": {
+        "Q18067639": "120"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26695256-ca7859ef-4f27-cc87-8c94-5bf477f8b1ec",
+      "person_id": "Q26695256",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28846115-157D3C58-88E1-474C-B7A6-3EF7208612AC",
+      "person_id": "Q28846115",
+      "organization_id": "Q2119518",
+      "start_date": "2014-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    }
+  ]
+}
