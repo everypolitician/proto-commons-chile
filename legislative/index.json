@@ -20,5 +20,170 @@
         "term_item_id": "Q29044335"
       }
     ]
+  },
+  {
+    "comment": "Regional Council of Antofagasta",
+    "house_item_id": "Q54830869",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of La Araucanía",
+    "house_item_id": "Q54830872",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Arica and Parinacota",
+    "house_item_id": "Q54830875",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Atacama",
+    "house_item_id": "Q54830880",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Aysen General Carlos Ibáñez del Campo",
+    "house_item_id": "Q54830883",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of the Biobio",
+    "house_item_id": "Q54830886",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Coquimbo",
+    "house_item_id": "Q54830889",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Los Lagos",
+    "house_item_id": "Q54830892",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Los Ríos",
+    "house_item_id": "Q54830895",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Magallanes and Chilean Antarctic",
+    "house_item_id": "Q54830916",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council del Maule",
+    "house_item_id": "Q54830922",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Libertador General Bernardo O'Higgins",
+    "house_item_id": "Q54830929",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of the Metropolitan Region of Santiago",
+    "house_item_id": "Q54830948",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Tarapaca",
+    "house_item_id": "Q54830951",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Valparaíso",
+    "house_item_id": "Q54830954",
+    "position_item_id": null,
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
   }
 ]
