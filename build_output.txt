@@ -1,3 +1,34 @@
 WARNING: Position senador de Chile (Q18882653) not in boundary associated_wikidata_positions
 WARNING: Position diputado de Chile (Q18067639) not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
+WARNING: Position [no item] not in boundary associated_wikidata_positions
 WARNING: Position Presidente de Chile (Q466956) not in boundary associated_wikidata_positions
+WARNING: the district Chile (Q298) wasn't found in the boundary data for position Presidente de Chile (Q466956)
+WARNING: Position Intendente de Antofagasta (Q54830867) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de La Araucanía (Q54830870) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Arica y Parinacota (Q54830873) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Atacama (Q54830878) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Aysén del General Carlos Ibáñez del Campo (Q54830881) not in boundary associated_wikidata_positions
+WARNING: Position Intendente del Biobío (Q54830884) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Coquimbo (Q54830887) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Los Lagos (Q54830890) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Los Ríos (Q54830893) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Magallanes y de la Antártica Chilena (Q54830912) not in boundary associated_wikidata_positions
+WARNING: Position Intendente del Maule (Q54830918) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Libertador General Bernardo O'Higgins (Q54830925) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de la Región Metropolitana de Santiago (Q54830946) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Tarapacá (Q54830949) not in boundary associated_wikidata_positions
+WARNING: Position Intendente de Valparaíso (Q54830952) not in boundary associated_wikidata_positions
