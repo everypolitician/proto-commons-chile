@@ -17,6 +17,9 @@ SELECT DISTINCT ?executive ?executiveLabel ?adminArea ?adminAreaLabel ?adminArea
     # Make sure the city is not also a FLACS
     MINUS { ?adminArea wdt:P31/wdt:P279* wd:Q10864048 }
     VALUES (?primarySort ?adminAreaType) { (3 wd:Q515) }
+  } UNION {
+    VALUES (?adminArea ?primarySort ?adminAreaType) {
+    }
   }
 } ORDER BY ?primarySort
 
