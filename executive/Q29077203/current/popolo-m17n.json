@@ -1,14 +1,61 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Sebastián Piñera",
+        "lang:en": "Sebastián Piñera"
+      },
+      "id": "Q306",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q306"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/SPinera"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:en": "Cabinet of Chile"
+      },
+      "id": "Q29077203",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29077203"
+        }
+      ],
+      "area_id": "Q298"
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q306-01ff1436-45ef-c01a-6862-2c6ea04ae301",
+      "person_id": "Q306",
+      "organization_id": "Q29077203",
+      "area_id": "Q298",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q466956",
+      "role_superclass": {
+        "lang:es": "Presidente de Chile",
+        "lang:en": "President of Chile"
+      },
+      "role_code": "Q466956",
+      "role": {
+        "lang:es": "Presidente de Chile",
+        "lang:en": "President of Chile"
+      }
+    }
   ]
 }
