@@ -8,5 +8,155 @@
         "position_item_id": "Q466956"
       }
     ]
+  },
+  {
+    "comment": "Regional Government of Antofagasta",
+    "executive_item_id": "Q54830868",
+    "positions": [
+      {
+        "comment": "Intendant of Antofagasta",
+        "position_item_id": "Q54830867"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of La Araucania",
+    "executive_item_id": "Q54830871",
+    "positions": [
+      {
+        "comment": "Intendant of La Araucania",
+        "position_item_id": "Q54830870"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Arica and Parinacota",
+    "executive_item_id": "Q54830874",
+    "positions": [
+      {
+        "comment": "Intendant of Arica and Parinacota",
+        "position_item_id": "Q54830873"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Atacama",
+    "executive_item_id": "Q54830879",
+    "positions": [
+      {
+        "comment": "Intendant of Atacama",
+        "position_item_id": "Q54830878"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Aysen General Carlos Ibáñez del Campo",
+    "executive_item_id": "Q54830882",
+    "positions": [
+      {
+        "comment": "Intendant of Aysen General Carlos Ibáñez del Campo",
+        "position_item_id": "Q54830881"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of the Biobio",
+    "executive_item_id": "Q54830885",
+    "positions": [
+      {
+        "comment": "Intendant of the Biobio",
+        "position_item_id": "Q16579379"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Coquimbo",
+    "executive_item_id": "Q54830888",
+    "positions": [
+      {
+        "comment": "Intendant of Coquimbo",
+        "position_item_id": "Q54830887"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Los Lagos",
+    "executive_item_id": "Q54830891",
+    "positions": [
+      {
+        "comment": "Intendant of Los Lagos",
+        "position_item_id": "Q54830890"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Los Ríos",
+    "executive_item_id": "Q54830894",
+    "positions": [
+      {
+        "comment": "Intendant of Los Ríos",
+        "position_item_id": "Q54830893"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Magallanes and Chilean Antarctic",
+    "executive_item_id": "Q54830914",
+    "positions": [
+      {
+        "comment": "Intendant of Magallanes and Chilean Antarctic",
+        "position_item_id": "Q54830912"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Maule",
+    "executive_item_id": "Q54830920",
+    "positions": [
+      {
+        "comment": "Intendant of Maule",
+        "position_item_id": "Q54830918"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Libertador General Bernardo O'Higgins",
+    "executive_item_id": "Q54830927",
+    "positions": [
+      {
+        "comment": "Intendant of Libertador General Bernardo O'Higgins",
+        "position_item_id": "Q54830925"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of the Metropolitan Region of Santiago",
+    "executive_item_id": "Q54830947",
+    "positions": [
+      {
+        "comment": "Intendant of the Metropolitan Region of Santiago",
+        "position_item_id": "Q54830946"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Tarapaca",
+    "executive_item_id": "Q54830950",
+    "positions": [
+      {
+        "comment": "Intendant of Tarapaca",
+        "position_item_id": "Q54830949"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Valparaiso",
+    "executive_item_id": "Q54830953",
+    "positions": [
+      {
+        "comment": "Intendant of Valparaiso",
+        "position_item_id": "Q54830952"
+      }
+    ]
   }
 ]

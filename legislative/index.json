@@ -20,5 +20,170 @@
         "term_item_id": "Q29044335"
       }
     ]
+  },
+  {
+    "comment": "Regional Council of Antofagasta",
+    "house_item_id": "Q54830869",
+    "position_item_id": "Q54846727",
+    "terms": [
+      {
+        "comment": "7th legislature of the Regional council of Antofagasta",
+        "term_item_id": "Q54844440"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of La Araucanía",
+    "house_item_id": "Q54830872",
+    "position_item_id": "Q54846729",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of La Ataucania",
+        "term_item_id": "Q54844444"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Arica and Parinacota",
+    "house_item_id": "Q54830875",
+    "position_item_id": "Q54846731",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Arica and Parinacota",
+        "term_item_id": "Q54844447"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Atacama",
+    "house_item_id": "Q54830880",
+    "position_item_id": "Q54846734",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Atacama",
+        "term_item_id": "Q54844451"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Aysen General Carlos Ibáñez del Campo",
+    "house_item_id": "Q54830883",
+    "position_item_id": "Q54846736",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Aysén of General Carlos Ibáñez del Campo",
+        "term_item_id": "Q54844453"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of the Biobio",
+    "house_item_id": "Q54830886",
+    "position_item_id": "Q54846738",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Bío Bío",
+        "term_item_id": "Q54844455"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Coquimbo",
+    "house_item_id": "Q54830889",
+    "position_item_id": "Q54846740",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Coquimbo",
+        "term_item_id": "Q54844456"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Los Lagos",
+    "house_item_id": "Q54830892",
+    "position_item_id": "Q54846743",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Los Lagos",
+        "term_item_id": "Q54844457"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Los Ríos",
+    "house_item_id": "Q54830895",
+    "position_item_id": "Q54846745",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Los Rios",
+        "term_item_id": "Q54844458"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Magellan and Chilean Antarctic",
+    "house_item_id": "Q54830916",
+    "position_item_id": "Q54846757",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Magellan and the Chilean Antarctic",
+        "term_item_id": "Q54844462"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Maule",
+    "house_item_id": "Q54830922",
+    "position_item_id": "Q54846758",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional council of Maule",
+        "term_item_id": "Q54844463"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Libertador General Bernardo O'Higgins",
+    "house_item_id": "Q54830929",
+    "position_item_id": "Q54846759",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional government of Libertador General Bernardo O'Higgins",
+        "term_item_id": "Q54844464"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of the Metropolitan Region of Santiago",
+    "house_item_id": "Q54830948",
+    "position_item_id": "Q54846760",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional government of Metropolitan Area of Santiago",
+        "term_item_id": "Q54844465"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Tarapaca",
+    "house_item_id": "Q54830951",
+    "position_item_id": "Q54846761",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional government of Tarapacá",
+        "term_item_id": "Q54844466"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Council of Valparaíso",
+    "house_item_id": "Q54830954",
+    "position_item_id": "Q54846762",
+    "terms": [
+      {
+        "comment": "7th Legislature of the Regional government of Valparaíso",
+        "term_item_id": "Q54844480"
+      }
+    ]
   }
 ]
