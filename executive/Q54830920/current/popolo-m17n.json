@@ -1,14 +1,58 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Pablo Milad Abusleme",
+        "lang:en": "Pablo Milad Abusleme"
+      },
+      "id": "Q54862869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54862869"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional del Maule",
+        "lang:en": "Regional Government of Maule"
+      },
+      "id": "Q54830920",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830920"
+        }
+      ],
+      "area_id": "Q2166"
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54862869-4690DDF2-1842-406E-B9D3-7A87331CA4FC",
+      "person_id": "Q54862869",
+      "organization_id": "Q54830920",
+      "area_id": "Q2166",
+      "role_superclass_code": "Q54830918",
+      "role_superclass": {
+        "lang:es": "Intendente del Maule",
+        "lang:en": "Intendant of Maule"
+      },
+      "role_code": "Q54830918",
+      "role": {
+        "lang:es": "Intendente del Maule",
+        "lang:en": "Intendant of Maule"
+      }
+    }
   ]
 }

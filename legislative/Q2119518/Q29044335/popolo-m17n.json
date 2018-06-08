@@ -2,6 +2,25 @@
   "persons": [
     {
       "name": {
+        "lang:es": "Camila Vallejo",
+        "lang:en": "Camila Vallejo"
+      },
+      "id": "Q242230",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q242230"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CamilaVallejoD"
+        }
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Jorge Rathgeb",
         "lang:en": "Jorge Rathgeb"
       },
@@ -31,6 +50,86 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:es": "Maya Fernández",
+        "lang:en": "Maya Fernández"
+      },
+      "id": "Q5818156",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5818156"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/maya.allende.9"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Florcita Motuda",
+        "lang:en": "Florcita Motuda"
+      },
+      "id": "Q5862953",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5862953"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/florcitamotuda.cl"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/florcita.motuda.5"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jaime Mulet",
+        "lang:en": "Jaime Mulet"
+      },
+      "id": "Q5925226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5925226"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Jaime-Mulet-Martínez-68846675598"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Venegas",
+        "lang:en": "Mario Venegas"
+      },
+      "id": "Q5999127",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5999127"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/diputadovenegas"
+        }
+      ]
     }
   ],
   "organizations": [
@@ -51,12 +150,99 @@
       "seat_counts": {
         "Q18067639": "120"
       }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Humanista",
+        "lang:en": "Humanist Party"
+      },
+      "id": "Q1312539",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1312539"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Demócrata Cristiano",
+        "lang:en": "Christian Democratic Party"
+      },
+      "id": "Q1395049",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1395049"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Federación Regionalista Verde Social",
+        "lang:en": "Social Green Regionalist Federation"
+      },
+      "id": "Q28868044",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28868044"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Comunista de Chile",
+        "lang:en": "Communist Party of Chile"
+      },
+      "id": "Q317952",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q317952"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Socialista de Chile",
+        "lang:en": "Socialist Party of Chile"
+      },
+      "id": "Q823648",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q823648"
+        }
+      ]
     }
   ],
   "areas": [
 
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q242230-7D77A0A9-A0F6-4722-8637-4BEF701F225D",
+      "person_id": "Q242230",
+      "on_behalf_of_id": "Q317952",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826385",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q26695256-ca7859ef-4f27-cc87-8c94-5bf477f8b1ec",
       "person_id": "Q26695256",
@@ -77,6 +263,75 @@
       "person_id": "Q28846115",
       "organization_id": "Q2119518",
       "start_date": "2014-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5818156-A1F6370E-B00D-4DC8-BDCC-BD54AFC1020F",
+      "person_id": "Q5818156",
+      "on_behalf_of_id": "Q823648",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826383",
+      "start_date": "2014-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5862953-EF7665D2-FF6F-42E9-B2AB-18D33020BB09",
+      "person_id": "Q5862953",
+      "on_behalf_of_id": "Q1312539",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826390",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5925226-5B769ABD-86E8-4875-88BD-360E106F6663",
+      "person_id": "Q5925226",
+      "on_behalf_of_id": "Q28868044",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826375",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5999127-ABB00F3A-158A-424E-9DE7-E2683A0394BF",
+      "person_id": "Q5999127",
+      "on_behalf_of_id": "Q1395049",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826396",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",

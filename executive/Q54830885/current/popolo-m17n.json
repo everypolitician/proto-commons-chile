@@ -1,14 +1,76 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Jorge Ulloa",
+        "lang:en": "Jorge Ulloa"
+      },
+      "id": "Q5936177",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5936177"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JorgeIvanUlloaAguillon"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional del Biobío",
+        "lang:en": "Regional Government of the Biobio"
+      },
+      "id": "Q54830885",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830885"
+        }
+      ],
+      "area_id": "Q2170"
+    },
+    {
+      "name": {
+        "lang:es": "Unión Demócrata Independiente",
+        "lang:en": "Independent Democratic Union"
+      },
+      "id": "Q602131",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q602131"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5936177-3A782AAF-C15C-4C69-99D2-ADDAE8CE4D30",
+      "person_id": "Q5936177",
+      "on_behalf_of_id": "Q602131",
+      "organization_id": "Q54830885",
+      "area_id": "Q2170",
+      "role_superclass_code": "Q16579379",
+      "role_superclass": {
+        "lang:es": "Intendente de la Región del Biobío",
+        "lang:en": "Intendant of the Biobio"
+      },
+      "role_code": "Q16579379",
+      "role": {
+        "lang:es": "Intendente de la Región del Biobío",
+        "lang:en": "Intendant of the Biobio"
+      }
+    }
   ]
 }
