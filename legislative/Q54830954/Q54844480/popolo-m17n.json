@@ -1,14 +1,74 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:es": "Tania Valenzuela Rossi",
+        "lang:en": "Tania Valenzuela Rossi"
+      },
+      "id": "Q54862956",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54862956"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/core.taniavalenzuela"
+        }
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Valparaíso",
+        "lang:en": "Regional Council of Valparaíso"
+      },
+      "id": "Q54830954",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830954"
+        }
+      ],
+      "area_id": "Q219458",
+      "seat_counts": {
+        "Q54846762": "28"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Frente Amelie",
+        "lang:en": "Broad Front"
+      },
+      "id": "Q28469675",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28469675"
+        }
+      ]
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54862956-5C0A8634-054E-47E7-9E6F-F6E043FB76EA",
+      "person_id": "Q54862956",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q54830954",
+      "area_id": "Q54832131",
+      "role_code": "Q54846762",
+      "role": {
+        "lang:es": "consejero de la Consejo Regional de Valparaíso",
+        "lang:en": "counselor of the Regional Council of Valparaíso"
+      }
+    }
   ]
 }

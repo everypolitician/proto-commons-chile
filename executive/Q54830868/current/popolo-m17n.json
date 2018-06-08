@@ -1,14 +1,58 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Marco Antonio Díaz Muñoz",
+        "lang:en": "Marco Antonio Díaz Muñoz"
+      },
+      "id": "Q54862867",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54862867"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Antofagasta",
+        "lang:en": "Regional Government of Antofagasta"
+      },
+      "id": "Q54830868",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830868"
+        }
+      ],
+      "area_id": "Q2118"
+    }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54862867-D411D982-0686-4E82-8C06-9C16691D0821",
+      "person_id": "Q54862867",
+      "organization_id": "Q54830868",
+      "area_id": "Q2118",
+      "role_superclass_code": "Q54830867",
+      "role_superclass": {
+        "lang:es": "Intendente de Antofagasta",
+        "lang:en": "Intendant of Antofagasta"
+      },
+      "role_code": "Q54830867",
+      "role": {
+        "lang:es": "Intendente de Antofagasta",
+        "lang:en": "Intendant of Antofagasta"
+      }
+    }
   ]
 }
