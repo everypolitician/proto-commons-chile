@@ -281,5 +281,260 @@
       "lang:es": "NOM",
       "lang:en": "NAME_EN"
     }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831790",
+    "associations": [
+      {
+        "comment": "counselor of the Regional Council of Arica and Parinacota",
+        "position_item_id": "Q54846731"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:ap",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831803",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Valparaíso",
+        "position_item_id": "Q54846762"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:vs",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831791",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Atacama",
+        "position_item_id": "Q54846734"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:at",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831799",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional del Maule",
+        "position_item_id": "Q54846758"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:ml",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831801",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional Metropolitana de Santiago",
+        "position_item_id": "Q54846760"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:rm",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831800",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional del Libertador General Bernardo O'Higgins",
+        "position_item_id": "Q54846759"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:li",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831796",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Los Ríos",
+        "position_item_id": "Q54846745"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:lr",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831802",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Tarapacá",
+        "position_item_id": "Q54846761"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:ta",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831795",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Los Lagos",
+        "position_item_id": "Q54846743"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:ll",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831794",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Coquimbo",
+        "position_item_id": "Q54846740"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:co",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831788",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Antofagasta",
+        "position_item_id": "Q54846727"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:an",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831793",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional del Bío Bío",
+        "position_item_id": "Q54846738"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:bi",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831792",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Aysén del General Carlos Ibáñez del Campo",
+        "position_item_id": "Q54846736"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:ai",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831789",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de La Araucanía",
+        "position_item_id": "Q54846729"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:ar",
+      "column": "MS_FB_PARE"
+    }
+  },
+  {
+    "directory": "regional-constituencies",
+    "area_type_wikidata_item_id": "Q54831798",
+    "associations": [
+      {
+        "comment": "consejero de la Consejo Regional de Magallanes y de la Antártica Chilena",
+        "position_item_id": "Q54846757"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:ma",
+      "column": "MS_FB_PARE"
+    }
   }
 ]
