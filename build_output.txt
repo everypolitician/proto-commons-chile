@@ -31,9 +31,6 @@ WARNING: the district Santiago VI (Q54832146) wasn't found in the boundary data 
 WARNING: Position consejero de la Consejo Regional de Tarapacá (Q54846761) not in boundary associated_wikidata_positions
 WARNING: Position consejero de la Consejo Regional de Valparaíso (Q54846762) not in boundary associated_wikidata_positions
 WARNING: the district Valparaíso I (Q54832131) wasn't found in the boundary data for position consejero de la Consejo Regional de Valparaíso (Q54846762)
-WARNING: Position Presidente de Chile (Q466956) not in boundary associated_wikidata_positions
-WARNING: the district Chile (Q298) wasn't found in the boundary data for position Presidente de Chile (Q466956)
-WARNING: the district Chile (Q298) wasn't found in the boundary data for position Presidente de Chile (Q466956)
 WARNING: Position Intendente de Antofagasta (Q54830867) not in boundary associated_wikidata_positions
 WARNING: the district Región de Antofagasta (Q2118) wasn't found in the boundary data for position Intendente de Antofagasta (Q54830867)
 WARNING: Position Intendente de La Araucanía (Q54830870) not in boundary associated_wikidata_positions
