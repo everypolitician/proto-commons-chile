@@ -267,5 +267,19 @@
       "match": "country:cl/region:lr",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "chamber-constituencies",
+    "area_type_wikidata_item_id": "Q54826347",
+    "associations": [
+      {
+        "comment": "member of the Chamber of Deputies of Chile",
+        "position_item_id": "Q18067639"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM",
+      "lang:en": "NAME_EN"
+    }
   }
 ]

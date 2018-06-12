@@ -223,7 +223,1063 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830873"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Arica y Parinacota"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830949"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Tarapacá"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830867"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Antofagasta"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830878"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Atacama"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830887"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Coquimbo"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830946"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región Metropolitana de Santiago"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830925"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Libertador General Bernardo O'Higgins"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830918"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Maule"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579379"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Biobío"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830870"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de la Araucanía"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:lr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830893"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Los Ríos"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ll"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830890"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Los Lagos"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830881"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Aysén del General Carlos Ibáñez del Campo"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830912"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Magallanes y de la Antártica Chilena"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q219458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q219458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830952"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Valparaíso"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54826372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ap/chamber-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 1",
+        "lang:en": "District 1"
+      },
+      "parent_id": "Q2109"
+    },
+    {
+      "id": "Q54826373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ta/chamber-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 2",
+        "lang:en": "District 2"
+      },
+      "parent_id": "Q2114"
+    },
+    {
+      "id": "Q54826374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an/chamber-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 3",
+        "lang:en": "District 3"
+      },
+      "parent_id": "Q2118"
+    },
+    {
+      "id": "Q54826375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at/chamber-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 4",
+        "lang:en": "District 4"
+      },
+      "parent_id": "Q2120"
+    },
+    {
+      "id": "Q54826376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co/chamber-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 5",
+        "lang:en": "District 5"
+      },
+      "parent_id": "Q2121"
+    },
+    {
+      "id": "Q54826377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs/chamber-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 6",
+        "lang:en": "District 6"
+      },
+      "parent_id": "Q219458"
+    },
+    {
+      "id": "Q54826378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs/chamber-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 7",
+        "lang:en": "District 7"
+      },
+      "parent_id": "Q219458"
+    },
+    {
+      "id": "Q54826380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 8",
+        "lang:en": "District 8"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 9",
+        "lang:en": "District 9"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 10",
+        "lang:en": "District 10"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 11",
+        "lang:en": "District 11"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 12",
+        "lang:en": "District 12"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 13",
+        "lang:en": "District 13"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 14",
+        "lang:en": "District 14"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/chamber-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 15",
+        "lang:en": "District 15"
+      },
+      "parent_id": "Q2133"
+    },
+    {
+      "id": "Q54826389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/chamber-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 16",
+        "lang:en": "District 16"
+      },
+      "parent_id": "Q2133"
+    },
+    {
+      "id": "Q54826390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/chamber-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 17",
+        "lang:en": "District 17"
+      },
+      "parent_id": "Q2166"
+    },
+    {
+      "id": "Q54826391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/chamber-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 18",
+        "lang:en": "District 18"
+      },
+      "parent_id": "Q2166"
+    },
+    {
+      "id": "Q54826393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/chamber-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 19",
+        "lang:en": "District 19"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54826394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/chamber-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 20",
+        "lang:en": "District 20"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54826395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/chamber-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 21",
+        "lang:en": "District 21"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54826396",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar/chamber-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826396"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 22",
+        "lang:en": "District 22"
+      },
+      "parent_id": "Q2176"
+    },
+    {
+      "id": "Q54826397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar/chamber-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 23",
+        "lang:en": "District 23"
+      },
+      "parent_id": "Q2176"
+    },
+    {
+      "id": "Q54826398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:lr/chamber-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 24",
+        "lang:en": "District 24"
+      },
+      "parent_id": "Q2177"
+    },
+    {
+      "id": "Q54826399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ll/chamber-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 25",
+        "lang:en": "District 25"
+      },
+      "parent_id": "Q2178"
+    },
+    {
+      "id": "Q54826400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ll/chamber-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 26",
+        "lang:en": "District 26"
+      },
+      "parent_id": "Q2178"
+    },
+    {
+      "id": "Q54826401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai/chamber-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 27",
+        "lang:en": "District 27"
+      },
+      "parent_id": "Q2181"
+    },
+    {
+      "id": "Q54826402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma/chamber-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 28",
+        "lang:en": "District 28"
+      },
+      "parent_id": "Q2189"
+    }
   ],
   "memberships": [
     {
