@@ -12,5 +12,260 @@
       "lang:es": "NOM",
       "lang:en": "NAME"
     }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Antofagasta",
+        "position_item_id": "Q54830867"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:an",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Arica and Parinacota",
+        "position_item_id": "Q54830873"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:ap",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Atacama",
+        "position_item_id": "Q54830878"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:at",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Aysen General Carlos Ib\u00e1\u00f1ez del Campo",
+        "position_item_id": "Q54830881"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:ai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Coquimbo",
+        "position_item_id": "Q54830887"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:co",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of La Araucania",
+        "position_item_id": "Q54830870"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:ar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Los Lagos",
+        "position_item_id": "Q54830890"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:ll",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of the Metropolitan Region of Santiago",
+        "position_item_id": "Q54830946"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:rm",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Maule",
+        "position_item_id": "Q54830918"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:ml",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Libertador General Bernardo O'Higgins",
+        "position_item_id": "Q54830925"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:li",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of the Biobio",
+        "position_item_id": "Q16579379"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:bi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Valparaiso",
+        "position_item_id": "Q54830952"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:vs",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Tarapaca",
+        "position_item_id": "Q54830949"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:ta",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Magallanes and Chilean Antarctic",
+        "position_item_id": "Q54830912"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:ma",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "regions",
+    "area_type_wikidata_item_id": "Q590080",
+    "associations": [
+      {
+        "comment": "Intendant of Los R\u00edos",
+        "position_item_id": "Q54830893"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM_REGION"
+    },
+    "filter": {
+      "match": "country:cl/region:lr",
+      "column": "MS_FB"
+    }
   }
 ]
