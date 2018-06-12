@@ -55,7 +55,147 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830918"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Maule"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/core:talca"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846758"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council del Maule"
+      },
+      "name": {
+        "lang:es": "Talca"
+      },
+      "parent_id": "Q2166"
+    },
+    {
+      "id": "Q54832188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/core:cauquenes"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846758"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council del Maule"
+      },
+      "name": {
+        "lang:es": "Cauquenes"
+      },
+      "parent_id": "Q2166"
+    },
+    {
+      "id": "Q54832190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/core:curico"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846758"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council del Maule"
+      },
+      "name": {
+        "lang:es": "Curicó"
+      },
+      "parent_id": "Q2166"
+    },
+    {
+      "id": "Q54832192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/core:linares"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846758"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council del Maule"
+      },
+      "name": {
+        "lang:es": "Linares"
+      },
+      "parent_id": "Q2166"
+    }
   ],
   "memberships": [
     {

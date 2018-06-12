@@ -6,7 +6,124 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830887"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Coquimbo"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co/core:elqui"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846740"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Coquimbo"
+      },
+      "name": {
+        "lang:es": "Elqui"
+      },
+      "parent_id": "Q2121"
+    },
+    {
+      "id": "Q54832129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co/core:choapa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846740"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Coquimbo"
+      },
+      "name": {
+        "lang:es": "Choapa"
+      },
+      "parent_id": "Q2121"
+    },
+    {
+      "id": "Q54832130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co/core:limari"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846740"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Coquimbo"
+      },
+      "name": {
+        "lang:es": "Limarí"
+      },
+      "parent_id": "Q2121"
+    }
   ],
   "memberships": [
 

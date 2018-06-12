@@ -6,7 +6,147 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830881"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Aysén del General Carlos Ibáñez del Campo"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai/core:coyhaique"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846736"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Aysen General Carlos Ibáñez del Campo"
+      },
+      "name": {
+        "lang:es": "Coyhaique"
+      },
+      "parent_id": "Q2181"
+    },
+    {
+      "id": "Q54832219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai/core:aisen"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846736"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Aysen General Carlos Ibáñez del Campo"
+      },
+      "name": {
+        "lang:es": "Aisén"
+      },
+      "parent_id": "Q2181"
+    },
+    {
+      "id": "Q54832220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai/core:capitan-prat"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846736"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Aysen General Carlos Ibáñez del Campo"
+      },
+      "name": {
+        "lang:es": "Capitán Prat"
+      },
+      "parent_id": "Q2181"
+    },
+    {
+      "id": "Q54832222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai/core:general-carrera"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846736"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Aysen General Carlos Ibáñez del Campo"
+      },
+      "name": {
+        "lang:es": "General Carrera"
+      },
+      "parent_id": "Q2181"
+    }
   ],
   "memberships": [
 
