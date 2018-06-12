@@ -1,0 +1,16 @@
+[
+  {
+    "directory": "country",
+    "area_type_wikidata_item_id": "Q6256",
+    "associations": [
+      {
+        "comment": "President of Chile",
+        "position_item_id": "Q466956"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM",
+      "lang:en": "NAME"
+    }
+  }
+]
