@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ll"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830890"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Los Lagos"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

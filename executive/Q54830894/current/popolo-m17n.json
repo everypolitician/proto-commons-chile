@@ -6,7 +6,55 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:lr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830893"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Los Ríos"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
