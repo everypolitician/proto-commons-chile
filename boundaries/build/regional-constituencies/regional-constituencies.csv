@@ -1,0 +1,65 @@
+NOM,WIKIDATA,REG_NOM,MS_FB_PARE,MS_FB
+Arica,Q54832117,Arica y Parinacota Region,country:cl/region:ap,country:cl/region:ap/core:arica
+Parinacota,Q54832118,Arica y Parinacota Region,country:cl/region:ap,country:cl/region:ap/core:parinacota
+Iquique,Q54832120,Tarapacá Region,country:cl/region:ta,country:cl/region:ta/core:iquique
+Tamarugal,Q54832121,Tarapacá Region,country:cl/region:ta,country:cl/region:ta/core:tamarugal
+Tocopilla,Q54832122,Antofagasta Region,country:cl/region:an,country:cl/region:an/core:tocopilla
+El Loa,Q54832123,Antofagasta Region,country:cl/region:an,country:cl/region:an/core:el-loa
+Antofagasta,Q54832124,Antofagasta Region,country:cl/region:an,country:cl/region:an/core:antofagasta
+Copiapó,Q54832125,Atacama Region,country:cl/region:at,country:cl/region:at/core:copiapo
+Chañaral,Q54832126,Atacama Region,country:cl/region:at,country:cl/region:at/core:chanaral
+Huasco,Q54832127,Atacama Region,country:cl/region:at,country:cl/region:at/core:huasco
+Elqui,Q54832128,Coquimbo Region,country:cl/region:co,country:cl/region:co/core:elqui
+Choapa,Q54832129,Coquimbo Region,country:cl/region:co,country:cl/region:co/core:choapa
+Limarí,Q54832130,Coquimbo Region,country:cl/region:co,country:cl/region:co/core:limari
+Valparaíso I,Q54832131,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:valparaiso-i
+Valparaíso II,Q54832132,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:valparaiso-ii
+Isla de Pascua,Q54832133,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:isla-de-pascua
+Los Andes,Q54832134,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:los-andes
+Marga Marga,Q54832135,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:marga-marga
+Petorca,Q54832137,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:petorca
+Quillota,Q54832138,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:quillota
+San Antonio,Q54832139,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:san-antonio
+San Felipe,Q54832140,Valparaíso Region,country:cl/region:vs,country:cl/region:vs/core:san-felipe
+Santiago I,Q54832141,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:santiago-i
+Santiago II,Q54832142,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:santiago-ii
+Santiago III,Q54832143,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:santiago-iii
+Santiago IV,Q54832144,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:santiago-iv
+Santiago V,Q54832145,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:santiago-v
+Santiago VI,Q54832146,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:santiago-vi
+Cordillera,Q54832147,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:cordillera
+Chacabuco,Q54832148,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:chacabuco
+Maipo,Q54832149,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:maipo
+Melipilla,Q54832151,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:melipilla
+Talagante,Q54832155,Santiago Metropolitan Region,country:cl/region:rm,country:cl/region:rm/core:talagante
+Cachapoal I,Q54832158,Libertador General Bernardo O'Higgins Region,country:cl/region:li,country:cl/region:li/core:cachapoal-i
+Cachapoal II,Q54832161,Libertador General Bernardo O'Higgins Region,country:cl/region:li,country:cl/region:li/core:cachapoal-ii
+Cardenal Caro,Q54832163,Libertador General Bernardo O'Higgins Region,country:cl/region:li,country:cl/region:li/core:cardenal-caro
+Colchagua,Q54832183,Libertador General Bernardo O'Higgins Region,country:cl/region:li,country:cl/region:li/core:colchagua
+Talca,Q54832186,Maule Region,country:cl/region:ml,country:cl/region:ml/core:talca
+Cauquenes,Q54832188,Maule Region,country:cl/region:ml,country:cl/region:ml/core:cauquenes
+Curicó,Q54832190,Maule Region,country:cl/region:ml,country:cl/region:ml/core:curico
+Linares,Q54832192,Maule Region,country:cl/region:ml,country:cl/region:ml/core:linares
+Concepción I,Q54832194,Bío Bío Region,country:cl/region:bi,country:cl/region:bi/core:concepcion-i
+Concepción II,Q54832196,Bío Bío Region,country:cl/region:bi,country:cl/region:bi/core:concepcion-ii
+Concepción III,Q54832199,Bío Bío Region,country:cl/region:bi,country:cl/region:bi/core:concepcion-iii
+Arauco,Q54832201,Bío Bío Region,country:cl/region:bi,country:cl/region:bi/core:arauco
+Biobío,Q54832207,Bío Bío Region,country:cl/region:bi,country:cl/region:bi/core:biobio
+Ñuble,Q54832208,Bío Bío Region,country:cl/region:bi,country:cl/region:bi/core:nuble
+Malleco,Q54832209,Araucanía Region,country:cl/region:ar,country:cl/region:ar/core:malleco
+Cautín I,Q54832210,Araucanía Region,country:cl/region:ar,country:cl/region:ar/core:cautin-i
+Cautín II,Q54832211,Araucanía Region,country:cl/region:ar,country:cl/region:ar/core:cautin-ii
+Ranco,Q54832212,Los Ríos Region,country:cl/region:lr,country:cl/region:lr/core:ranco
+Valdivia,Q54832213,Los Ríos Region,country:cl/region:lr,country:cl/region:lr/core:valdivia
+Llanquihue,Q54832214,Los Lagos Region,country:cl/region:ll,country:cl/region:ll/core:llanquihue
+Chiloé,Q54832215,Los Lagos Region,country:cl/region:ll,country:cl/region:ll/core:chiloe
+Osorno,Q54832216,Los Lagos Region,country:cl/region:ll,country:cl/region:ll/core:osorno
+Palena,Q54832217,Los Lagos Region,country:cl/region:ll,country:cl/region:ll/core:palena
+Coyhaique,Q54832218,Aysén Region,country:cl/region:ai,country:cl/region:ai/core:coyhaique
+Aisén,Q54832219,Aysén Region,country:cl/region:ai,country:cl/region:ai/core:aisen
+Capitán Prat,Q54832220,Aysén Region,country:cl/region:ai,country:cl/region:ai/core:capitan-prat
+General Carrera,Q54832222,Aysén Region,country:cl/region:ai,country:cl/region:ai/core:general-carrera
+Magallanes,Q54832223,Magellan and the Chilean Antarctic Region,country:cl/region:ma,country:cl/region:ma/core:magallanes
+Antártica Chilena,Q54832224,Magellan and the Chilean Antarctic Region,country:cl/region:ma,country:cl/region:ma/core:antartica-chilena
+Tierra del Fuego,Q54832225,Magellan and the Chilean Antarctic Region,country:cl/region:ma,country:cl/region:ma/core:tierra-del-fuego
+Ultima Esperanza,Q54832226,Magellan and the Chilean Antarctic Region,country:cl/region:ma,country:cl/region:ma/core:ultima-esperanza

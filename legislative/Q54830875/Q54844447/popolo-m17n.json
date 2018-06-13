@@ -6,7 +6,101 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830873"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Arica y Parinacota"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ap/core:arica"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846731"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Arica and Parinacota"
+      },
+      "name": {
+        "lang:es": "Arica"
+      },
+      "parent_id": "Q2109"
+    },
+    {
+      "id": "Q54832118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ap/core:parinacota"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846731"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Arica and Parinacota"
+      },
+      "name": {
+        "lang:es": "Parinacota"
+      },
+      "parent_id": "Q2109"
+    }
   ],
   "memberships": [
 

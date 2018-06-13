@@ -6,7 +6,124 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830878"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Atacama"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at/core:copiapo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846734"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Atacama"
+      },
+      "name": {
+        "lang:es": "Copiapó"
+      },
+      "parent_id": "Q2120"
+    },
+    {
+      "id": "Q54832126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at/core:chanaral"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846734"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Atacama"
+      },
+      "name": {
+        "lang:es": "Chañaral"
+      },
+      "parent_id": "Q2120"
+    },
+    {
+      "id": "Q54832127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at/core:huasco"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846734"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Atacama"
+      },
+      "name": {
+        "lang:es": "Huasco"
+      },
+      "parent_id": "Q2120"
+    }
   ],
   "memberships": [
 

@@ -55,7 +55,193 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579379"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Biobío"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/core:concepcion-i"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846738"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Biobio"
+      },
+      "name": {
+        "lang:es": "Concepción I"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54832196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/core:concepcion-ii"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846738"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Biobio"
+      },
+      "name": {
+        "lang:es": "Concepción II"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54832199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/core:concepcion-iii"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846738"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Biobio"
+      },
+      "name": {
+        "lang:es": "Concepción III"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54832201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/core:arauco"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846738"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Biobio"
+      },
+      "name": {
+        "lang:es": "Arauco"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54832207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/core:biobio"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846738"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Biobio"
+      },
+      "name": {
+        "lang:es": "Biobío"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54832208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/core:nuble"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846738"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Biobio"
+      },
+      "name": {
+        "lang:es": "Ñuble"
+      },
+      "parent_id": "Q2170"
+    }
   ],
   "memberships": [
     {

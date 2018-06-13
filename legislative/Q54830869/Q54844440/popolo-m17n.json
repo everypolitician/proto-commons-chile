@@ -55,7 +55,124 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830867"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Antofagasta"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an/core:tocopilla"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846727"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Antofagasta"
+      },
+      "name": {
+        "lang:es": "Tocopilla"
+      },
+      "parent_id": "Q2118"
+    },
+    {
+      "id": "Q54832123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an/core:el-loa"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846727"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Antofagasta"
+      },
+      "name": {
+        "lang:es": "El Loa"
+      },
+      "parent_id": "Q2118"
+    },
+    {
+      "id": "Q54832124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an/core:antofagasta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846727"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Antofagasta"
+      },
+      "name": {
+        "lang:es": "Antofagasta"
+      },
+      "parent_id": "Q2118"
+    }
   ],
   "memberships": [
     {

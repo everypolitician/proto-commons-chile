@@ -6,7 +6,147 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830925"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Libertador General Bernardo O'Higgins"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832158",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/core:cachapoal-i"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832158"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846759"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Libertador General Bernardo O'Higgins"
+      },
+      "name": {
+        "lang:es": "Cachapoal I"
+      },
+      "parent_id": "Q2133"
+    },
+    {
+      "id": "Q54832161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/core:cachapoal-ii"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846759"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Libertador General Bernardo O'Higgins"
+      },
+      "name": {
+        "lang:es": "Cachapoal II"
+      },
+      "parent_id": "Q2133"
+    },
+    {
+      "id": "Q54832163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/core:cardenal-caro"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846759"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Libertador General Bernardo O'Higgins"
+      },
+      "name": {
+        "lang:es": "Cardenal Caro"
+      },
+      "parent_id": "Q2133"
+    },
+    {
+      "id": "Q54832183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/core:colchagua"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846759"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Libertador General Bernardo O'Higgins"
+      },
+      "name": {
+        "lang:es": "Colchagua"
+      },
+      "parent_id": "Q2133"
+    }
   ],
   "memberships": [
 

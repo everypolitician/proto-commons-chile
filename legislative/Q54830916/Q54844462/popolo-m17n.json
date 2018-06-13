@@ -6,7 +6,147 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830912"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Magallanes y de la Antártica Chilena"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma/core:magallanes"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846757"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Magallanes and Chilean Antarctic"
+      },
+      "name": {
+        "lang:es": "Magallanes"
+      },
+      "parent_id": "Q2189"
+    },
+    {
+      "id": "Q54832224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma/core:antartica-chilena"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846757"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Magallanes and Chilean Antarctic"
+      },
+      "name": {
+        "lang:es": "Antártica Chilena"
+      },
+      "parent_id": "Q2189"
+    },
+    {
+      "id": "Q54832225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma/core:tierra-del-fuego"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846757"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Magallanes and Chilean Antarctic"
+      },
+      "name": {
+        "lang:es": "Tierra del Fuego"
+      },
+      "parent_id": "Q2189"
+    },
+    {
+      "id": "Q54832226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma/core:ultima-esperanza"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846757"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of Magallanes and Chilean Antarctic"
+      },
+      "name": {
+        "lang:es": "Ultima Esperanza"
+      },
+      "parent_id": "Q2189"
+    }
   ],
   "memberships": [
 

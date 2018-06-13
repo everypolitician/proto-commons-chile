@@ -55,7 +55,308 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830946"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región Metropolitana de Santiago"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:santiago-i"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Santiago I"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:santiago-ii"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Santiago II"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:santiago-iii"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Santiago III"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:santiago-iv"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Santiago IV"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:santiago-v"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Santiago V"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:santiago-vi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Santiago VI"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:cordillera"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Cordillera"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:chacabuco"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Chacabuco"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:maipo"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Maipo"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:melipilla"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Melipilla"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54832155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/core:talagante"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846760"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "name": {
+        "lang:es": "Talagante"
+      },
+      "parent_id": "Q2131"
+    }
   ],
   "memberships": [
     {

@@ -6,7 +6,124 @@
 
   ],
   "areas": [
-
+    {
+      "id": "Q2176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54830870"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de la Araucanía"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54832209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar/core:malleco"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846729"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of La Araucanía"
+      },
+      "name": {
+        "lang:es": "Malleco"
+      },
+      "parent_id": "Q2176"
+    },
+    {
+      "id": "Q54832210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar/core:cautin-i"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846729"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of La Araucanía"
+      },
+      "name": {
+        "lang:es": "Cautín I"
+      },
+      "parent_id": "Q2176"
+    },
+    {
+      "id": "Q54832211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar/core:cautin-ii"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54832211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q54846729"
+      ],
+      "type": {
+        "lang:en": "constituency of the Regional Council of La Araucanía"
+      },
+      "name": {
+        "lang:es": "Cautín II"
+      },
+      "parent_id": "Q2176"
+    }
   ],
   "memberships": [
 
