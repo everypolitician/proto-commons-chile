@@ -145,7 +145,391 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54826315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 1",
+        "lang:en": "District 1"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 2",
+        "lang:en": "District 2"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826317",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826317"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 3",
+        "lang:en": "District 3"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826318",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826318"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 4",
+        "lang:en": "District 4"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 5",
+        "lang:en": "District 5"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 6",
+        "lang:en": "District 6"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 7",
+        "lang:en": "District 7"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 8",
+        "lang:en": "District 8"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 9",
+        "lang:en": "District 9"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 10",
+        "lang:en": "District 10"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 11",
+        "lang:en": "District 11"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 12",
+        "lang:en": "District 12"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 13",
+        "lang:en": "District 13"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 14",
+        "lang:en": "District 14"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q54826331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/senate-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18882653"
+      ],
+      "type": {
+        "lang:en": "constituency of the Senate of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 15",
+        "lang:en": "District 15"
+      },
+      "parent_id": "Q298"
+    }
   ],
   "memberships": [
     {

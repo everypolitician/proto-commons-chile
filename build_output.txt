@@ -1,6 +1,0 @@
-WARNING: Position senador de Chile (Q18882653) not in boundary associated_wikidata_positions
-WARNING: the district Distrito 11 (Q54826327) wasn't found in the boundary data for position senador de Chile (Q18882653)
-WARNING: the district Distrito 11 (Q54826327) wasn't found in the boundary data for position senador de Chile (Q18882653)
-WARNING: the district Distrito 15 (Q54826331) wasn't found in the boundary data for position senador de Chile (Q18882653)
-WARNING: the district Distrito 11 (Q54826327) wasn't found in the boundary data for position senador de Chile (Q18882653)
-WARNING: the district Distrito 5 (Q54826319) wasn't found in the boundary data for position senador de Chile (Q18882653)
