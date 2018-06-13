@@ -1,0 +1,33 @@
+Source files downloaded from http://www.ine.cl/herramientas/galeria-de-mapas/cartografia-precenso-2016/cartograf%c3%ada-precenso-2016
+
+While explicit licencing is not clearly available it is stated that:
+	The purpose of the tool is to make available to users the updated geographic information produced by the institution to any individual that requires it, such as academics, students or the general public, through the interactive and didactic tools with which the viewer counts.
+And:
+	The published maps that refer or relate to the limits and borders of Chile, do not commit in any way to the State of Chile, according to Article 2, letter g) of the DFL N ° 83 of 1979, of the Ministry of Foreign Affairs .
+
+	The layout of the limits of the Political-Administrative Division was carried out in order to be able to correctly execute the censuses and surveys that are the 	responsibility of the INE.
+
+	"The drawing of the international boundary has not been reviewed by the National 	Directorate of Borders and State Boundaries and it lacks resolution of circulation 	authorization, the international limit is merely referential."
+
+If generating these again please note they were simplified with the following GRASS commands:
+
+```
+	v.in.ogr input=/ENTER ABSOLUTE PATH/proto-commons-chile/boundaries/source/Comuna-5361.shp output=comuna5361 snap=0.01 min_area=10 -o
+	v.generalize input=comuna5361@chile layer=1 type=area type=boundary method=douglas threshold=10.0 look_ahead=7 reduction=50 slide=0.5 angle_thresh=3 degree_thresh=0 closeness_thresh=0 betweeness_thresh=0 alpha=1.0 beta=1.0 iterations=1 output=comuna5361simple10
+	v.clean input=comuna5361simple10@chile type=area tool=break output=comuna5361simple10clean
+	v.out.ogr input=comuna5361simple10clean@chile layer=1 type=area format=ESRI_Shapefile output=/ENTER ABSOLUTE PATH/proto-commons-chile/boundaries/source/comuna5361simple10clean output_layer=default -e -c
+```
+
+After that the following steps were carried out:
+
+	The output then needs to be reprojected to EPSG:4326
+
+	The output shapefile will probably have lost the non-ascii characters in the names, these can be rejoined in a virtual layer in QGIS as follows:
+		select
+			a.REGION, a.COMUNA, A.NOM_REGION, A.NOM_COMUNA, b.geometry
+		from
+			"Comuna-wgs84" a, "comuna-simplified-4326" b
+		where
+			a.COMUNA = b.comuna
+
+	Which was then saved as the sourcefile in this repository.
