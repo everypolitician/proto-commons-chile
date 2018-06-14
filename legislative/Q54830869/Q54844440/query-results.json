@@ -24,17 +24,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2118"
+        "value" : "http://www.wikidata.org/entity/Q54832124"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Antofagasta Region"
+        "value" : "Antofagasta"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Región de Antofagasta"
+        "value" : "Antofagasta"
       },
       "role" : {
         "type" : "uri",
