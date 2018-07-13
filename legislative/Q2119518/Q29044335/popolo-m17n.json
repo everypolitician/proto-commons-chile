@@ -72,29 +72,6 @@
     },
     {
       "name": {
-        "lang:es": "Florcita Motuda",
-        "lang:en": "Florcita Motuda"
-      },
-      "id": "Q5862953",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5862953"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/florcitamotuda.cl"
-        },
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/florcita.motuda.5"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:es": "Jaime Mulet",
         "lang:en": "Jaime Mulet"
       },
@@ -150,20 +127,6 @@
       "seat_counts": {
         "Q18067639": "120"
       }
-    },
-    {
-      "name": {
-        "lang:es": "Partido Humanista",
-        "lang:en": "Humanist Party"
-      },
-      "id": "Q1312539",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q1312539"
-        }
-      ]
     },
     {
       "name": {
@@ -1337,23 +1300,6 @@
       "organization_id": "Q2119518",
       "area_id": "Q54826383",
       "start_date": "2014-03-11",
-      "role_superclass_code": "Q1055894",
-      "role_superclass": {
-        "lang:es": "diputado",
-        "lang:en": "deputy"
-      },
-      "role_code": "Q18067639",
-      "role": {
-        "lang:es": "diputado de Chile",
-        "lang:en": "member of the Chamber of Deputies of Chile"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5862953-EF7665D2-FF6F-42E9-B2AB-18D33020BB09",
-      "person_id": "Q5862953",
-      "on_behalf_of_id": "Q1312539",
-      "organization_id": "Q2119518",
-      "area_id": "Q54826390",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
