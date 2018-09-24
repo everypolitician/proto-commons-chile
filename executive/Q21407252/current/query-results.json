@@ -4,17 +4,35 @@
   },
   "results" : {
     "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q54862868-609FBE5B-B5AD-4D27-BC2E-3927914D58D7"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54862868"
+      },
+      "name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Jorge Martínez Durán"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jorge Martínez Durán"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q219458"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
+      "district_name_es" : {
+        "xml:lang" : "es",
         "type" : "literal",
         "value" : "Valparaíso"
       },
-      "district_name_es" : {
-        "xml:lang" : "es",
+      "district_name_en" : {
+        "xml:lang" : "en",
         "type" : "literal",
         "value" : "Valparaíso"
       },
@@ -22,16 +40,7 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16579372"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16579372"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Intendant of Valparaiso"
-      },
-      "role_superclass_es" : {
+      "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Intendente de la Región de Valparaíso"
@@ -41,50 +50,41 @@
         "type" : "literal",
         "value" : "Intendant of Valparaiso"
       },
-      "role_es" : {
+      "facebook" : {
+        "type" : "literal",
+        "value" : "jorge.martinezduran.5"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente de la Región de Valparaíso"
+        "value" : "intendente de Chile"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54862868"
-      },
-      "name_en" : {
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jorge Martínez Durán"
-      },
-      "name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Jorge Martínez Durán"
+        "value" : "intendant"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21407252"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regional Government of Valparaiso"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
         "value" : "Gobierno Regional de Valparaíso"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q54862868-609FBE5B-B5AD-4D27-BC2E-3927914D58D7"
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Valparaiso"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q219458"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "jorge.martinezduran.5"
       }
     } ]
   }
