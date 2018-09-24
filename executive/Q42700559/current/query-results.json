@@ -6,85 +6,81 @@
     "bindings" : [ {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q219458"
+        "value" : "http://www.wikidata.org/entity/Q2166"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Valparaíso Region"
+        "value" : "Maule"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Región de Valparaíso"
+        "value" : "Maule"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830952"
+        "value" : "http://www.wikidata.org/entity/Q16579384"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830952"
+        "value" : "http://www.wikidata.org/entity/Q16579384"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Intendant of Valparaiso"
+        "value" : "Intendant of Maule"
       },
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente de Valparaíso"
+        "value" : "Intendente de la Región del Maule"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Intendant of Valparaiso"
+        "value" : "Intendant of Maule"
       },
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente de Valparaíso"
+        "value" : "Intendente de la Región del Maule"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54862868"
+        "value" : "http://www.wikidata.org/entity/Q54862869"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jorge Martínez Durán"
+        "value" : "Pablo Milad Abusleme"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Jorge Martínez Durán"
+        "value" : "Pablo Milad Abusleme"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830953"
+        "value" : "http://www.wikidata.org/entity/Q42700559"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regional Government of Valparaiso"
+        "value" : "Regional Government of Maule"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobierno Regional de Valparaíso"
+        "value" : "Gobierno Regional del Maule"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q54862868-609FBE5B-B5AD-4D27-BC2E-3927914D58D7"
+        "value" : "http://www.wikidata.org/entity/statement/Q54862869-4690DDF2-1842-406E-B9D3-7A87331CA4FC"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q219458"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "jorge.martinezduran.5"
+        "value" : "http://www.wikidata.org/entity/Q2166"
       }
     } ]
   }

@@ -4,83 +4,97 @@
   },
   "results" : {
     "bindings" : [ {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1422826"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "National Renewal"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Renovación Nacional"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56551619"
+      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2166"
+        "value" : "http://www.wikidata.org/entity/Q2120"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Maule Region"
+        "value" : "Atacama Region"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Región del Maule"
+        "value" : "Región de Atacama"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830918"
+        "value" : "http://www.wikidata.org/entity/Q16140873"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830918"
+        "value" : "http://www.wikidata.org/entity/Q16140873"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Intendant of Maule"
+        "value" : "Intendant of Atacama"
       },
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente del Maule"
+        "value" : "Intendente de la Región de Atacama"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Intendant of Maule"
+        "value" : "Intendant of Atacama"
       },
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente del Maule"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54862869"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pablo Milad Abusleme"
+        "value" : "Intendente de la Región de Atacama"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Pablo Milad Abusleme"
+        "value" : "Francisco Sánchez Barrera"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830920"
+        "value" : "http://www.wikidata.org/entity/Q17633143"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regional Government of Maule"
+        "value" : "Regional Government of Atacama"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobierno Regional del Maule"
+        "value" : "Gobierno Regional de Atacama"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q54862869-4690DDF2-1842-406E-B9D3-7A87331CA4FC"
+        "value" : "http://www.wikidata.org/entity/statement/Q56551619-009ec59f-48d4-f313-0024-4e1edd84bac2"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2166"
+        "value" : "http://www.wikidata.org/entity/Q2120"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-07-12T00:00:00Z"
       }
     } ]
   }

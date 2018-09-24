@@ -4,101 +4,87 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q602131"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Independent Democratic Union"
-      },
-      "party_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Unión Demócrata Independiente"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5936177"
-      },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2170"
+        "value" : "http://www.wikidata.org/entity/Q219458"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bío Bío Region"
+        "value" : "Valparaíso"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Región del Biobío"
+        "value" : "Valparaíso"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16579379"
+        "value" : "http://www.wikidata.org/entity/Q16579372"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16579379"
+        "value" : "http://www.wikidata.org/entity/Q16579372"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Intendant of the Biobio"
+        "value" : "Intendant of Valparaiso"
       },
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente de la Región del Biobío"
+        "value" : "Intendente de la Región de Valparaíso"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Intendant of the Biobio"
+        "value" : "Intendant of Valparaiso"
       },
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente de la Región del Biobío"
+        "value" : "Intendente de la Región de Valparaíso"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54862868"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jorge Ulloa"
+        "value" : "Jorge Martínez Durán"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Jorge Ulloa"
+        "value" : "Jorge Martínez Durán"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830885"
+        "value" : "http://www.wikidata.org/entity/Q21407252"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Regional Government of the Biobio"
+        "value" : "Regional Government of Valparaiso"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gobierno Regional del Biobío"
+        "value" : "Gobierno Regional de Valparaíso"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5936177-3A782AAF-C15C-4C69-99D2-ADDAE8CE4D30"
+        "value" : "http://www.wikidata.org/entity/statement/Q54862868-609FBE5B-B5AD-4D27-BC2E-3927914D58D7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2170"
+        "value" : "http://www.wikidata.org/entity/Q219458"
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "JorgeIvanUlloaAguillon"
+        "value" : "jorge.martinezduran.5"
       }
     } ]
   }

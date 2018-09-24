@@ -6,169 +6,169 @@
     "bindings" : [ {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q298"
+        "value" : "http://www.wikidata.org/entity/Q2170"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chile"
+        "value" : "Bío Bío Region"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Chile"
+        "value" : "Región del Biobío"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q466956"
+        "value" : "http://www.wikidata.org/entity/Q16579379"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q466956"
+        "value" : "http://www.wikidata.org/entity/Q16579379"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of Chile"
+        "value" : "Intendant of the Biobio"
       },
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "presidente de Chile"
+        "value" : "Intendente de la Región del Biobío"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of Chile"
+        "value" : "Intendant of the Biobio"
       },
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "presidente de Chile"
+        "value" : "Intendente de la Región del Biobío"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q306"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sebastian Piñera"
+        "value" : "http://www.wikidata.org/entity/Q56479521"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Sebastián Piñera Echenique"
+        "value" : "Jorge Iván Ulloa Aguillón"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29077203"
+        "value" : "http://www.wikidata.org/entity/Q21409339"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cabinet of Chile"
+        "value" : "Regional Government of the Biobio"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gabinete de Chile"
+        "value" : "Gobierno Regional del Bío-Bío"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q306-01ff1436-45ef-c01a-6862-2c6ea04ae301"
+        "value" : "http://www.wikidata.org/entity/statement/Q56479521-9DC8766E-040A-45A3-B9A8-BB477CCC5F9B"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q298"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2018-03-11T00:00:00Z"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "SebastianPineraPresidente"
+        "value" : "http://www.wikidata.org/entity/Q2170"
       }
     }, {
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q298"
+        "value" : "http://www.wikidata.org/entity/Q2170"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chile"
+        "value" : "Bío Bío Region"
       },
       "district_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Chile"
+        "value" : "Región del Biobío"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q466956"
+        "value" : "http://www.wikidata.org/entity/Q16579379"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q466956"
+        "value" : "http://www.wikidata.org/entity/Q16579379"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of Chile"
+        "value" : "Intendant of the Biobio"
       },
       "role_superclass_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "presidente de Chile"
+        "value" : "Intendente de la Región del Biobío"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "President of Chile"
+        "value" : "Intendant of the Biobio"
       },
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "presidente de Chile"
+        "value" : "Intendente de la Región del Biobío"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q306"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sebastian Piñera"
+        "value" : "http://www.wikidata.org/entity/Q5936177"
       },
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Sebastián Piñera Echenique"
+        "value" : "Jorge Ulloa"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q29077203"
+        "value" : "http://www.wikidata.org/entity/Q21409339"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Cabinet of Chile"
+        "value" : "Regional Government of the Biobio"
       },
       "org_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Gabinete de Chile"
+        "value" : "Gobierno Regional del Bío-Bío"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q306-01ff1436-45ef-c01a-6862-2c6ea04ae301"
+        "value" : "http://www.wikidata.org/entity/statement/Q5936177-3A782AAF-C15C-4C69-99D2-ADDAE8CE4D30"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q298"
+        "value" : "http://www.wikidata.org/entity/Q2170"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q602131"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Independent Democratic Union"
+      },
+      "party_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Unión Demócrata Independiente"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jorge Ulloa"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -177,7 +177,7 @@
       },
       "facebook" : {
         "type" : "literal",
-        "value" : "SPinera"
+        "value" : "JorgeIvanUlloaAguillon"
       }
     } ]
   }
