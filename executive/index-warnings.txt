@@ -1,4 +1,5 @@
-WARNING: no head of government position for Región de Ñuble (Q24076693)
+WARNING: no executive for presidente de la Junta Nacional de Gobierno de Chile (Q6085561) in Chile (Q298)
+WARNING: no executive for director supremo de Chile (Q7155734) in Chile (Q298)
 WARNING: no head of government position for Viña del Mar (Q184345)
 WARNING: no head of government position for Santiago de Chile (Q2887)
 WARNING: no head of government position for Antofagasta (Q3612)

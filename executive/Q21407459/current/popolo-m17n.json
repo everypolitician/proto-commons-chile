@@ -1,0 +1,76 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Magallanes y Antártica Chilena",
+        "lang:en": "Regional Government of Magallanes and Chilean Antarctic"
+      },
+      "id": "Q21407459",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21407459"
+        }
+      ],
+      "area_id": "Q2189"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q2189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579367"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Magallanes y de la Antártica Chilena"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

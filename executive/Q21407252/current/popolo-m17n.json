@@ -1,0 +1,109 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Jorge Martínez Durán",
+        "lang:en": "Jorge Martínez Durán"
+      },
+      "id": "Q54862868",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54862868"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jorge.martinezduran.5"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Valparaíso",
+        "lang:en": "Regional Government of Valparaiso"
+      },
+      "id": "Q21407252",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21407252"
+        }
+      ],
+      "area_id": "Q219458"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q219458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q219458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579372"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Valparaíso"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54862868-609FBE5B-B5AD-4D27-BC2E-3927914D58D7",
+      "person_id": "Q54862868",
+      "organization_id": "Q21407252",
+      "area_id": "Q219458",
+      "role_superclass_code": "Q7887637",
+      "role_superclass": {
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
+      },
+      "role_code": "Q16579372",
+      "role": {
+        "lang:es": "Intendente de la Región de Valparaíso",
+        "lang:en": "Intendant of Valparaiso"
+      }
+    }
+  ]
+}

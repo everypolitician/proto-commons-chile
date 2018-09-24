@@ -1,0 +1,76 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de O'Higgins",
+        "lang:en": "Regional Government of Libertador General Bernardo O'Higgins"
+      },
+      "id": "Q21526939",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21526939"
+        }
+      ],
+      "area_id": "Q2133"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q2133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579381"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Libertador General Bernardo O'Higgins"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

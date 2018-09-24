@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Los Ríos",
+        "lang:en": "Regional Government of Los Ríos"
+      },
+      "id": "Q54830894",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830894"
+        }
+      ],
+      "area_id": "Q2177"
+    }
   ],
   "areas": [
     {
@@ -19,7 +33,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830893"
+        "Q17634934"
       ],
       "type": {
         "lang:es": "región de Chile",

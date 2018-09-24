@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Los Lagos",
+        "lang:en": "Regional Government of Los Lagos"
+      },
+      "id": "Q54830891",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830891"
+        }
+      ],
+      "area_id": "Q2178"
+    }
   ],
   "areas": [
     {
@@ -19,7 +33,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830890"
+        "Q16579364"
       ],
       "type": {
         "lang:es": "región de Chile",

@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Tarapacá",
+        "lang:en": "Regional Council of Tarapaca"
+      },
+      "id": "Q54830951",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830951"
+        }
+      ],
+      "area_id": "Q2114",
+      "seat_counts": {
+        "Q54846761": "14"
+      }
+    }
   ],
   "areas": [
     {
@@ -19,7 +36,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830949"
+        "Q16579369"
       ],
       "type": {
         "lang:es": "región de Chile",

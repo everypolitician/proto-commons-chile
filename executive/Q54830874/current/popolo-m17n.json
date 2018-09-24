@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Arica y Parinacota",
+        "lang:en": "Regional Government of Arica and Parinacota"
+      },
+      "id": "Q54830874",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830874"
+        }
+      ],
+      "area_id": "Q2109"
+    }
   ],
   "areas": [
     {
@@ -19,7 +33,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830873"
+        "Q16579360"
       ],
       "type": {
         "lang:es": "región de Chile",
