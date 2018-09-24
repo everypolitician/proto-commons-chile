@@ -2,77 +2,74 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Jorge Ulloa",
-        "lang:en": "Jorge Ulloa"
+        "lang:es": "Ximena Órdenes",
+        "lang:en": "Ximena Órdenes"
       },
-      "id": "Q5936177",
+      "id": "Q50707470",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q5936177"
+          "identifier": "Q50707470"
         }
       ],
       "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/JorgeIvanUlloaAguillon"
-        }
+
       ]
     }
   ],
   "organizations": [
     {
       "name": {
-        "lang:es": "Gobierno Regional del Biobío",
-        "lang:en": "Regional Government of the Biobio"
+        "lang:es": "Gobierno Regional de Aysén",
+        "lang:en": "Regional Government of Aysen General Carlos Ibáñez del Campo"
       },
-      "id": "Q54830885",
+      "id": "Q21519508",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q54830885"
+          "identifier": "Q21519508"
         }
       ],
-      "area_id": "Q2170"
+      "area_id": "Q2181"
     },
     {
       "name": {
-        "lang:es": "Unión Demócrata Independiente",
-        "lang:en": "Independent Democratic Union"
+        "lang:es": "Partido por la Democracia",
+        "lang:en": "Party for Democracy"
       },
-      "id": "Q602131",
+      "id": "Q1759292",
       "classification": "party",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q602131"
+          "identifier": "Q1759292"
         }
       ]
     }
   ],
   "areas": [
     {
-      "id": "Q2170",
+      "id": "Q2181",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:bi"
+          "identifier": "country:cl/region:ai"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2170"
+          "identifier": "Q2181"
         }
       ],
       "associated_wikidata_positions": [
-        "Q16579379"
+        "Q16579362"
       ],
       "type": {
         "lang:es": "región de Chile",
         "lang:en": "region of Chile"
       },
       "name": {
-        "lang:es": "Región del Biobío"
+        "lang:es": "Región de Aysén del General Carlos Ibáñez del Campo"
       },
       "parent_id": "Q298"
     },
@@ -104,20 +101,20 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5936177-3A782AAF-C15C-4C69-99D2-ADDAE8CE4D30",
-      "person_id": "Q5936177",
-      "on_behalf_of_id": "Q602131",
-      "organization_id": "Q54830885",
-      "area_id": "Q2170",
-      "role_superclass_code": "Q16579379",
+      "id": "http://www.wikidata.org/entity/statement/Q50707470-873ee2e9-4c02-cc8d-1113-5180573968ce",
+      "person_id": "Q50707470",
+      "on_behalf_of_id": "Q1759292",
+      "organization_id": "Q21519508",
+      "area_id": "Q2181",
+      "role_superclass_code": "Q16579362",
       "role_superclass": {
-        "lang:es": "Intendente de la Región del Biobío",
-        "lang:en": "Intendant of the Biobio"
+        "lang:es": "Intendente de la Región de Aysén del General Carlos Ibáñez del Campo",
+        "lang:en": "Intendant of Aysen General Carlos Ibáñez del Campo"
       },
-      "role_code": "Q16579379",
+      "role_code": "Q16579362",
       "role": {
-        "lang:es": "Intendente de la Región del Biobío",
-        "lang:en": "Intendant of the Biobio"
+        "lang:es": "Intendente de la Región de Aysén del General Carlos Ibáñez del Campo",
+        "lang:en": "Intendant of Aysen General Carlos Ibáñez del Campo"
       }
     }
   ]

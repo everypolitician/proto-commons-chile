@@ -7,26 +7,26 @@
   ],
   "areas": [
     {
-      "id": "Q2189",
+      "id": "Q2133",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:ma"
+          "identifier": "country:cl/region:li"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2189"
+          "identifier": "Q2133"
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830912"
+        "Q16579381"
       ],
       "type": {
         "lang:es": "región de Chile",
         "lang:en": "region of Chile"
       },
       "name": {
-        "lang:es": "Región de Magallanes y de la Antártica Chilena"
+        "lang:es": "Región del Libertador General Bernardo O'Higgins"
       },
       "parent_id": "Q298"
     },

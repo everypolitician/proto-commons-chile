@@ -2,14 +2,14 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Marco Antonio Díaz Muñoz",
-        "lang:en": "Marco Antonio Díaz Muñoz"
+        "lang:es": "Pablo Milad Abusleme",
+        "lang:en": "Pablo Milad Abusleme"
       },
-      "id": "Q54862867",
+      "id": "Q54862869",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q54862867"
+          "identifier": "Q54862869"
         }
       ],
       "links": [
@@ -20,42 +20,42 @@
   "organizations": [
     {
       "name": {
-        "lang:es": "Gobierno Regional de Antofagasta",
-        "lang:en": "Regional Government of Antofagasta"
+        "lang:es": "Gobierno Regional del Maule",
+        "lang:en": "Regional Government of Maule"
       },
-      "id": "Q54830868",
+      "id": "Q42700559",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q54830868"
+          "identifier": "Q42700559"
         }
       ],
-      "area_id": "Q2118"
+      "area_id": "Q2166"
     }
   ],
   "areas": [
     {
-      "id": "Q2118",
+      "id": "Q2166",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:an"
+          "identifier": "country:cl/region:ml"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2118"
+          "identifier": "Q2166"
         }
       ],
       "associated_wikidata_positions": [
-        "Q16140866"
+        "Q16579384"
       ],
       "type": {
         "lang:es": "región de Chile",
         "lang:en": "region of Chile"
       },
       "name": {
-        "lang:es": "Región de Antofagasta"
+        "lang:es": "Región del Maule"
       },
       "parent_id": "Q298"
     },
@@ -87,19 +87,19 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q54862867-D411D982-0686-4E82-8C06-9C16691D0821",
-      "person_id": "Q54862867",
-      "organization_id": "Q54830868",
-      "area_id": "Q2118",
-      "role_superclass_code": "Q16140866",
+      "id": "http://www.wikidata.org/entity/statement/Q54862869-4690DDF2-1842-406E-B9D3-7A87331CA4FC",
+      "person_id": "Q54862869",
+      "organization_id": "Q42700559",
+      "area_id": "Q2166",
+      "role_superclass_code": "Q16579384",
       "role_superclass": {
-        "lang:es": "Intendente de la Región de Antofagasta",
-        "lang:en": "Intendant of Antofagasta"
+        "lang:es": "Intendente de la Región del Maule",
+        "lang:en": "Intendant of Maule"
       },
-      "role_code": "Q16140866",
+      "role_code": "Q16579384",
       "role": {
-        "lang:es": "Intendente de la Región de Antofagasta",
-        "lang:en": "Intendant of Antofagasta"
+        "lang:es": "Intendente de la Región del Maule",
+        "lang:en": "Intendant of Maule"
       }
     }
   ]
