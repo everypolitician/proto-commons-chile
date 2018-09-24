@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Los Ríos",
+        "lang:en": "Regional Council of Los Ríos"
+      },
+      "id": "Q54830895",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830895"
+        }
+      ],
+      "area_id": "Q2177",
+      "seat_counts": {
+        "Q54846745": "14"
+      }
+    }
   ],
   "areas": [
     {

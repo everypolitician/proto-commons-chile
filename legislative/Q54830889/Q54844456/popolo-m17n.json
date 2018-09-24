@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Coquimbo",
+        "lang:en": "Regional Council of Coquimbo"
+      },
+      "id": "Q54830889",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830889"
+        }
+      ],
+      "area_id": "Q2121",
+      "seat_counts": {
+        "Q54846740": "16"
+      }
+    }
   ],
   "areas": [
     {

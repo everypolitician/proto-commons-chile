@@ -1,9 +1,55 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Jorge Vargas",
+        "lang:en": "Jorge Vargas"
+      },
+      "id": "Q2672452",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2672452"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Libertador General Bernardo O'Higgins",
+        "lang:en": "Regional Council of Libertador General Bernardo O'Higgins"
+      },
+      "id": "Q54830929",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830929"
+        }
+      ],
+      "area_id": "Q2133",
+      "seat_counts": {
+        "Q54846759": "16"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Chile Vamos",
+        "lang:en": "Chile Vamos"
+      },
+      "id": "Q20859150",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20859150"
+        }
+      ]
+    }
   ],
   "areas": [
     {
@@ -149,6 +195,18 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2672452-929e1156-40dd-816e-b12b-25cbc11230ad",
+      "person_id": "Q2672452",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q54830929",
+      "area_id": "Q54832163",
+      "start_date": "2018-03-11",
+      "role_code": "Q54846759",
+      "role": {
+        "lang:es": "consejero del Consejo Regional del Libertador General Bernardo O'Higgins",
+        "lang:en": "counselor of the Regional Council of Libertador General Bernardo O'Higgins"
+      }
+    }
   ]
 }

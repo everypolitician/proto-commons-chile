@@ -106,10 +106,10 @@
       "on_behalf_of_id": "Q1759292",
       "organization_id": "Q21519508",
       "area_id": "Q2181",
-      "role_superclass_code": "Q16579362",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región de Aysén del General Carlos Ibáñez del Campo",
-        "lang:en": "Intendant of Aysen General Carlos Ibáñez del Campo"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q16579362",
       "role": {

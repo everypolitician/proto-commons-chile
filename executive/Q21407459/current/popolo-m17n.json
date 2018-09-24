@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Magallanes y Antártica Chilena",
+        "lang:en": "Regional Government of Magallanes and Chilean Antarctic"
+      },
+      "id": "Q21407459",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21407459"
+        }
+      ],
+      "area_id": "Q2189"
+    }
   ],
   "areas": [
     {

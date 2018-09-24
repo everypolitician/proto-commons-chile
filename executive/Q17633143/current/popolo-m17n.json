@@ -106,10 +106,10 @@
       "organization_id": "Q17633143",
       "area_id": "Q2120",
       "start_date": "2018-07-12",
-      "role_superclass_code": "Q16140873",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región de Atacama",
-        "lang:en": "Intendant of Atacama"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q16140873",
       "role": {

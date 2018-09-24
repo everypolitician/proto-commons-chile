@@ -91,10 +91,10 @@
       "person_id": "Q54862867",
       "organization_id": "Q54830868",
       "area_id": "Q2118",
-      "role_superclass_code": "Q16140866",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región de Antofagasta",
-        "lang:en": "Intendant of Antofagasta"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q16140866",
       "role": {

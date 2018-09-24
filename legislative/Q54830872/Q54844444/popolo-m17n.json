@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de La Araucanía",
+        "lang:en": "Regional Council of La Araucanía"
+      },
+      "id": "Q54830872",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830872"
+        }
+      ],
+      "area_id": "Q2176",
+      "seat_counts": {
+        "Q54846729": "20"
+      }
+    }
   ],
   "areas": [
     {

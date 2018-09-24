@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Atacama",
+        "lang:en": "Regional Council of Atacama"
+      },
+      "id": "Q54830880",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830880"
+        }
+      ],
+      "area_id": "Q2120",
+      "seat_counts": {
+        "Q54846734": "14"
+      }
+    }
   ],
   "areas": [
     {

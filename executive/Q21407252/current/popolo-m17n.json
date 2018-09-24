@@ -94,10 +94,10 @@
       "person_id": "Q54862868",
       "organization_id": "Q21407252",
       "area_id": "Q219458",
-      "role_superclass_code": "Q16579372",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región de Valparaíso",
-        "lang:en": "Intendant of Valparaiso"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q16579372",
       "role": {

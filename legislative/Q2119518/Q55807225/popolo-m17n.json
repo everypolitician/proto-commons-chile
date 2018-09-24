@@ -3910,6 +3910,22 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q16543081-CA4A12ED-FD17-4053-8018-B70D51B929C3",
+      "person_id": "Q16543081",
+      "organization_id": "Q2119518",
+      "start_date": "1998-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q16543585-911162C6-72D7-4339-9893-698A77BABE0F",
       "person_id": "Q16543585",
       "on_behalf_of_id": "Q14539865",
@@ -5468,6 +5484,22 @@
       "person_id": "Q5750685",
       "on_behalf_of_id": "Q20859150",
       "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5818156-0de66f5c-4dc7-63ba-1601-810eb93e47e9",
+      "person_id": "Q5818156",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",
