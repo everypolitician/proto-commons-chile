@@ -1,0 +1,8 @@
+REGION,COMUNA,NOM_REGION,NOM,MS_FB_PARE,MS_FB,WIKIDATA
+2,2101,REGIÓN DE ANTOFAGASTA,Antofagasta,country:cl/region:an,country:cl/region:an/municipalidad:antofagasta,Q3612
+5,5101,REGIÓN DE VALPARAÍSO,Valparaíso,country:cl/region:vs,country:cl/region:vs/municipalidad:valparaiso,Q33986
+5,5109,REGIÓN DE VALPARAÍSO,Viña Del Mar,country:cl/region:vs,country:cl/region:vs/municipalidad:vina-del-mar,Q184345
+13,13110,REGIÓN METROPOLITANA DE SANTIAGO,La Florida,country:cl/region:rm,country:cl/region:rm/municipalidad:la-florida,Q14460
+13,13119,REGIÓN METROPOLITANA DE SANTIAGO,Maipú,country:cl/region:rm,country:cl/region:rm/municipalidad:maipu,Q16918
+13,13201,REGIÓN METROPOLITANA DE SANTIAGO,Puente Alto,country:cl/region:rm,country:cl/region:rm/municipalidad:puente-alto,Q51594
+13,13101,REGIÓN METROPOLITANA DE SANTIAGO,Santiago,country:cl/region:rm,country:cl/region:rm/municipalidad:santiago,Q188002
