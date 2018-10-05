@@ -16,7 +16,7 @@
       "party_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Frente Amelie"
+        "value" : "Frente Amplio"
       },
       "statement" : {
         "type" : "uri",
@@ -48,7 +48,7 @@
       "role_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "consejero de la Consejo Regional de Valparaíso"
+        "value" : "consejero del Consejo Regional de Valparaíso"
       },
       "item" : {
         "type" : "uri",

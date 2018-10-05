@@ -3,12 +3,12 @@ SELECT ?statement
        ?party ?party_name_es ?party_name_en
        ?district ?district_name_es ?district_name_en
        ?role ?role_es ?role_en
-       ?role_superclass ?role_superclass_es ?role_superclass_en
        ?start ?end ?facebook
-       ?org ?org_es ?org_en ?org_jurisdiction ?org_seat_count
+       ?role_superclass ?role_superclass_es ?role_superclass_en
+       ?org ?org_es ?org_en ?org_jurisdiction
 WHERE {
-  BIND(wd:Q18882653 as ?role) .
-  BIND(wd:Q2119458 as ?org) .
+  VALUES ?role_superclass { wd:Q9008867 }
+  BIND(wd:Q21191685 AS ?org)
   OPTIONAL {
   ?org rdfs:label ?org_es
   FILTER(LANG(?org_es) = "es")
@@ -21,9 +21,6 @@ OPTIONAL {
 
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
-  }
-  OPTIONAL {
-    ?org wdt:P1342 ?org_seat_count
   }
   ?item p:P39 ?statement .
   OPTIONAL {
@@ -47,10 +44,8 @@ OPTIONAL {
   FILTER(LANG(?role_en) = "en")
 }
 
+  ?role wdt:P279* ?role_superclass .
   OPTIONAL {
-    ?role wdt:P279 ?role_superclass .
-    ?role_superclass wdt:P279+ wd:Q4175034
-    OPTIONAL {
   ?role_superclass rdfs:label ?role_superclass_es
   FILTER(LANG(?role_superclass_es) = "es")
 }
@@ -60,12 +55,9 @@ OPTIONAL {
   FILTER(LANG(?role_superclass_en) = "en")
 }
 
-  }
-  ?statement pq:P2937 wd:Q29044335 .
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
+  ?role wdt:P361 ?org .
   OPTIONAL {
-    ?statement pq:P768 ?district.
+    ?role p:P1001/ps:P1001 ?district .
     OPTIONAL {
   ?district rdfs:label ?district_name_es
   FILTER(LANG(?district_name_es) = "es")
@@ -77,8 +69,14 @@ OPTIONAL {
 }
 
   }
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+  FILTER(?end_or_sentinel >= NOW())
+  # Find any current party membership:
   OPTIONAL {
-    ?statement pq:P4100 ?party.
+    ?item p:P102 ?party_statement .
+    ?party_statement ps:P102 ?party .
     OPTIONAL {
   ?party rdfs:label ?party_name_es
   FILTER(LANG(?party_name_es) = "es")
@@ -89,7 +87,9 @@ OPTIONAL {
   FILTER(LANG(?party_name_en) = "en")
 }
 
+    OPTIONAL { ?party_statement pq:P582 ?end_party }
+    BIND(COALESCE(?end_party, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?party_end_or_sentinel)
+    FILTER(?party_end_or_sentinel >= NOW())
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-  
-} ORDER BY ?item ?role ?term ?start ?end
+} ORDER BY ?item ?role ?district ?start ?end
