@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Arica y Parinacota",
+        "lang:en": "Regional Council of Arica and Parinacota"
+      },
+      "id": "Q54830875",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830875"
+        }
+      ],
+      "area_id": "Q2109",
+      "seat_counts": {
+        "Q54846731": "14"
+      }
+    }
   ],
   "areas": [
     {
@@ -19,7 +36,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830873"
+        "Q16579360"
       ],
       "type": {
         "lang:es": "región de Chile",

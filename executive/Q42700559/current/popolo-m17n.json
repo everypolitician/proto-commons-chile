@@ -1,0 +1,106 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Pablo Milad Abusleme",
+        "lang:en": "Pablo Milad Abusleme"
+      },
+      "id": "Q54862869",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54862869"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gobierno Regional del Maule",
+        "lang:en": "Regional Government of Maule"
+      },
+      "id": "Q42700559",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q42700559"
+        }
+      ],
+      "area_id": "Q2166"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q2166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579384"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Maule"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54862869-4690DDF2-1842-406E-B9D3-7A87331CA4FC",
+      "person_id": "Q54862869",
+      "organization_id": "Q42700559",
+      "area_id": "Q2166",
+      "role_superclass_code": "Q7887637",
+      "role_superclass": {
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
+      },
+      "role_code": "Q16579384",
+      "role": {
+        "lang:es": "Intendente de la Región del Maule",
+        "lang:en": "Intendant of Maule"
+      }
+    }
+  ]
+}

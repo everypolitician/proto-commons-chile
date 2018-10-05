@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "municipal council of Antofagasta"
+      },
+      "id": "Q56883955",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56883955"
+        }
+      ],
+      "area_id": "Q3612",
+      "seat_counts": {
+        "Q56883957": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

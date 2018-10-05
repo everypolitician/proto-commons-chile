@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Aysén del General Carlos Ibañez del Campo",
+        "lang:en": "Regional Council of Aysen General Carlos Ibáñez del Campo"
+      },
+      "id": "Q54830883",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830883"
+        }
+      ],
+      "area_id": "Q2181",
+      "seat_counts": {
+        "Q54846736": "14"
+      }
+    }
   ],
   "areas": [
     {
@@ -19,7 +36,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830881"
+        "Q16579362"
       ],
       "type": {
         "lang:es": "región de Chile",

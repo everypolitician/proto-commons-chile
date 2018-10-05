@@ -1,0 +1,168 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Ximena Órdenes",
+        "lang:en": "Ximena Órdenes"
+      },
+      "id": "Q50707470",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50707470"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Geoconda Navarrete"
+      },
+      "id": "Q56737271",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56737271"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Aysén",
+        "lang:en": "Regional Government of Aysen General Carlos Ibáñez del Campo"
+      },
+      "id": "Q21519508",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21519508"
+        }
+      ],
+      "area_id": "Q2181"
+    },
+    {
+      "name": {
+        "lang:es": "Evolución Política",
+        "lang:en": "Political Evolution"
+      },
+      "id": "Q16565533",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16565533"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido por la Democracia",
+        "lang:en": "Party for Democracy"
+      },
+      "id": "Q1759292",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1759292"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q2181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579362"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Aysén del General Carlos Ibáñez del Campo"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50707470-873ee2e9-4c02-cc8d-1113-5180573968ce",
+      "person_id": "Q50707470",
+      "on_behalf_of_id": "Q1759292",
+      "organization_id": "Q21519508",
+      "area_id": "Q2181",
+      "role_superclass_code": "Q7887637",
+      "role_superclass": {
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
+      },
+      "role_code": "Q16579362",
+      "role": {
+        "lang:es": "Intendente de la Región de Aysén del General Carlos Ibáñez del Campo",
+        "lang:en": "Intendant of Aysen General Carlos Ibáñez del Campo"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56737271-2b0c7acf-48c6-adc2-bb7c-179e16e2c64c",
+      "person_id": "Q56737271",
+      "on_behalf_of_id": "Q16565533",
+      "organization_id": "Q21519508",
+      "area_id": "Q2181",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q7887637",
+      "role_superclass": {
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
+      },
+      "role_code": "Q16579362",
+      "role": {
+        "lang:es": "Intendente de la Región de Aysén del General Carlos Ibáñez del Campo",
+        "lang:en": "Intendant of Aysen General Carlos Ibáñez del Campo"
+      }
+    }
+  ]
+}

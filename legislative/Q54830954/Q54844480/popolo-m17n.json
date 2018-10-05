@@ -41,7 +41,7 @@
     },
     {
       "name": {
-        "lang:es": "Frente Amelie",
+        "lang:es": "Frente Amplio",
         "lang:en": "Broad Front"
       },
       "id": "Q28469675",
@@ -68,7 +68,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830952"
+        "Q16579372"
       ],
       "type": {
         "lang:es": "región de Chile",
@@ -321,7 +321,7 @@
       "area_id": "Q54832131",
       "role_code": "Q54846762",
       "role": {
-        "lang:es": "consejero de la Consejo Regional de Valparaíso",
+        "lang:es": "consejero del Consejo Regional de Valparaíso",
         "lang:en": "counselor of the Regional Council of Valparaíso"
       }
     }

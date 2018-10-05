@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "municipal council of Valparaíso"
+      },
+      "id": "Q56883958",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56883958"
+        }
+      ],
+      "area_id": "Q33986",
+      "seat_counts": {
+        "Q56883960": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

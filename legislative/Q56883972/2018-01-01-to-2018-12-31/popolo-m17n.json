@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "municipal council of Puente Alto"
+      },
+      "id": "Q56883972",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56883972"
+        }
+      ],
+      "area_id": "Q51594",
+      "seat_counts": {
+        "Q56883974": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

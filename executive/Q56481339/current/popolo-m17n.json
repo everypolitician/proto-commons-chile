@@ -1,0 +1,28 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Ñuble",
+        "lang:en": "Regional Government of Ñuble"
+      },
+      "id": "Q56481339",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56481339"
+        }
+      ],
+      "area_id": "Q24076693"
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}

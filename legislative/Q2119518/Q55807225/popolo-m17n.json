@@ -1,0 +1,6284 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Andrés Celis Montt",
+        "lang:en": "Andrés Celis Montt"
+      },
+      "id": "Q12155806",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12155806"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Daniel Núñez Arancibia",
+        "lang:en": "Daniel Núñez Arancibia"
+      },
+      "id": "Q15993808",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15993808"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Antonio Coloma Álamos",
+        "lang:en": "Juan Antonio Coloma Álamos"
+      },
+      "id": "Q16295677",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16295677"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Álvarez-Salamanca Ramírez",
+        "lang:en": "Pedro Álvarez-Salamanca Ramírez"
+      },
+      "id": "Q16297362",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16297362"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jaime Bellolio",
+        "lang:en": "Jaime Bellolio"
+      },
+      "id": "Q16297719",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16297719"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gabriel Boric",
+        "lang:en": "Gabriel Boric"
+      },
+      "id": "Q16297876",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16297876"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Daniella Cicardini",
+        "lang:en": "Daniella Cicardini"
+      },
+      "id": "Q16298404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16298404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Manuel Fuenzalida",
+        "lang:en": "Juan Manuel Fuenzalida"
+      },
+      "id": "Q16300668",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16300668"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fidel Espinoza",
+        "lang:en": "Fidel Espinoza"
+      },
+      "id": "Q16300930",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16300930"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Joaquín Lavín León",
+        "lang:en": "Joaquín Lavín León"
+      },
+      "id": "Q16301053",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16301053"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Celso Morales",
+        "lang:en": "Celso Morales"
+      },
+      "id": "Q16301594",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16301594"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Paulina Núñez Urrutia",
+        "lang:en": "Paulina Núñez Urrutia"
+      },
+      "id": "Q16301870",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16301870"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Vlado Mirosevic",
+        "lang:en": "Vlado Mirosevic"
+      },
+      "id": "Q16302060",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16302060"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frank Sauerbaum",
+        "lang:en": "Frank Sauerbaum"
+      },
+      "id": "Q16302326",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16302326"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Abel Jarpa",
+        "lang:en": "Carlos Abel Jarpa"
+      },
+      "id": "Q16543081",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16543081"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carmen Hertz",
+        "lang:en": "Carmen Hertz"
+      },
+      "id": "Q16543585",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16543585"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Fernando Meza Moncada",
+        "lang:en": "Fernando Meza Moncada"
+      },
+      "id": "Q16567135",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16567135"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Pérez Arriagada",
+        "lang:en": "José Pérez Arriagada"
+      },
+      "id": "Q16583716",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16583716"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Leonardo Soto",
+        "lang:en": "Leonardo Soto"
+      },
+      "id": "Q16590179",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16590179"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Rocafull",
+        "lang:en": "Luis Rocafull"
+      },
+      "id": "Q16594695",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16594695"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel Matta Aragay",
+        "lang:en": "Manuel Matta Aragay"
+      },
+      "id": "Q16598535",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16598535"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "René Manuel García",
+        "lang:en": "René Manuel García"
+      },
+      "id": "Q16624860",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16624860"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rodrigo González Torres",
+        "lang:en": "Rodrigo González Torres"
+      },
+      "id": "Q16625894",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16625894"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Rolando Rentería Möller",
+        "lang:en": "Rolando Rentería Möller"
+      },
+      "id": "Q16626015",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16626015"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Diego Paulsen",
+        "lang:en": "Diego Paulsen"
+      },
+      "id": "Q17478200",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17478200"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gonzalo Fuenzalida",
+        "lang:en": "Gonzalo Fuenzalida"
+      },
+      "id": "Q18223413",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18223413"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Bernardo Berger",
+        "lang:en": "Bernardo Berger"
+      },
+      "id": "Q18285619",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18285619"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Osvaldo Urrutia",
+        "lang:en": "Osvaldo Urrutia"
+      },
+      "id": "Q18286601",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18286601"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Félix González Gatica",
+        "lang:en": "Félix González Gatica"
+      },
+      "id": "Q18620679",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18620679"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Iván Flores García",
+        "lang:en": "Iván Flores García"
+      },
+      "id": "Q18719731",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18719731"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Tomás Hirsch",
+        "lang:en": "Tomás Hirsch"
+      },
+      "id": "Q1969763",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1969763"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Guillermo Ramírez Diez",
+        "lang:en": "Guillermo Ramírez Diez"
+      },
+      "id": "Q19886438",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19886438"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jenny Álvarez",
+        "lang:en": "Jenny Álvarez"
+      },
+      "id": "Q19949648",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19949648"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carolina Marzán",
+        "lang:en": "Carolina Marzán"
+      },
+      "id": "Q21503376",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21503376"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Camila Vallejo",
+        "lang:en": "Camila Vallejo"
+      },
+      "id": "Q242230",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q242230"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/CamilaVallejoD"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Rathgeb",
+        "lang:en": "Jorge Rathgeb"
+      },
+      "id": "Q26695256",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26695256"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Loreto Carvajal",
+        "lang:en": "Loreto Carvajal"
+      },
+      "id": "Q26764059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26764059"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alejandro Santana",
+        "lang:en": "Alejandro Santana"
+      },
+      "id": "Q28846115",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28846115"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sebastián Keitel",
+        "lang:en": "Sebastián Keitel"
+      },
+      "id": "Q3032062",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3032062"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Guillermo Teillier",
+        "lang:en": "Guillermo Teillier"
+      },
+      "id": "Q3120563",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3120563"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pepe Auth",
+        "lang:en": "Pepe Auth Stewart"
+      },
+      "id": "Q3375011",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3375011"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Emilia Nuyado",
+        "lang:en": "Emilia Nuyado"
+      },
+      "id": "Q44977716",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q44977716"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Andrés Longton",
+        "lang:en": "Andrés Longton"
+      },
+      "id": "Q47067675",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47067675"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Camila Rojas",
+        "lang:en": "Camila Rojas"
+      },
+      "id": "Q47087256",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47087256"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Alessandri Vergara",
+        "lang:en": "Jorge Alessandri Vergara"
+      },
+      "id": "Q47494552",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47494552"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pamela Jiles",
+        "lang:en": "Pamela Jiles"
+      },
+      "id": "Q501161",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q501161"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Crispi",
+        "lang:en": "Miguel Crispi"
+      },
+      "id": "Q50377219",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50377219"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Andrea Parra",
+        "lang:en": "Andrea Parra"
+      },
+      "id": "Q50426468",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50426468"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Undurraga Gazitúa",
+        "lang:en": "Francisco Undurraga Gazitúa"
+      },
+      "id": "Q50951261",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50951261"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Claudia Mix",
+        "lang:en": "Claudia Mix"
+      },
+      "id": "Q50955539",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50955539"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alexis Sepúlveda",
+        "lang:en": "Alexis Sepúlveda"
+      },
+      "id": "Q50960371",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50960371"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Catalina Pérez Salinas",
+        "lang:en": "Catalina Pérez Salinas"
+      },
+      "id": "Q50963163",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50963163"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Karol Cariola",
+        "lang:en": "Karol Cariola"
+      },
+      "id": "Q510917",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q510917"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Joanna Pérez",
+        "lang:en": "Joanna Pérez"
+      },
+      "id": "Q51140307",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51140307"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gael Yeomans",
+        "lang:en": "Gael Yeomans"
+      },
+      "id": "Q51144757",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51144757"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/gaeldiputada"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cristóbal Urruticoechea",
+        "lang:en": "Cristóbal Urruticoechea"
+      },
+      "id": "Q51763783",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51763783"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Diego Ibáñez",
+        "lang:en": "Diego Ibáñez Cotroneo"
+      },
+      "id": "Q53148743",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53148743"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Amaro Labra",
+        "lang:en": "Amaro Labra"
+      },
+      "id": "Q53856313",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q53856313"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Leonidas Romero Sáez",
+        "lang:en": "Leonidas Romero Sáez"
+      },
+      "id": "Q5400309",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5400309"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cristina Girardi",
+        "lang:en": "Cristina Girardi"
+      },
+      "id": "Q5411507",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5411507"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Natalia Castillo",
+        "lang:en": "Natalia Castillo"
+      },
+      "id": "Q54801041",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54801041"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gonzalo Winter",
+        "lang:en": "Gonzalo Winter"
+      },
+      "id": "Q54826295",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826295"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Renato Garín",
+        "lang:en": "Renato Garín"
+      },
+      "id": "Q54826296",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826296"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Brito Hasbún"
+      },
+      "id": "Q54853404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54853404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Virginia Troncoso",
+        "lang:en": "Virginia Troncoso"
+      },
+      "id": "Q54912080",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54912080"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo Vidal",
+        "lang:en": "Pablo Vidal"
+      },
+      "id": "Q54937208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54937208"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cosme Mellado Pino"
+      },
+      "id": "Q55045762",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55045762"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gustavo Sanhueza"
+      },
+      "id": "Q55381556",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55381556"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ramón Galleguillos",
+        "lang:en": "Ramón Galleguillos"
+      },
+      "id": "Q55381568",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55381568"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Miguel Castro",
+        "lang:en": "José Miguel Castro"
+      },
+      "id": "Q55381569",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55381569"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Catalina del Real",
+        "lang:en": "Catalina del Real"
+      },
+      "id": "Q55381574",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55381574"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luis Pardo Sáinz",
+        "lang:en": "Luis Pardo Sáinz"
+      },
+      "id": "Q55409773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55409773"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Camila Flores",
+        "lang:en": "Camila Flores"
+      },
+      "id": "Q55410029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55410029"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/camila.flores.o"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo Kast",
+        "lang:en": "Pablo Kast"
+      },
+      "id": "Q55410387",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55410387"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Daniel Verdessi",
+        "lang:en": "Daniel Verdessi"
+      },
+      "id": "Q55411054",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55411054"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francesca Muñoz"
+      },
+      "id": "Q55412188",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55412188"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sofía Cid"
+      },
+      "id": "Q55412195",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55412195"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Víctor Torres Jeldes",
+        "lang:en": "Víctor Torres Jeldes"
+      },
+      "id": "Q5556358",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5556358"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Diego Schalper",
+        "lang:en": "Diego Schalper"
+      },
+      "id": "Q55640523",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55640523"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Javier Macaya Danús",
+        "lang:en": "Javier Macaya Danús"
+      },
+      "id": "Q5573249",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5573249"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Ángel Calisto Águila",
+        "lang:en": "Miguel Ángel Calisto Águila"
+      },
+      "id": "Q55841961",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55841961"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sebastián Torrealba Alvarado"
+      },
+      "id": "Q55842336",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842336"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ricardo Celis Araya"
+      },
+      "id": "Q55842351",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842351"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Patricio Rosas Barrientos"
+      },
+      "id": "Q55842368",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842368"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Cristhian Moreira Barros"
+      },
+      "id": "Q55842420",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842420"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Santana Castillo"
+      },
+      "id": "Q55842952",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842952"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Francisco Eguiguren Correa"
+      },
+      "id": "Q55842965",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842965"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Raúl Leiva Carvajal"
+      },
+      "id": "Q55842985",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842985"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcos Ilabaca Cerda"
+      },
+      "id": "Q55842992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55842992"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Durán Espinoza"
+      },
+      "id": "Q55843035",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843035"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alvaro Carter Fernández"
+      },
+      "id": "Q55843070",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843070"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Nicolás Noman Garrido"
+      },
+      "id": "Q55843073",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843073"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ximena Ossandón Irarrázabal"
+      },
+      "id": "Q55843078",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843078"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo Prieto Lorca"
+      },
+      "id": "Q55843085",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843085"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alejandro Bernales Maldonado"
+      },
+      "id": "Q55843091",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843091"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sandra Amar Mancilla"
+      },
+      "id": "Q55843093",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843093"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Raúl Soto Mardones"
+      },
+      "id": "Q55843094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Hugo Rey Martínez"
+      },
+      "id": "Q55843097",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843097"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Boris Barrera Moreno"
+      },
+      "id": "Q55843107",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55843107"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sebastián Álvarez Ramírez"
+      },
+      "id": "Q55844512",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55844512"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Karim Bianchi Retamales"
+      },
+      "id": "Q55844531",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55844531"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Harry Jürgensen Rundshagen"
+      },
+      "id": "Q55844562",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55844562"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Miguel Mellado Suazo"
+      },
+      "id": "Q55844653",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55844653"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Karin Luck Urban"
+      },
+      "id": "Q55844710",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55844710"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Aracely Leuquén Uribe"
+      },
+      "id": "Q55844723",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55844723"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Esteban Velásquez Núñez"
+      },
+      "id": "Q55844790",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55844790"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Esteban Velásquez"
+      },
+      "id": "Q56246015",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56246015"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Santana"
+      },
+      "id": "Q56461267",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56461267"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Luis Castro",
+        "lang:en": "Juan Luis Castro"
+      },
+      "id": "Q5656415",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5656415"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alejandra Sepúlveda",
+        "lang:en": "Alejandra Sepúlveda"
+      },
+      "id": "Q5664721",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5664721"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Andrés Molina Magofke",
+        "lang:en": "Andrés Molina Magofke"
+      },
+      "id": "Q5695329",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5695329"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Carlos Kuschel Silva",
+        "lang:en": "Carlos Kuschel Silva"
+      },
+      "id": "Q5750685",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5750685"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Maya Fernández",
+        "lang:en": "Maya Fernández"
+      },
+      "id": "Q5818156",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5818156"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/maya.allende.9"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Eduardo Duran Salinas",
+        "lang:en": "Eduardo Duran Salinas"
+      },
+      "id": "Q5819175",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5819175"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Enrique van Rysselberghe Herrera",
+        "lang:en": "Enrique van Rysselberghe Herrera"
+      },
+      "id": "Q5834000",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5834000"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Florcita Motuda",
+        "lang:en": "Florcita Motuda"
+      },
+      "id": "Q5862953",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5862953"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/florcita.motuda.5"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/florcitamotuda.cl"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gabriel Ascencio",
+        "lang:en": "Gabriel Ascencio"
+      },
+      "id": "Q5873208",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5873208"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gabriel Silber",
+        "lang:en": "Gabriel Silber"
+      },
+      "id": "Q5873569",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5873569"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gastón Saavedra",
+        "lang:en": "Gastón Saavedra"
+      },
+      "id": "Q5876252",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5876252"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gastón von Mühlenbrock",
+        "lang:en": "Gastón von Mühlenbrock"
+      },
+      "id": "Q5876276",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5876276"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Giorgio Jackson",
+        "lang:en": "Giorgio Jackson"
+      },
+      "id": "Q5880050",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5880050"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Hugo Gutiérrez",
+        "lang:en": "Hugo Gutiérrez"
+      },
+      "id": "Q5904499",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5904499"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ignacio Urrutia",
+        "lang:en": "Ignacio Urrutia"
+      },
+      "id": "Q5913597",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5913597"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Issa Kort",
+        "lang:en": "Issa Kort"
+      },
+      "id": "Q5922926",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5922926"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Iván Norambuena",
+        "lang:en": "Iván Norambuena"
+      },
+      "id": "Q5923517",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5923517"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jaime Mulet",
+        "lang:en": "Jaime Mulet"
+      },
+      "id": "Q5925226",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5925226"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Jaime-Mulet-Martínez-68846675598"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jaime Naranjo",
+        "lang:en": "Jaime Naranjo"
+      },
+      "id": "Q5925233",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5925233"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jaime Tohá",
+        "lang:en": "Jaime Tohá"
+      },
+      "id": "Q5925388",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5925388"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Javier Hernández Hernández",
+        "lang:en": "Javier Hernández Hernández"
+      },
+      "id": "Q5927839",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5927839"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Jorge Sabag",
+        "lang:en": "Jorge Sabag"
+      },
+      "id": "Q5935992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5935992"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "José Miguel Ortiz",
+        "lang:en": "José Miguel Ortiz"
+      },
+      "id": "Q5943992",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5943992"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Leopoldo Pérez Lahsen",
+        "lang:en": "Leopoldo Pérez Lahsen"
+      },
+      "id": "Q5973488",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5973488"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Manuel Monsalve",
+        "lang:en": "Manuel Monsalve"
+      },
+      "id": "Q5993820",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5993820"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcela Hernando",
+        "lang:en": "Marcela Hernando"
+      },
+      "id": "Q5995515",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5995515"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcela Sabat",
+        "lang:en": "Marcela Sabat"
+      },
+      "id": "Q5995537",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5995537"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcelo Díaz",
+        "lang:en": "Marcelo Díaz Díaz"
+      },
+      "id": "Q5995795",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5995795"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Desbordes",
+        "lang:en": "Mario Desbordes"
+      },
+      "id": "Q5998614",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5998614"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Mario Venegas",
+        "lang:en": "Mario Venegas"
+      },
+      "id": "Q5999127",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5999127"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/diputadovenegas"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marisela Santibáñez",
+        "lang:en": "Marisela Santibáñez"
+      },
+      "id": "Q5999320",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5999320"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "María José Hoffmann",
+        "lang:en": "María José Hoffmann"
+      },
+      "id": "Q6004050",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6004050"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Matías Walker",
+        "lang:en": "Matías Walker"
+      },
+      "id": "Q6006757",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6006757"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Nino Baltolu",
+        "lang:en": "Nino Baltolu"
+      },
+      "id": "Q6043209",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6043209"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pablo Lorenzini",
+        "lang:en": "Pablo Lorenzini"
+      },
+      "id": "Q6056154",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6056154"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Patricio Melero",
+        "lang:en": "Patricio Melero"
+      },
+      "id": "Q6066731",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6066731"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pedro Velásquez",
+        "lang:en": "Pedro Velásquez"
+      },
+      "id": "Q6070307",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6070307"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ramón Barros Montero",
+        "lang:en": "Ramón Barros Montero"
+      },
+      "id": "Q6099449",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6099449"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "René Alinco",
+        "lang:en": "René Alinco"
+      },
+      "id": "Q6105649",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6105649"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "René Saffirio",
+        "lang:en": "René Saffirio"
+      },
+      "id": "Q6105765",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6105765"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sergio Bobadilla",
+        "lang:en": "Sergio Bobadilla"
+      },
+      "id": "Q6125356",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6125356"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Sergio Gahona",
+        "lang:en": "Sergio Gahona"
+      },
+      "id": "Q6125442",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6125442"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Maite Orsini",
+        "lang:en": "Maite Orsini"
+      },
+      "id": "Q614776",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q614776"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Tucapel Jiménez Fuentes",
+        "lang:en": "Tucapel Jiménez Fuentes"
+      },
+      "id": "Q6153670",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6153670"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Luciano Cruz-Coke",
+        "lang:en": "Luciano Cruz-Coke"
+      },
+      "id": "Q6696802",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6696802"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Érika Olivera",
+        "lang:en": "Érika Olivera"
+      },
+      "id": "Q8078419",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8078419"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Marcelo Schilling",
+        "lang:en": "Marcelo Schilling"
+      },
+      "id": "Q9028603",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9028603"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Raúl Saldívar",
+        "lang:en": "Raúl Saldívar"
+      },
+      "id": "Q9066903",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9066903"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Renzo Trisotti",
+        "lang:en": "Renzo Trisotti"
+      },
+      "id": "Q9068062",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9068062"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Cámara de Diputados de Chile",
+        "lang:en": "Chamber of Deputies"
+      },
+      "id": "Q2119518",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2119518"
+        }
+      ],
+      "area_id": "Q298",
+      "seat_counts": {
+        "Q18067639": "155"
+      }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Demócrata Cristiano",
+        "lang:en": "Christian Democratic Party"
+      },
+      "id": "Q1395049",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1395049"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Nueva Mayoría",
+        "lang:en": "New Majority"
+      },
+      "id": "Q14539865",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14539865"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Chile Vamos",
+        "lang:en": "Chile Vamos"
+      },
+      "id": "Q20859150",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20859150"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Frente Amplio",
+        "lang:en": "Broad Front"
+      },
+      "id": "Q28469675",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28469675"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "candidato independiente",
+        "lang:en": "independent politician"
+      },
+      "id": "Q327591",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q327591"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Coalición Regionalista Verde",
+        "lang:en": "Coalición Regionalista Verde"
+      },
+      "id": "Q37245502",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37245502"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Por todo Chile",
+        "lang:en": "Por todo Chile"
+      },
+      "id": "Q37253862",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q37253862"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q2109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579360"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Arica y Parinacota"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ta"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579369"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Tarapacá"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16140866"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Antofagasta"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16140873"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Atacama"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16140881"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Coquimbo"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q9008867"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región Metropolitana de Santiago"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579381"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Libertador General Bernardo O'Higgins"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579384"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Maule"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579379"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región del Biobío"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579375"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de la Araucanía"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:lr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17634934"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Los Ríos"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ll"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579364"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Los Lagos"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579362"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Aysén del General Carlos Ibáñez del Campo"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q2189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579367"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Magallanes y de la Antártica Chilena"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q219458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q219458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579372"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Valparaíso"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q54826372",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ap/chamber-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826372"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 1",
+        "lang:en": "District 1"
+      },
+      "parent_id": "Q2109"
+    },
+    {
+      "id": "Q54826373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ta/chamber-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 2",
+        "lang:en": "District 2"
+      },
+      "parent_id": "Q2114"
+    },
+    {
+      "id": "Q54826374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:an/chamber-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 3",
+        "lang:en": "District 3"
+      },
+      "parent_id": "Q2118"
+    },
+    {
+      "id": "Q54826375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at/chamber-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 4",
+        "lang:en": "District 4"
+      },
+      "parent_id": "Q2120"
+    },
+    {
+      "id": "Q54826376",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:co/chamber-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826376"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 5",
+        "lang:en": "District 5"
+      },
+      "parent_id": "Q2121"
+    },
+    {
+      "id": "Q54826377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs/chamber-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 6",
+        "lang:en": "District 6"
+      },
+      "parent_id": "Q219458"
+    },
+    {
+      "id": "Q54826378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs/chamber-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 7",
+        "lang:en": "District 7"
+      },
+      "parent_id": "Q219458"
+    },
+    {
+      "id": "Q54826380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 8",
+        "lang:en": "District 8"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 9",
+        "lang:en": "District 9"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 10",
+        "lang:en": "District 10"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 11",
+        "lang:en": "District 11"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 12",
+        "lang:en": "District 12"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 13",
+        "lang:en": "District 13"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/chamber-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 14",
+        "lang:en": "District 14"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q54826388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/chamber-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 15",
+        "lang:en": "District 15"
+      },
+      "parent_id": "Q2133"
+    },
+    {
+      "id": "Q54826389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:li/chamber-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 16",
+        "lang:en": "District 16"
+      },
+      "parent_id": "Q2133"
+    },
+    {
+      "id": "Q54826390",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/chamber-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826390"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 17",
+        "lang:en": "District 17"
+      },
+      "parent_id": "Q2166"
+    },
+    {
+      "id": "Q54826391",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ml/chamber-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826391"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 18",
+        "lang:en": "District 18"
+      },
+      "parent_id": "Q2166"
+    },
+    {
+      "id": "Q54826393",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/chamber-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826393"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 19",
+        "lang:en": "District 19"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54826394",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/chamber-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826394"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 20",
+        "lang:en": "District 20"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54826395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:bi/chamber-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 21",
+        "lang:en": "District 21"
+      },
+      "parent_id": "Q2170"
+    },
+    {
+      "id": "Q54826396",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar/chamber-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826396"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 22",
+        "lang:en": "District 22"
+      },
+      "parent_id": "Q2176"
+    },
+    {
+      "id": "Q54826397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ar/chamber-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 23",
+        "lang:en": "District 23"
+      },
+      "parent_id": "Q2176"
+    },
+    {
+      "id": "Q54826398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:lr/chamber-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 24",
+        "lang:en": "District 24"
+      },
+      "parent_id": "Q2177"
+    },
+    {
+      "id": "Q54826399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ll/chamber-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 25",
+        "lang:en": "District 25"
+      },
+      "parent_id": "Q2178"
+    },
+    {
+      "id": "Q54826400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ll/chamber-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 26",
+        "lang:en": "District 26"
+      },
+      "parent_id": "Q2178"
+    },
+    {
+      "id": "Q54826401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ai/chamber-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 27",
+        "lang:en": "District 27"
+      },
+      "parent_id": "Q2181"
+    },
+    {
+      "id": "Q54826402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:ma/chamber-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54826402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18067639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chamber of Deputies of Chile"
+      },
+      "name": {
+        "lang:es": "Distrito 28",
+        "lang:en": "District 28"
+      },
+      "parent_id": "Q2189"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q12155806-B751A9E9-30EF-4348-803D-D23AE3FD6B0E",
+      "person_id": "Q12155806",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15993808-EF334378-C8BF-433B-81FA-79F9E17920C6",
+      "person_id": "Q15993808",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16295677-106E3122-0A2D-4234-B89D-78D444E132FE",
+      "person_id": "Q16295677",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16297362-B76B0BCA-4E94-4201-9B3D-CDAC5ABA06EB",
+      "person_id": "Q16297362",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16297719-5475C0F2-E48C-4469-AAF8-195CEAD62941",
+      "person_id": "Q16297719",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16297876-D4FCC074-EFBF-4B56-BD23-ACEB08F85BF8",
+      "person_id": "Q16297876",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16298404-4330A3D1-DA4B-4534-9460-31580F237658",
+      "person_id": "Q16298404",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16300668-B303D79E-88AE-413F-9D94-0BB03C218578",
+      "person_id": "Q16300668",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16300930-A291AD4C-BE10-4E51-B3D6-A1E9548E6138",
+      "person_id": "Q16300930",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16301053-4ADAB6DE-7821-4DDD-9F33-F7048E357587",
+      "person_id": "Q16301053",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16301594-73F0B3DB-FC23-44AD-81A8-B65BE15DDDBA",
+      "person_id": "Q16301594",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16301870-C072770C-BBB3-494D-9DEB-C273B24A4C63",
+      "person_id": "Q16301870",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16302060-5A635B26-2A7E-4305-B073-C6D8E914437A",
+      "person_id": "Q16302060",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16302326-2FB8F3AD-E912-4FD7-908E-7E1D99497B64",
+      "person_id": "Q16302326",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16543081-13AC2C51-470D-4C8A-80DB-F2C06C9737EC",
+      "person_id": "Q16543081",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16543081-CA4A12ED-FD17-4053-8018-B70D51B929C3",
+      "person_id": "Q16543081",
+      "organization_id": "Q2119518",
+      "start_date": "1998-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16543585-911162C6-72D7-4339-9893-698A77BABE0F",
+      "person_id": "Q16543585",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16567135-5A8FCC61-38BB-48F8-9A91-4B4BA698A154",
+      "person_id": "Q16567135",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16583716-FB965842-1550-4650-9102-7A65AB124192",
+      "person_id": "Q16583716",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16590179-C172B768-12D0-4E7D-9AAD-2A40DBE6627D",
+      "person_id": "Q16590179",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16594695-73560234-6FB7-4413-BC60-644513D24255",
+      "person_id": "Q16594695",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16598535-29C5CA0F-E8DD-42F6-950F-2112D30AFCAE",
+      "person_id": "Q16598535",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16624860-79A6E343-27FF-4ADA-B8FA-60A879718433",
+      "person_id": "Q16624860",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16625894-E317CA64-3916-4E0F-A2D2-1EAF7585E6AF",
+      "person_id": "Q16625894",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16626015-F0423E74-05D8-467B-99BB-618F780B2DF9",
+      "person_id": "Q16626015",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17478200-217C7892-AD08-4196-8BB0-E9A412B263A6",
+      "person_id": "Q17478200",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18223413-84CFEBE2-46BA-4849-95EA-15CAAC0AA8FE",
+      "person_id": "Q18223413",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18285619-FA36983F-612F-4C06-BDE2-2273AD0041C6",
+      "person_id": "Q18285619",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18286601-EFBFBF58-1DF3-4B6B-A8B3-669EF34E1BA7",
+      "person_id": "Q18286601",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18620679-63DB889D-FCDE-457D-84F4-4AEE031C61D9",
+      "person_id": "Q18620679",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q18719731-2B69D913-6E8E-415F-A5E6-2E5737BF51FC",
+      "person_id": "Q18719731",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1969763-A971C89A-6151-4EB5-88D7-1441E8B63D3B",
+      "person_id": "Q1969763",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19886438-E97A4635-DE68-4B6F-953B-E7516839343A",
+      "person_id": "Q19886438",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q19949648-92309AEE-CD3D-49A3-98BC-DDCA4B44A5BA",
+      "person_id": "Q19949648",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21503376-028695D2-DCB2-41D5-A24F-02D050E603CA",
+      "person_id": "Q21503376",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q242230-ee37c98c-4ad5-1a9e-ea2f-2cda9fd94ffd",
+      "person_id": "Q242230",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826385",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26695256-6e081dac-4dae-ea46-708b-bf4939e0d069",
+      "person_id": "Q26695256",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826396",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26764059-1FB28A94-F6EA-480C-8FFF-D31A7C5F9D5A",
+      "person_id": "Q26764059",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28846115-157D3C58-88E1-474C-B7A6-3EF7208612AC",
+      "person_id": "Q28846115",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826400",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3032062-B4465F1B-804B-41CB-AD3D-536C9754D91A",
+      "person_id": "Q3032062",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3120563-C1F5F1B8-6667-4E03-A399-F788F52764DF",
+      "person_id": "Q3120563",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3375011-33CF807F-A3B2-42D7-86D1-833812659D80",
+      "person_id": "Q3375011",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q44977716-eb4f8084-4e07-92bd-70d2-7d473eabe91f",
+      "person_id": "Q44977716",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826399",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47067675-215C0166-4516-4994-B5A2-FFE179456968",
+      "person_id": "Q47067675",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47087256-E85E8D77-CEF5-4B8D-9EDA-61F1E59ED17D",
+      "person_id": "Q47087256",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47494552-58ce715b-e5ed-48ea-a29a-3dfffa0406b8",
+      "person_id": "Q47494552",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q501161-1cf28cbe-48a9-32c9-bd2f-254dee4114f7",
+      "person_id": "Q501161",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826385",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50377219-3ACA5270-A30D-439E-8D06-B66CBBBACE13",
+      "person_id": "Q50377219",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50426468-F9C3D7C2-F936-4735-BBCF-E4B888B91225",
+      "person_id": "Q50426468",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50951261-36659835-472a-b04b-c0f7-fe6ed845e47a",
+      "person_id": "Q50951261",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50955539-85de4e33-4dd4-65ba-e5f0-c5b9c218072e",
+      "person_id": "Q50955539",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50960371-838af454-4ac3-7ae6-044f-8244ef954de4",
+      "person_id": "Q50960371",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50963163-2023576a-4d39-c0d9-ad75-06a264d81d53",
+      "person_id": "Q50963163",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q510917-AB16A58C-3A92-4745-9DFA-9AB0F8A4E5A7",
+      "person_id": "Q510917",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51140307-01bb927d-49bf-252b-58c4-56fe8784e709",
+      "person_id": "Q51140307",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51144757-2bbca968-4747-9150-1a88-8b02f213f958",
+      "person_id": "Q51144757",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51763783-27C1A290-0519-472B-858C-C9693528E6DE",
+      "person_id": "Q51763783",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53148743-B38283D1-7C41-4C82-AAF2-8D61B44A7AA1",
+      "person_id": "Q53148743",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53856313-48469A5C-CC8B-4AB0-AD9E-905D9AA2CD0A",
+      "person_id": "Q53856313",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5400309-CBE35565-7AE0-481A-8C0E-2AA251426B26",
+      "person_id": "Q5400309",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5411507-519DE919-4C94-4499-811D-12DE57E1B29C",
+      "person_id": "Q5411507",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54801041-BE467FD4-3E41-45C1-A7B9-5556B8A59EBE",
+      "person_id": "Q54801041",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54826295-E4C2520A-1779-41F4-98DF-21062C08E10D",
+      "person_id": "Q54826295",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54826296-f5c1fcbd-470a-f04e-4526-f03fac1da441",
+      "person_id": "Q54826296",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826387",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54853404-309163E9-C677-4B05-ADF0-6E12B62E8D76",
+      "person_id": "Q54853404",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54912080-720C15E6-AC3A-4519-A96E-DB66ACADC9B9",
+      "person_id": "Q54912080",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54937208-FBFC1C89-FA18-485D-9D61-4344D4FD928F",
+      "person_id": "Q54937208",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55045762-C432C1F5-4341-4DA5-8D20-23141D4A7C79",
+      "person_id": "Q55045762",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55381556-674C245B-4355-4864-B2D4-BDC26344382D",
+      "person_id": "Q55381556",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55381568-D68EEDA0-AC74-43F8-8AD8-C299D8491B38",
+      "person_id": "Q55381568",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55381569-E3D963BF-3067-491E-B8D1-E50AB491077E",
+      "person_id": "Q55381569",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55381574-55ECB6D5-F052-4CE2-B1DC-136BBB57A7B6",
+      "person_id": "Q55381574",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55409773-E66495A2-2C2A-44FB-9E62-F5349110D384",
+      "person_id": "Q55409773",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55410029-909DDB8E-C3DB-42EE-953A-D497478CC128",
+      "person_id": "Q55410029",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55410387-F0992882-2804-42E9-BB85-E6BB86578C03",
+      "person_id": "Q55410387",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55411054-7D0C1B83-807D-42DD-8B63-F76201682CD2",
+      "person_id": "Q55411054",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55412188-AEF64117-6A04-4DEE-8F78-F82034EC2F2B",
+      "person_id": "Q55412188",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55412195-F1C2F674-45B0-4D35-A261-25AA01264737",
+      "person_id": "Q55412195",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5556358-1691B10D-CC34-4EA9-9C1E-264A8BB5D9EC",
+      "person_id": "Q5556358",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55640523-C8C4CF11-CA78-4B6A-B968-3082FE3AB94D",
+      "person_id": "Q55640523",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5573249-D6F11904-4FC8-4BE5-9B18-F6966CAC3947",
+      "person_id": "Q5573249",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55841961-47A17DD0-825F-4E0F-BC6E-0117C332BB59",
+      "person_id": "Q55841961",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842336-2681699B-EBD2-4F9C-94E5-2DDB8DBEEE10",
+      "person_id": "Q55842336",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842351-A7BC5074-ACDC-4D3E-8BE1-E8EFA4835C87",
+      "person_id": "Q55842351",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842368-39ECA384-EE1F-4DC7-9E36-17F627070418",
+      "person_id": "Q55842368",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842420-D502991D-510F-48DF-AE1F-5C3BE56F3596",
+      "person_id": "Q55842420",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842952-495AF804-F4DB-4775-824A-80CC9B6B8B41",
+      "person_id": "Q55842952",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842965-66A15C34-DD7E-4A63-99DA-FF308CC1BF17",
+      "person_id": "Q55842965",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842985-4A65DCD3-CD4C-431C-B0AF-DFD0969EA99A",
+      "person_id": "Q55842985",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55842992-50980266-1E23-452C-9022-BEFC86A3CD5E",
+      "person_id": "Q55842992",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843035-641250D5-9539-406F-8FE4-2A2504361802",
+      "person_id": "Q55843035",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843070-87298D32-4488-419F-90E2-0986F7542259",
+      "person_id": "Q55843070",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843073-DDBB6A95-13F8-4A1A-B196-AE652F44E65D",
+      "person_id": "Q55843073",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843078-8177F04D-75B7-4CB7-ABC1-4AD9D7880151",
+      "person_id": "Q55843078",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843085-D32998D0-7EDE-4D43-974E-3A923B3C227A",
+      "person_id": "Q55843085",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843091-E5CDD4EA-4668-4FA0-B89A-D0A77894DFF7",
+      "person_id": "Q55843091",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843093-6E2955D9-19E8-4247-A298-2C8ACB67B5F3",
+      "person_id": "Q55843093",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843094-18C5E284-5584-4251-B867-72BFE15AD6C3",
+      "person_id": "Q55843094",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843097-2B8D2529-840E-4FDE-AABF-F4C03814FC10",
+      "person_id": "Q55843097",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55843107-9A219CD0-1EDD-43DD-B4FC-2B5A2EDA5797",
+      "person_id": "Q55843107",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55844512-2027DC13-B76B-4B08-9908-5973C85F7A7D",
+      "person_id": "Q55844512",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55844531-DB754F72-D157-4C4D-A582-790C4C565372",
+      "person_id": "Q55844531",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55844562-CBA83FA0-06FD-4B45-BFB0-E7BDE9DEDA68",
+      "person_id": "Q55844562",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55844653-10693C0B-B1C4-4D8B-8B6D-4402C63852BD",
+      "person_id": "Q55844653",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55844710-6EB2E2EC-848F-44F1-9BB5-59C915965AA3",
+      "person_id": "Q55844710",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55844723-1EFFA422-9A77-43CD-BACC-6D26A9089A9A",
+      "person_id": "Q55844723",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55844790-C4D7B4E6-E992-474F-90DB-C2B55416B85F",
+      "person_id": "Q55844790",
+      "on_behalf_of_id": "Q37245502",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56246015-23179a68-4d77-62fe-e05c-1f902d4ea1e2",
+      "person_id": "Q56246015",
+      "on_behalf_of_id": "Q37245502",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56461267-89050bd2-4229-963a-cf3e-f851bd69ba1b",
+      "person_id": "Q56461267",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5656415-36596AD4-DA85-446C-8CB4-A528D5B5872D",
+      "person_id": "Q5656415",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5664721-19ED862B-F439-4DCE-964B-D1689A22A3AA",
+      "person_id": "Q5664721",
+      "on_behalf_of_id": "Q37245502",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5695329-24BF7F7A-B3E5-47B6-980A-6744AD64F3D5",
+      "person_id": "Q5695329",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5695329-69440A51-FCA2-4CE4-BB5F-D268EA9914A6",
+      "person_id": "Q5695329",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5750685-F04A8895-62DE-4682-9288-E726A2061076",
+      "person_id": "Q5750685",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5818156-0de66f5c-4dc7-63ba-1601-810eb93e47e9",
+      "person_id": "Q5818156",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5818156-37a3eea3-4413-7fac-3938-cee0cc5d3621",
+      "person_id": "Q5818156",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826383",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5819175-BA173B3F-04EE-448A-8F24-1FAF5F1A3111",
+      "person_id": "Q5819175",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5834000-F5D75E10-7F92-4678-A969-1F2019389593",
+      "person_id": "Q5834000",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5862953-EF7665D2-FF6F-42E9-B2AB-18D33020BB09",
+      "person_id": "Q5862953",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826390",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5873208-A5596567-C837-495B-B564-2B2E8CEE6207",
+      "person_id": "Q5873208",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5873569-4B4CBB4B-F669-4EFA-A934-1D98018BD60E",
+      "person_id": "Q5873569",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5876252-2A8CA380-0E8B-4D53-BBD1-2BD8B5FA3AB2",
+      "person_id": "Q5876252",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5876276-A0A7DA21-17A4-47B2-A57E-48A410FD0961",
+      "person_id": "Q5876276",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5880050-f8181edf-4ed4-217d-3059-48e89f50975c",
+      "person_id": "Q5880050",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826383",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5904499-645EFB68-BA7F-4151-B299-AB9F6327B596",
+      "person_id": "Q5904499",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5913597-DC186A81-723E-4482-8A5B-6DF94CBB3C11",
+      "person_id": "Q5913597",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5922926-1821B6E1-D896-48CC-88B8-875546279E12",
+      "person_id": "Q5922926",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5923517-FF98A215-B7ED-40BD-93E7-2DF82A6B17D0",
+      "person_id": "Q5923517",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5925226-5B769ABD-86E8-4875-88BD-360E106F6663",
+      "person_id": "Q5925226",
+      "on_behalf_of_id": "Q37245502",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826375",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5925233-B9C8BAEF-04E3-4B8D-AE19-EC94A9FFC6BA",
+      "person_id": "Q5925233",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5925388-ef6d7394-4598-66be-5093-39973101e06e",
+      "person_id": "Q5925388",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826394",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5927839-CCA458B6-F79F-4EAD-A932-5053C9BA2DCB",
+      "person_id": "Q5927839",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5935992-DD9ECF2D-5663-4B69-842A-E712D7C9601A",
+      "person_id": "Q5935992",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5943992-BCBD188D-F790-42F5-B583-AB7EC60CED68",
+      "person_id": "Q5943992",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5973488-628CF02E-A257-4E43-9A12-7ABB171B5D56",
+      "person_id": "Q5973488",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5993820-F33310E7-7067-4D4E-B889-304D349FCDCC",
+      "person_id": "Q5993820",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5995515-DFE55E7C-7579-4146-980B-D54CA9746CAA",
+      "person_id": "Q5995515",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5995537-1B93D469-1274-460D-BCF2-3916AD75E748",
+      "person_id": "Q5995537",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5995795-7A683761-2493-4FF6-B6F2-BD2864A98DCD",
+      "person_id": "Q5995795",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826378",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5998614-1CCA208E-A90D-4923-B9DE-7582F9337CA6",
+      "person_id": "Q5998614",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5999127-ABB00F3A-158A-424E-9DE7-E2683A0394BF",
+      "person_id": "Q5999127",
+      "on_behalf_of_id": "Q1395049",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826396",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5999320-4ca28091-4425-81c1-4d09-7e5ea2948be1",
+      "person_id": "Q5999320",
+      "on_behalf_of_id": "Q37253862",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6004050-663A5284-1765-4F06-BA77-9F2540CF20AD",
+      "person_id": "Q6004050",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6006757-129B251E-479C-433B-8399-D668867622C6",
+      "person_id": "Q6006757",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6043209-00CC0428-3F5D-4501-BC54-E11C225BD0D3",
+      "person_id": "Q6043209",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6056154-48C8ADBC-A23B-4110-8A35-7EA757E4B88C",
+      "person_id": "Q6056154",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6066731-6C2F39CA-AA7C-4642-9A0A-6E26DA98FD0B",
+      "person_id": "Q6066731",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6070307-EC7796DC-60F7-4B2D-89F0-D077B8BC5D8C",
+      "person_id": "Q6070307",
+      "on_behalf_of_id": "Q37245502",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6099449-7E2018DC-6D96-4232-8A12-6BC4180BB706",
+      "person_id": "Q6099449",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6105649-446AD9F8-3C74-4367-AC30-8EE12867FDA8",
+      "person_id": "Q6105649",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6105765-228CEC11-922A-4E60-98FC-04488D741D4C",
+      "person_id": "Q6105765",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6125356-7AB04013-69C9-4E9E-8400-52FD6096CB01",
+      "person_id": "Q6125356",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6125442-41C3F234-03B1-4605-8828-CB798D5207FE",
+      "person_id": "Q6125442",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q614776-bdb20ca2-4cdd-e421-b4ad-eb679e9dc23a",
+      "person_id": "Q614776",
+      "on_behalf_of_id": "Q28469675",
+      "organization_id": "Q2119518",
+      "area_id": "Q54826381",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6153670-DC5FC93A-1F31-4DB3-B165-29AAE252B146",
+      "person_id": "Q6153670",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6696802-EBDDBA1C-CC8F-4F70-9F81-28B6C92940D6",
+      "person_id": "Q6696802",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q8078419-3F0CD77B-3EE5-4D7F-BA0C-976B885D0313",
+      "person_id": "Q8078419",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9028603-1C30E92A-3EAD-41CB-8027-FE75A9655B94",
+      "person_id": "Q9028603",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9066903-1F777E63-B885-4393-856B-5B57907A91B5",
+      "person_id": "Q9066903",
+      "on_behalf_of_id": "Q14539865",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q9068062-5C766820-14B0-4987-BF3C-8BE3EF372395",
+      "person_id": "Q9068062",
+      "on_behalf_of_id": "Q20859150",
+      "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    }
+  ]
+}

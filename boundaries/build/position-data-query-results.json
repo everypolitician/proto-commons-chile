@@ -1,0 +1,2541 @@
+{
+  "head" : {
+    "vars" : [ "position", "position_name_es", "position_name_en", "positionType", "adminAreaTypes", "adminArea", "admin_area_es", "admin_area_en", "positionSuperclass", "position_superclass_es", "position_superclass_en", "body", "body_es", "body_en" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16140866"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Antofagasta"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Antofagasta"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2118"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Antofagasta"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antofagasta Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830868"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Antofagasta"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Antofagasta"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16140873"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Atacama"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Atacama"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2120"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Atacama"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Atacama Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17633143"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Atacama"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Atacama"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16140881"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Coquimbo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Coquimbo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2121"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Coquimbo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coquimbo Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17633146"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Coquimbo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Coquimbo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579360"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Arica y Parinacota"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Arica and Parinacota"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2109"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Arica y Parinacota"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arica y Parinacota Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830874"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Arica y Parinacota"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Arica and Parinacota"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579362"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Aysén del General Carlos Ibáñez del Campo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Aysen General Carlos Ibáñez del Campo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2181"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región Aysén del General Carlos Ibáñez del Campo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aysén Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21519508"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Aysén"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Aysen General Carlos Ibáñez del Campo"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579364"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Los Lagos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Los Lagos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2178"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Los Lagos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Los Lagos Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830891"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Los Lagos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Los Lagos"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579367"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Magallanes y de la Antártica Chilena"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Magallanes and Chilean Antarctic"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2189"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Magallanes y de la Antártica Chilena"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Magellan and the Chilean Antarctic Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21407459"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Magallanes y Antártica Chilena"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Magallanes and Chilean Antarctic"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579369"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Tarapacá"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Tarapaca"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2114"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Tarapacá"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tarapacá Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830950"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Tarapacá"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Tarapaca"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579372"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Valparaíso"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Valparaiso"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219458"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valparaíso"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valparaíso"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21407252"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Valparaíso"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Valparaiso"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579375"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de la Araucanía"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of La Araucania"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2176"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de La Araucanía"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Araucanía Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830871"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de La Araucanía"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of La Araucania"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579379"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región del Biobío"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of the Biobio"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2170"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región del Biobío"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bío Bío Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21409339"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional del Bío-Bío"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of the Biobio"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579381"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región del Libertador General Bernardo O'Higgins"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of the Region of O'Higgins"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2133"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "O'Higgins"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "O'Higgins"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21526939"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de O'Higgins"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Libertador General Bernardo O'Higgins"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16579384"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región del Maule"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Maule"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2166"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maule"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maule"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q42700559"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional del Maule"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Maule"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17634934"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región de Los Ríos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Los Ríos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Los Ríos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Los Ríos Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830894"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Los Ríos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Los Ríos"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18067639"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado de Chile"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Chamber of Deputies of Chile"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1055894"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "diputado"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "deputy"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2119518"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Cámara de Diputados de Chile"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chamber of Deputies"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18882653"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador de Chile"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Senate of Chile"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15686806"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "senador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "senator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2119458"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Senado de Chile"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Senate of Chile"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q466956"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente de Chile"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Chile"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q30461"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "president"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29077203"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Chile"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Chile"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q466956"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "presidente de Chile"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "President of Chile"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q6256"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q298"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chile"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2285706"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "jefe de Gobierno"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "head of government"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q29077203"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gabinete de Chile"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Cabinet of Chile"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846727"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Antofagasta"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Antofagasta"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2118"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Antofagasta"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antofagasta Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830869"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Antofagasta"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Antofagasta"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846729"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de La Araucanía"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of La Araucanía"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2176"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de La Araucanía"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Araucanía Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830872"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de La Araucanía"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of La Araucanía"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846731"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Arica y Parinacota"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Arica and Parinacota"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2109"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Arica y Parinacota"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arica y Parinacota Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830875"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Arica y Parinacota"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Arica and Parinacota"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846734"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Atacama"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Atacama"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2120"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Atacama"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Atacama Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830880"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Atacama"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Atacama"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846736"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Aysén del General Carlos Ibáñez del Campo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Aysen General Carlos Ibáñez del Campo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2181"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región Aysén del General Carlos Ibáñez del Campo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Aysén Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830883"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Aysén del General Carlos Ibañez del Campo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Aysen General Carlos Ibáñez del Campo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846738"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional del Bío Bío"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of the Biobio"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2170"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región del Biobío"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bío Bío Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830886"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional del Biobío"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of the Biobio"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846740"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Coquimbo"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Coquimbo"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2121"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Coquimbo"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Coquimbo Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830889"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Coquimbo"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Coquimbo"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846743"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Los Lagos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Los Lagos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2178"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Los Lagos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Los Lagos Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830892"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Los Lagos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Los Lagos"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846745"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Los Ríos"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Los Ríos"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2177"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Los Ríos"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Los Ríos Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830895"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Los Ríos"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Los Ríos"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846757"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Magallanes y de la Antártica Chilena"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Magallanes and Chilean Antarctic"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2189"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Magallanes y de la Antártica Chilena"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Magellan and the Chilean Antarctic Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830916"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Magallanes y de la Antártica Chilena"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Magellan and Chilean Antarctic"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846758"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional del Maule"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council del Maule"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2166"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maule"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maule"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830922"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional del Maule"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Maule"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846759"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero del Consejo Regional del Libertador General Bernardo O'Higgins"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Libertador General Bernardo O'Higgins"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2133"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "O'Higgins"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "O'Higgins"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830929"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Libertador General Bernardo O'Higgins"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Libertador General Bernardo O'Higgins"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846760"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional Metropolitana de Santiago"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of the Metropolitan Region of Santiago"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2131"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Metropolitana de Santiago"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santiago Metropolitan Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830948"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de la Región Metropolitana de Santiago"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of the Metropolitan Region of Santiago"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846761"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero de la Consejo Regional de Tarapacá"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Tarapaca"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2114"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Tarapacá"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Tarapacá Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830951"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Tarapacá"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Tarapaca"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54846762"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "consejero del Consejo Regional de Valparaíso"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "counselor of the Regional Council of Valparaíso"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q219458"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valparaíso"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valparaíso"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "legislador"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "legislator"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q54830954"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Consejo Regional de Valparaíso"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Council of Valparaíso"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56480727"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de la región de Ñuble"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of Ñuble"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24076693"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Región de Ñuble"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ñuble Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56481339"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional de Ñuble"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of Ñuble"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883957"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the municipal council of Antofagasta"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3612"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Antofagasta"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Antofalombia"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883955"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal council of Antofagasta"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883960"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the municipal council of Valparaíso"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q33986"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Valparaíso"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Valparaíso"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883958"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal council of Valparaíso"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883963"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the municipal council of Viña Del Mar"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284 Q515"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q184345"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Viña del Mar"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Viña del Mar"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883961"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal council of Viña Del Mar"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883968"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the municipal council of La Florida"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q14460"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "La Florida"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "La Florida"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883966"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal council of La Florida"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883971"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the municipal council of Maipú"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16918"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Maipú"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maipú"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883969"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal council of Maipú"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883974"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the municipal council of Puente Alto"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q15284"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q51594"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Puente Alto"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puente Alto"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q708492"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "concejal"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "councillor"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q56883972"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "municipal council of Puente Alto"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q9008867"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Intendente de la Región Metropolitana de Santiago"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Intendant of the Metropolitan Region of Santiago"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2131"
+      },
+      "admin_area_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Metropolitana de Santiago"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Santiago Metropolitan Region"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7887637"
+      },
+      "position_superclass_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "intendente de Chile"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "intendant"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q21191685"
+      },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Gobierno Regional Metropolitano de Santiago"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Regional Government of the Metropolitan Region of Santiago"
+      }
+    } ]
+  }
+}

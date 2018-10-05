@@ -2,28 +2,34 @@
   {
     "comment": "Senate of Chile",
     "house_item_id": "Q2119458",
+    "seat_count": "43",
+    "area_id": "Q298",
     "position_item_id": "Q18882653",
     "terms": [
       {
-        "comment": "8th Chilean Legislative Period",
-        "term_item_id": "Q29044335"
+        "comment": "55th legislature of the National Congress of Chile",
+        "term_item_id": "Q55807225"
       }
     ]
   },
   {
     "comment": "Chamber of Deputies",
     "house_item_id": "Q2119518",
+    "seat_count": "155",
+    "area_id": "Q298",
     "position_item_id": "Q18067639",
     "terms": [
       {
-        "comment": "8th Chilean Legislative Period",
-        "term_item_id": "Q29044335"
+        "comment": "55th legislature of the National Congress of Chile",
+        "term_item_id": "Q55807225"
       }
     ]
   },
   {
     "comment": "Regional Council of Antofagasta",
     "house_item_id": "Q54830869",
+    "seat_count": "16",
+    "area_id": "Q2118",
     "position_item_id": "Q54846727",
     "terms": [
       {
@@ -35,6 +41,8 @@
   {
     "comment": "Regional Council of La Araucanía",
     "house_item_id": "Q54830872",
+    "seat_count": "20",
+    "area_id": "Q2176",
     "position_item_id": "Q54846729",
     "terms": [
       {
@@ -46,6 +54,8 @@
   {
     "comment": "Regional Council of Arica and Parinacota",
     "house_item_id": "Q54830875",
+    "seat_count": "14",
+    "area_id": "Q2109",
     "position_item_id": "Q54846731",
     "terms": [
       {
@@ -57,6 +67,8 @@
   {
     "comment": "Regional Council of Atacama",
     "house_item_id": "Q54830880",
+    "seat_count": "14",
+    "area_id": "Q2120",
     "position_item_id": "Q54846734",
     "terms": [
       {
@@ -68,6 +80,8 @@
   {
     "comment": "Regional Council of Aysen General Carlos Ibáñez del Campo",
     "house_item_id": "Q54830883",
+    "seat_count": "14",
+    "area_id": "Q2181",
     "position_item_id": "Q54846736",
     "terms": [
       {
@@ -79,6 +93,8 @@
   {
     "comment": "Regional Council of the Biobio",
     "house_item_id": "Q54830886",
+    "seat_count": "27",
+    "area_id": "Q2170",
     "position_item_id": "Q54846738",
     "terms": [
       {
@@ -90,6 +106,8 @@
   {
     "comment": "Regional Council of Coquimbo",
     "house_item_id": "Q54830889",
+    "seat_count": "16",
+    "area_id": "Q2121",
     "position_item_id": "Q54846740",
     "terms": [
       {
@@ -101,6 +119,8 @@
   {
     "comment": "Regional Council of Los Lagos",
     "house_item_id": "Q54830892",
+    "seat_count": "16",
+    "area_id": "Q2178",
     "position_item_id": "Q54846743",
     "terms": [
       {
@@ -112,6 +132,8 @@
   {
     "comment": "Regional Council of Los Ríos",
     "house_item_id": "Q54830895",
+    "seat_count": "14",
+    "area_id": "Q2177",
     "position_item_id": "Q54846745",
     "terms": [
       {
@@ -123,6 +145,8 @@
   {
     "comment": "Regional Council of Magellan and Chilean Antarctic",
     "house_item_id": "Q54830916",
+    "seat_count": "14",
+    "area_id": "Q2189",
     "position_item_id": "Q54846757",
     "terms": [
       {
@@ -134,6 +158,8 @@
   {
     "comment": "Regional Council of Maule",
     "house_item_id": "Q54830922",
+    "seat_count": "20",
+    "area_id": "Q2166",
     "position_item_id": "Q54846758",
     "terms": [
       {
@@ -145,6 +171,8 @@
   {
     "comment": "Regional Council of Libertador General Bernardo O'Higgins",
     "house_item_id": "Q54830929",
+    "seat_count": "16",
+    "area_id": "Q2133",
     "position_item_id": "Q54846759",
     "terms": [
       {
@@ -156,6 +184,8 @@
   {
     "comment": "Regional Council of the Metropolitan Region of Santiago",
     "house_item_id": "Q54830948",
+    "seat_count": "34",
+    "area_id": "Q2131",
     "position_item_id": "Q54846760",
     "terms": [
       {
@@ -167,6 +197,8 @@
   {
     "comment": "Regional Council of Tarapaca",
     "house_item_id": "Q54830951",
+    "seat_count": "14",
+    "area_id": "Q2114",
     "position_item_id": "Q54846761",
     "terms": [
       {
@@ -178,11 +210,91 @@
   {
     "comment": "Regional Council of Valparaíso",
     "house_item_id": "Q54830954",
+    "seat_count": "28",
+    "area_id": "Q219458",
     "position_item_id": "Q54846762",
     "terms": [
       {
         "comment": "7th Legislature of the Regional government of Valparaíso",
         "term_item_id": "Q54844480"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Antofagasta",
+    "house_item_id": "Q56883955",
+    "seat_count": "10",
+    "area_id": "Q3612",
+    "position_item_id": "Q56883957",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Valparaíso",
+    "house_item_id": "Q56883958",
+    "seat_count": "10",
+    "area_id": "Q33986",
+    "position_item_id": "Q56883960",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Viña Del Mar",
+    "house_item_id": "Q56883961",
+    "seat_count": "10",
+    "area_id": "Q184345",
+    "position_item_id": "Q56883963",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of La Florida",
+    "house_item_id": "Q56883966",
+    "seat_count": "10",
+    "area_id": "Q14460",
+    "position_item_id": "Q56883968",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Maipú",
+    "house_item_id": "Q56883969",
+    "seat_count": "10",
+    "area_id": "Q16918",
+    "position_item_id": "Q56883971",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Puente Alto",
+    "house_item_id": "Q56883972",
+    "seat_count": "10",
+    "area_id": "Q51594",
+    "position_item_id": "Q56883974",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   }

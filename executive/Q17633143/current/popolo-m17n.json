@@ -1,0 +1,121 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:es": "Francisco Sánchez Barrera"
+      },
+      "id": "Q56551619",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56551619"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Atacama",
+        "lang:en": "Regional Government of Atacama"
+      },
+      "id": "Q17633143",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17633143"
+        }
+      ],
+      "area_id": "Q2120"
+    },
+    {
+      "name": {
+        "lang:es": "Renovación Nacional",
+        "lang:en": "National Renewal"
+      },
+      "id": "Q1422826",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1422826"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q2120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:at"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16140873"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Atacama"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q56551619-009ec59f-48d4-f313-0024-4e1edd84bac2",
+      "person_id": "Q56551619",
+      "on_behalf_of_id": "Q1422826",
+      "organization_id": "Q17633143",
+      "area_id": "Q2120",
+      "start_date": "2018-07-12",
+      "role_superclass_code": "Q7887637",
+      "role_superclass": {
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
+      },
+      "role_code": "Q16140873",
+      "role": {
+        "lang:es": "Intendente de la Región de Atacama",
+        "lang:en": "Intendant of Atacama"
+      }
+    }
+  ]
+}

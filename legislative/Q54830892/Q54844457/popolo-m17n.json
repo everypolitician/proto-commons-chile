@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Los Lagos",
+        "lang:en": "Regional Council of Los Lagos"
+      },
+      "id": "Q54830892",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830892"
+        }
+      ],
+      "area_id": "Q2178",
+      "seat_counts": {
+        "Q54846743": "16"
+      }
+    }
   ],
   "areas": [
     {
@@ -19,7 +36,7 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830890"
+        "Q16579364"
       ],
       "type": {
         "lang:es": "región de Chile",

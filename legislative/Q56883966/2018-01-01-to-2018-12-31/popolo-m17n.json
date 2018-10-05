@@ -1,0 +1,30 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "municipal council of La Florida"
+      },
+      "id": "Q56883966",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q56883966"
+        }
+      ],
+      "area_id": "Q14460",
+      "seat_counts": {
+        "Q56883968": "10"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+
+  ]
+}
