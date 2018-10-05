@@ -8,6 +8,7 @@ SELECT ?statement
        ?org ?org_es ?org_en ?org_jurisdiction ?org_seat_count
 WHERE {
   BIND(wd:Q56883960 as ?role) .
+  BIND(wd:Q56883960 as ?specific_role) .
   BIND(wd:Q56883958 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_es
@@ -25,7 +26,12 @@ OPTIONAL {
   OPTIONAL {
     ?org wdt:P1342 ?org_seat_count
   }
-  ?item p:P39 ?statement .
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
+  ?statement ps:P39/wdt:P279* ?specific_role .
+  OPTIONAL { ?statement pq:P580 ?start }
+  OPTIONAL { ?statement pq:P582 ?end }
+  
   OPTIONAL {
   ?item rdfs:label ?name_es
   FILTER(LANG(?name_es) = "es")
@@ -36,7 +42,6 @@ OPTIONAL {
   FILTER(LANG(?name_en) = "en")
 }
 
-  ?statement ps:P39 ?role .
   OPTIONAL {
   ?role rdfs:label ?role_es
   FILTER(LANG(?role_es) = "es")
@@ -61,9 +66,6 @@ OPTIONAL {
 }
 
   }
-  
-  OPTIONAL { ?statement pq:P580 ?start }
-  OPTIONAL { ?statement pq:P582 ?end }
   OPTIONAL {
     ?statement pq:P768 ?district.
     OPTIONAL {
@@ -96,4 +98,4 @@ BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
 FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
 FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
 
-} ORDER BY ?item ?role ?start ?end
+} ORDER BY ?item ?role ?start ?end ?role_superclass ?party ?org ?district
