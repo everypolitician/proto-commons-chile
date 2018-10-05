@@ -123,10 +123,10 @@
       "person_id": "Q56479521",
       "organization_id": "Q21409339",
       "area_id": "Q2170",
-      "role_superclass_code": "Q16579379",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región del Biobío",
-        "lang:en": "Intendant of the Biobio"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q16579379",
       "role": {
@@ -141,10 +141,10 @@
       "organization_id": "Q21409339",
       "area_id": "Q2170",
       "start_date": "2018-03-11",
-      "role_superclass_code": "Q16579379",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región del Biobío",
-        "lang:en": "Intendant of the Biobio"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q16579379",
       "role": {

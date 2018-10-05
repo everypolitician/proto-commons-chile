@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de O'Higgins",
+        "lang:en": "Regional Government of Libertador General Bernardo O'Higgins"
+      },
+      "id": "Q21526939",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21526939"
+        }
+      ],
+      "area_id": "Q2133"
+    }
   ],
   "areas": [
     {

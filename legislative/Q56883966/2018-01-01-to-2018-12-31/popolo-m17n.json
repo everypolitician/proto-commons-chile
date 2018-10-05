@@ -5,18 +5,20 @@
   "organizations": [
     {
       "name": {
-        "lang:es": "Gobierno Regional de Ñuble",
-        "lang:en": "Regional Government of Ñuble"
+        "lang:en": "municipal council of La Florida"
       },
-      "id": "Q56481339",
+      "id": "Q56883966",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56481339"
+          "identifier": "Q56883966"
         }
       ],
-      "area_id": "Q24076693"
+      "area_id": "Q14460",
+      "seat_counts": {
+        "Q56883968": "10"
+      }
     }
   ],
   "areas": [

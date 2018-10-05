@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de La Araucanía",
+        "lang:en": "Regional Government of La Araucania"
+      },
+      "id": "Q54830871",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830871"
+        }
+      ],
+      "area_id": "Q2176"
+    }
   ],
   "areas": [
     {

@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Tarapacá",
+        "lang:en": "Regional Government of Tarapaca"
+      },
+      "id": "Q54830950",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830950"
+        }
+      ],
+      "area_id": "Q2114"
+    }
   ],
   "areas": [
     {

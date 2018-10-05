@@ -3,7 +3,24 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Consejo Regional de Magallanes y de la Antártica Chilena",
+        "lang:en": "Regional Council of Magellan and Chilean Antarctic"
+      },
+      "id": "Q54830916",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830916"
+        }
+      ],
+      "area_id": "Q2189",
+      "seat_counts": {
+        "Q54846757": "14"
+      }
+    }
   ],
   "areas": [
     {

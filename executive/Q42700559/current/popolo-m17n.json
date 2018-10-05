@@ -91,10 +91,10 @@
       "person_id": "Q54862869",
       "organization_id": "Q42700559",
       "area_id": "Q2166",
-      "role_superclass_code": "Q16579384",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región del Maule",
-        "lang:en": "Intendant of Maule"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q16579384",
       "role": {

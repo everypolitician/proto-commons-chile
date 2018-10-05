@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:es": "José Miguel Insulza",
+        "lang:en": "José Miguel Insulza"
+      },
+      "id": "Q1357872",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1357872"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Felipe Kast",
         "lang:en": "Felipe Kast"
       },
@@ -94,6 +110,57 @@
     },
     {
       "name": {
+        "lang:es": "Rodrigo Galilea",
+        "lang:en": "Rodrigo Galilea"
+      },
+      "id": "Q50947907",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50947907"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/rodrigogalileav"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Kenneth Pugh",
+        "lang:en": "Kenneth Pugh"
+      },
+      "id": "Q51106619",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51106619"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Alejandro Guillier",
+        "lang:en": "Alejandro Guillier"
+      },
+      "id": "Q5665082",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5665082"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Jacqueline van Rysselberghe",
         "lang:en": "Jacqueline van Rysselberghe"
       },
@@ -102,6 +169,22 @@
         {
           "scheme": "wikidata",
           "identifier": "Q5681251"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Juan Antonio Coloma",
+        "lang:en": "Juan Antonio Coloma"
+      },
+      "id": "Q5947246",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5947246"
         }
       ],
       "links": [
@@ -581,6 +664,22 @@
   ],
   "memberships": [
     {
+      "id": "http://www.wikidata.org/entity/statement/Q1357872-fbeb8b42-4b54-ba21-9d0e-0877905232a4",
+      "person_id": "Q1357872",
+      "organization_id": "Q2119458",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q1403199-3FE42002-411E-470F-BE5C-FB752DDCB5B8",
       "person_id": "Q1403199",
       "on_behalf_of_id": "Q16565533",
@@ -670,10 +769,74 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q50947907-b93172f9-4fd9-346b-57d2-0116ea1c3df5",
+      "person_id": "Q50947907",
+      "organization_id": "Q2119458",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51106619-03a7c45a-43dc-1112-8d6c-91b7bc49ec92",
+      "person_id": "Q51106619",
+      "organization_id": "Q2119458",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5665082-9EB8A0C0-5470-4F97-ADB3-A01834C7010A",
+      "person_id": "Q5665082",
+      "organization_id": "Q2119458",
+      "start_date": "2014-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5681251-D6133501-B33E-4E88-837B-EC059D8A7924",
       "person_id": "Q5681251",
       "organization_id": "Q2119458",
       "start_date": "2014-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5947246-6938c523-499c-7da5-9ff9-67db7978d36d",
+      "person_id": "Q5947246",
+      "organization_id": "Q2119458",
+      "start_date": "2002-03-11",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",

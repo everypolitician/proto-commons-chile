@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Coquimbo",
+        "lang:en": "Regional Government of Coquimbo"
+      },
+      "id": "Q17633146",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17633146"
+        }
+      ],
+      "area_id": "Q2121"
+    }
   ],
   "areas": [
     {

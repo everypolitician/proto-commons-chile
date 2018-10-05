@@ -124,10 +124,10 @@
       "person_id": "Q5888709",
       "organization_id": "Q21191685",
       "area_id": "Q2131",
-      "role_superclass_code": "Q9008867",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región Metropolitana de Santiago",
-        "lang:en": "Intendant of the Metropolitan Region of Santiago"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q9008867",
       "role": {
@@ -142,10 +142,10 @@
       "organization_id": "Q21191685",
       "area_id": "Q2131",
       "start_date": "2018-03-11",
-      "role_superclass_code": "Q9008867",
+      "role_superclass_code": "Q7887637",
       "role_superclass": {
-        "lang:es": "Intendente de la Región Metropolitana de Santiago",
-        "lang:en": "Intendant of the Metropolitan Region of Santiago"
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
       },
       "role_code": "Q9008867",
       "role": {

@@ -1,4 +1,7 @@
 WARNING: Position member of the municipal council of Antofagasta (Q56883957) not in boundary associated_wikidata_positions
 WARNING: Position member of the municipal council of Valparaíso (Q56883960) not in boundary associated_wikidata_positions
 WARNING: Position member of the municipal council of Viña Del Mar (Q56883963) not in boundary associated_wikidata_positions
+WARNING: Position member of the municipal council of La Florida (Q56883968) not in boundary associated_wikidata_positions
+WARNING: Position member of the municipal council of Maipú (Q56883971) not in boundary associated_wikidata_positions
+WARNING: Position member of the municipal council of Puente Alto (Q56883974) not in boundary associated_wikidata_positions
 WARNING: Position intendente de la región de Ñuble (Q56480727) not in boundary associated_wikidata_positions

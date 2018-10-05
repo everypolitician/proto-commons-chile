@@ -5,18 +5,20 @@
   "organizations": [
     {
       "name": {
-        "lang:es": "Gobierno Regional de Ñuble",
-        "lang:en": "Regional Government of Ñuble"
+        "lang:en": "municipal council of Puente Alto"
       },
-      "id": "Q56481339",
+      "id": "Q56883972",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56481339"
+          "identifier": "Q56883972"
         }
       ],
-      "area_id": "Q24076693"
+      "area_id": "Q51594",
+      "seat_counts": {
+        "Q56883974": "10"
+      }
     }
   ],
   "areas": [

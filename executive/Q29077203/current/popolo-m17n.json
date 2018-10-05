@@ -75,10 +75,27 @@
       "organization_id": "Q29077203",
       "area_id": "Q298",
       "start_date": "2018-03-11",
-      "role_superclass_code": "Q466956",
+      "role_superclass_code": "Q2285706",
       "role_superclass": {
+        "lang:es": "jefe de Gobierno",
+        "lang:en": "head of government"
+      },
+      "role_code": "Q466956",
+      "role": {
         "lang:es": "presidente de Chile",
         "lang:en": "President of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q306-01ff1436-45ef-c01a-6862-2c6ea04ae301",
+      "person_id": "Q306",
+      "organization_id": "Q29077203",
+      "area_id": "Q298",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q30461",
+      "role_superclass": {
+        "lang:es": "presidente",
+        "lang:en": "president"
       },
       "role_code": "Q466956",
       "role": {

@@ -3,7 +3,21 @@
 
   ],
   "organizations": [
-
+    {
+      "name": {
+        "lang:es": "Gobierno Regional de Arica y Parinacota",
+        "lang:en": "Regional Government of Arica and Parinacota"
+      },
+      "id": "Q54830874",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54830874"
+        }
+      ],
+      "area_id": "Q2109"
+    }
   ],
   "areas": [
     {
