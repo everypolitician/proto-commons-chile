@@ -40,6 +40,22 @@
     },
     {
       "name": {
+        "lang:es": "Ricardo Lagos Weber",
+        "lang:en": "Ricardo Lagos Weber"
+      },
+      "id": "Q3430265",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3430265"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Carolina Goic",
         "lang:en": "Carolina Goic Boroevic"
       },
@@ -78,6 +94,38 @@
     },
     {
       "name": {
+        "lang:es": "Jacqueline van Rysselberghe",
+        "lang:en": "Jacqueline van Rysselberghe"
+      },
+      "id": "Q5681251",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5681251"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Ximena Rincón",
+        "lang:en": "Ximena Rincón"
+      },
+      "id": "Q6169262",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6169262"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Jorge Pizarro",
         "lang:en": "Jorge Pizarro"
       },
@@ -112,7 +160,7 @@
       ],
       "area_id": "Q298",
       "seat_counts": {
-        "Q18882653": "38"
+        "Q18882653": "43"
       }
     },
     {
@@ -538,6 +586,7 @@
       "on_behalf_of_id": "Q16565533",
       "organization_id": "Q2119458",
       "area_id": "Q54826327",
+      "start_date": "2018-03-11",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
@@ -568,11 +617,29 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q3430265-b557452f-b7b0-4b9e-84dc-0091534451b2",
+      "person_id": "Q3430265",
+      "organization_id": "Q2119458",
+      "area_id": "Q54826320",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q5044837-880CA2C3-293D-4205-A981-F6116B2CB9BE",
       "person_id": "Q5044837",
       "on_behalf_of_id": "Q1395049",
       "organization_id": "Q2119458",
       "area_id": "Q54826331",
+      "start_date": "2014-03-11",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
@@ -590,6 +657,40 @@
       "on_behalf_of_id": "Q16565533",
       "organization_id": "Q2119458",
       "area_id": "Q54826327",
+      "start_date": "2018-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5681251-D6133501-B33E-4E88-837B-EC059D8A7924",
+      "person_id": "Q5681251",
+      "organization_id": "Q2119458",
+      "start_date": "2014-03-11",
+      "role_superclass_code": "Q15686806",
+      "role_superclass": {
+        "lang:es": "senador",
+        "lang:en": "senator"
+      },
+      "role_code": "Q18882653",
+      "role": {
+        "lang:es": "senador de Chile",
+        "lang:en": "member of the Senate of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6169262-a303e14f-479c-3fd7-4d77-69042e3e1385",
+      "person_id": "Q6169262",
+      "organization_id": "Q2119458",
+      "area_id": "Q54826324",
+      "start_date": "2018-03-11",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",
@@ -607,6 +708,7 @@
       "on_behalf_of_id": "Q1395049",
       "organization_id": "Q2119458",
       "area_id": "Q54826319",
+      "start_date": "1998-03-11",
       "role_superclass_code": "Q15686806",
       "role_superclass": {
         "lang:es": "senador",

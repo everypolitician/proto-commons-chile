@@ -2,60 +2,63 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Pablo Milad Abusleme",
-        "lang:en": "Pablo Milad Abusleme"
+        "lang:es": "Jorge Martínez Durán",
+        "lang:en": "Jorge Martínez Durán"
       },
-      "id": "Q54862869",
+      "id": "Q54862868",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q54862869"
+          "identifier": "Q54862868"
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/jorge.martinezduran.5"
+        }
       ]
     }
   ],
   "organizations": [
     {
       "name": {
-        "lang:es": "Gobierno Regional del Maule",
-        "lang:en": "Regional Government of Maule"
+        "lang:es": "Gobierno Regional de Valparaíso",
+        "lang:en": "Regional Government of Valparaiso"
       },
-      "id": "Q54830920",
+      "id": "Q21407252",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q54830920"
+          "identifier": "Q21407252"
         }
       ],
-      "area_id": "Q2166"
+      "area_id": "Q219458"
     }
   ],
   "areas": [
     {
-      "id": "Q2166",
+      "id": "Q219458",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:ml"
+          "identifier": "country:cl/region:vs"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2166"
+          "identifier": "Q219458"
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830918"
+        "Q16579372"
       ],
       "type": {
         "lang:es": "región de Chile",
         "lang:en": "region of Chile"
       },
       "name": {
-        "lang:es": "Región del Maule"
+        "lang:es": "Región de Valparaíso"
       },
       "parent_id": "Q298"
     },
@@ -87,19 +90,19 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q54862869-4690DDF2-1842-406E-B9D3-7A87331CA4FC",
-      "person_id": "Q54862869",
-      "organization_id": "Q54830920",
-      "area_id": "Q2166",
-      "role_superclass_code": "Q54830918",
+      "id": "http://www.wikidata.org/entity/statement/Q54862868-609FBE5B-B5AD-4D27-BC2E-3927914D58D7",
+      "person_id": "Q54862868",
+      "organization_id": "Q21407252",
+      "area_id": "Q219458",
+      "role_superclass_code": "Q16579372",
       "role_superclass": {
-        "lang:es": "Intendente del Maule",
-        "lang:en": "Intendant of Maule"
+        "lang:es": "Intendente de la Región de Valparaíso",
+        "lang:en": "Intendant of Valparaiso"
       },
-      "role_code": "Q54830918",
+      "role_code": "Q16579372",
       "role": {
-        "lang:es": "Intendente del Maule",
-        "lang:en": "Intendant of Maule"
+        "lang:es": "Intendente de la Región de Valparaíso",
+        "lang:en": "Intendant of Valparaiso"
       }
     }
   ]

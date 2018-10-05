@@ -7,26 +7,26 @@
   ],
   "areas": [
     {
-      "id": "Q2181",
+      "id": "Q2189",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:ai"
+          "identifier": "country:cl/region:ma"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2181"
+          "identifier": "Q2189"
         }
       ],
       "associated_wikidata_positions": [
-        "Q54830881"
+        "Q16579367"
       ],
       "type": {
         "lang:es": "región de Chile",
         "lang:en": "region of Chile"
       },
       "name": {
-        "lang:es": "Región de Aysén del General Carlos Ibáñez del Campo"
+        "lang:es": "Región de Magallanes y de la Antártica Chilena"
       },
       "parent_id": "Q298"
     },
