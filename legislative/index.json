@@ -5,8 +5,8 @@
     "position_item_id": "Q18882653",
     "terms": [
       {
-        "comment": "8th Chilean Legislative Period",
-        "term_item_id": "Q29044335"
+        "comment": "55th legislature of the National Congress of Chile",
+        "term_item_id": "Q55807225"
       }
     ]
   },
@@ -16,8 +16,8 @@
     "position_item_id": "Q18067639",
     "terms": [
       {
-        "comment": "8th Chilean Legislative Period",
-        "term_item_id": "Q29044335"
+        "comment": "55th legislature of the National Congress of Chile",
+        "term_item_id": "Q55807225"
       }
     ]
   },
@@ -183,6 +183,39 @@
       {
         "comment": "7th Legislature of the Regional government of Valparaíso",
         "term_item_id": "Q54844480"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Antofagasta",
+    "house_item_id": "Q56883955",
+    "position_item_id": "Q56883957",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Valparaíso",
+    "house_item_id": "Q56883958",
+    "position_item_id": "Q56883960",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "municipal council of Viña Del Mar",
+    "house_item_id": "Q56883961",
+    "position_item_id": "Q56883963",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
       }
     ]
   }
