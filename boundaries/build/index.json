@@ -550,5 +550,152 @@
       "lang:es": "Name ES",
       "lang:en": "Name EN"
     }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1840161",
+    "associations": [
+      {
+        "comment": "member of the municipal council of Antofagasta",
+        "position_item_id": "Q56883957"
+      },
+      {
+        "comment": "Alcalde of Antofagasta",
+        "position_item_id": "Q56883956"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:an/municipalidad:antofagasta",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1840161",
+    "associations": [
+      {
+        "comment": "member of the municipal council of Valparaíso ",
+        "position_item_id": "Q56883960"
+      },
+      {
+        "comment": "Alcalde of Valparaíso ",
+        "position_item_id": "Q56883959"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:vs/municipalidad:valparaiso",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1840161",
+    "associations": [
+      {
+        "comment": "member of the municipal council of Viña Del Mar ",
+        "position_item_id": "Q56883963"
+      },
+      {
+        "comment": "Alcalde of Viña Del Mar ",
+        "position_item_id": "Q56883962"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:vs/municipalidad:vina-del-mar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1840161",
+    "associations": [
+      {
+        "comment": "member of the municipal council of La Florida",
+        "position_item_id": "Q56883968"
+      },
+      {
+        "comment": "Alcalde of La Florida",
+        "position_item_id": "Q56883967"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:rm/municipalidad:la-florida",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1840161",
+    "associations": [
+      {
+        "comment": "member of the municipal council of Maipú ",
+        "position_item_id": "Q56883971"
+      },
+      {
+        "comment": "Alcalde of Maipú ",
+        "position_item_id": "Q56883970"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:rm/municipalidad:maipu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1840161",
+    "associations": [
+      {
+        "comment": "member of the municipal council of Puente Alto ",
+        "position_item_id": "Q56883974"
+      },
+      {
+        "comment": "Alcalde of Puente Alto ",
+        "position_item_id": "Q56883973"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:rm/municipalidad:puente-alto",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "municipalities",
+    "area_type_wikidata_item_id": "Q1840161",
+    "associations": [
+      {
+        "comment": "member of the municipal council of the Commune of Santiago ",
+        "position_item_id": "Q56883977"
+      },
+      {
+        "comment": "Alcalde of the Commune of Santiago ",
+        "position_item_id": "Q56883976"
+      }
+    ],
+    "name_columns": {
+      "lang:es": "NOM"
+    },
+    "filter": {
+      "match": "country:cl/region:rm/municipalidad:santiago",
+      "column": "MS_FB"
+    }
   }
 ]
