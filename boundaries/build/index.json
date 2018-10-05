@@ -19,7 +19,7 @@
     "associations": [
       {
         "comment": "Intendant of Antofagasta",
-        "position_item_id": "Q54830867"
+        "position_item_id": "Q16140866"
       }
     ],
     "name_columns": {
@@ -36,7 +36,7 @@
     "associations": [
       {
         "comment": "Intendant of Arica and Parinacota",
-        "position_item_id": "Q54830873"
+        "position_item_id": "Q16579360"
       }
     ],
     "name_columns": {
@@ -53,7 +53,7 @@
     "associations": [
       {
         "comment": "Intendant of Atacama",
-        "position_item_id": "Q54830878"
+        "position_item_id": "Q16140873"
       }
     ],
     "name_columns": {
@@ -69,8 +69,8 @@
     "area_type_wikidata_item_id": "Q590080",
     "associations": [
       {
-        "comment": "Intendant of Aysen General Carlos Ib\u00e1\u00f1ez del Campo",
-        "position_item_id": "Q54830881"
+        "comment": "Intendant of Aysen General Carlos Ibáñez del Campo",
+        "position_item_id": "Q16579362"
       }
     ],
     "name_columns": {
@@ -87,7 +87,7 @@
     "associations": [
       {
         "comment": "Intendant of Coquimbo",
-        "position_item_id": "Q54830887"
+        "position_item_id": "Q16140881"
       }
     ],
     "name_columns": {
@@ -104,7 +104,7 @@
     "associations": [
       {
         "comment": "Intendant of La Araucania",
-        "position_item_id": "Q54830870"
+        "position_item_id": "Q16579375"
       }
     ],
     "name_columns": {
@@ -121,7 +121,7 @@
     "associations": [
       {
         "comment": "Intendant of Los Lagos",
-        "position_item_id": "Q54830890"
+        "position_item_id": "Q16579364"
       }
     ],
     "name_columns": {
@@ -138,7 +138,7 @@
     "associations": [
       {
         "comment": "Intendant of the Metropolitan Region of Santiago",
-        "position_item_id": "Q54830946"
+        "position_item_id": "Q9008867"
       }
     ],
     "name_columns": {
@@ -155,7 +155,7 @@
     "associations": [
       {
         "comment": "Intendant of Maule",
-        "position_item_id": "Q54830918"
+        "position_item_id": "Q16579384"
       }
     ],
     "name_columns": {
@@ -172,7 +172,7 @@
     "associations": [
       {
         "comment": "Intendant of Libertador General Bernardo O'Higgins",
-        "position_item_id": "Q54830925"
+        "position_item_id": "Q16579381"
       }
     ],
     "name_columns": {
@@ -206,7 +206,7 @@
     "associations": [
       {
         "comment": "Intendant of Valparaiso",
-        "position_item_id": "Q54830952"
+        "position_item_id": "Q16579372"
       }
     ],
     "name_columns": {
@@ -223,7 +223,7 @@
     "associations": [
       {
         "comment": "Intendant of Tarapaca",
-        "position_item_id": "Q54830949"
+        "position_item_id": "Q16579369"
       }
     ],
     "name_columns": {
@@ -240,7 +240,7 @@
     "associations": [
       {
         "comment": "Intendant of Magallanes and Chilean Antarctic",
-        "position_item_id": "Q54830912"
+        "position_item_id": "Q16579367"
       }
     ],
     "name_columns": {
@@ -256,8 +256,8 @@
     "area_type_wikidata_item_id": "Q590080",
     "associations": [
       {
-        "comment": "Intendant of Los R\u00edos",
-        "position_item_id": "Q54830893"
+        "comment": "Intendant of Los Ríos",
+        "position_item_id": "Q17634934"
       }
     ],
     "name_columns": {
