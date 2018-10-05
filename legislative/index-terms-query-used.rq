@@ -3,8 +3,33 @@ SELECT DISTINCT
   ?legislature ?legislatureLabel
   ?term ?termLabel
   ?termStart ?termEnd
+  ?termSpecificPosition
 WHERE {
-  VALUES ?house { wd:Q2119458 wd:Q2119518 wd:Q54830869 wd:Q54830872 wd:Q54830875 wd:Q54830880 wd:Q54830883 wd:Q54830886 wd:Q54830889 wd:Q54830892 wd:Q54830895 wd:Q54830916 wd:Q54830922 wd:Q54830929 wd:Q54830948 wd:Q54830951 wd:Q54830954 wd:Q56883955 wd:Q56883958 wd:Q56883961 }
+  VALUES (?house ?position) {
+    (wd:Q2119458 wd:Q18882653)
+    (wd:Q2119518 wd:Q18067639)
+    (wd:Q54830869 wd:Q54846727)
+    (wd:Q54830872 wd:Q54846729)
+    (wd:Q54830875 wd:Q54846731)
+    (wd:Q54830880 wd:Q54846734)
+    (wd:Q54830883 wd:Q54846736)
+    (wd:Q54830886 wd:Q54846738)
+    (wd:Q54830889 wd:Q54846740)
+    (wd:Q54830892 wd:Q54846743)
+    (wd:Q54830895 wd:Q54846745)
+    (wd:Q54830916 wd:Q54846757)
+    (wd:Q54830922 wd:Q54846758)
+    (wd:Q54830929 wd:Q54846759)
+    (wd:Q54830948 wd:Q54846760)
+    (wd:Q54830951 wd:Q54846761)
+    (wd:Q54830954 wd:Q54846762)
+    (wd:Q56883955 wd:Q56883957)
+    (wd:Q56883958 wd:Q56883960)
+    (wd:Q56883961 wd:Q56883963)
+    (wd:Q56883966 wd:Q56883968)
+    (wd:Q56883969 wd:Q56883971)
+    (wd:Q56883972 wd:Q56883974)
+  }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
       OPTIONAL { ?subTerm wdt:P31 ?baseTerm }
@@ -15,6 +40,11 @@ WHERE {
   OPTIONAL { ?term (wdt:P582|wdt:P576) ?termEnd. }
   OPTIONAL { ?term (wdt:P155|wdt:P1365) ?termReplaces }
   OPTIONAL { ?term (wdt:P156|wdt:P1366) ?termReplacedBy }
+  OPTIONAL {
+    ?termSpecificPosition wdt:P31/wdt:P279* wd:Q4164871 ;
+                          p:P279 [ ps:P279 ?position ;
+                                   pq:P2937 ?term ] .
+  }
 
   FILTER (!BOUND(?termEnd) || ?termEnd > NOW())
   FILTER (!BOUND(?termReplacedBy))
