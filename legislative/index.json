@@ -297,5 +297,18 @@
         "end_date": "2018-12-31"
       }
     ]
+  },
+  {
+    "comment": "municipal council of the Commune of Santiago",
+    "house_item_id": "Q56883975",
+    "seat_count": "10",
+    "area_id": "Q188002",
+    "position_item_id": "Q56883977",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
   }
 ]

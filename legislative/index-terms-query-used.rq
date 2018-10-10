@@ -29,6 +29,7 @@ WHERE {
     (wd:Q56883966 wd:Q56883968)
     (wd:Q56883969 wd:Q56883971)
     (wd:Q56883972 wd:Q56883974)
+    (wd:Q56883975 wd:Q56883977)
   }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
