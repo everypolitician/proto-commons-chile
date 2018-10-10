@@ -185,5 +185,82 @@
         "position_item_id": "Q56480727"
       }
     ]
+  },
+  {
+    "comment": "executive of the municipal council of Antofagasta",
+    "area_id": "Q3612",
+    "executive_item_id": "Q57164569",
+    "positions": [
+      {
+        "comment": "Alcalde of Antofagasta",
+        "position_item_id": "Q56883956"
+      }
+    ]
+  },
+  {
+    "comment": "executive of the municipal council of Valparaíso",
+    "area_id": "Q33986",
+    "executive_item_id": "Q57164570",
+    "positions": [
+      {
+        "comment": "Alcalde of Valparaíso",
+        "position_item_id": "Q56883959"
+      }
+    ]
+  },
+  {
+    "comment": "executive of the municipal council of Viña Del Mar",
+    "area_id": "Q184345",
+    "executive_item_id": "Q57164572",
+    "positions": [
+      {
+        "comment": "Alcalde of Viña Del Mar",
+        "position_item_id": "Q56883962"
+      }
+    ]
+  },
+  {
+    "comment": "executive of the municipal council of La Florida",
+    "area_id": "Q14460",
+    "executive_item_id": "Q57164574",
+    "positions": [
+      {
+        "comment": "Alcalde of La Florida",
+        "position_item_id": "Q56883967"
+      }
+    ]
+  },
+  {
+    "comment": "executive of the municipal council of Maipú",
+    "area_id": "Q16918",
+    "executive_item_id": "Q57164575",
+    "positions": [
+      {
+        "comment": "Alcalde of Maipú",
+        "position_item_id": "Q56883970"
+      }
+    ]
+  },
+  {
+    "comment": "executive of the municipal council of Puente Alto",
+    "area_id": "Q51594",
+    "executive_item_id": "Q57164578",
+    "positions": [
+      {
+        "comment": "Alcalde of Puente Alto",
+        "position_item_id": "Q56883973"
+      }
+    ]
+  },
+  {
+    "comment": "executive of the municipal council of the Commune of Santiago",
+    "area_id": "Q188002",
+    "executive_item_id": "Q57164582",
+    "positions": [
+      {
+        "comment": "Alcalde of the Commune of Santiago",
+        "position_item_id": "Q56883976"
+      }
+    ]
   }
 ]
