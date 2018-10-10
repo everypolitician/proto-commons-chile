@@ -5,44 +5,41 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal council of Antofagasta"
+        "lang:en": "executive of the municipal council of Puente Alto"
       },
-      "id": "Q56883955",
+      "id": "Q57164578",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56883955"
+          "identifier": "Q57164578"
         }
       ],
-      "area_id": "Q3612",
-      "seat_counts": {
-        "Q56883957": "10"
-      }
+      "area_id": "Q51594"
     }
   ],
   "areas": [
     {
-      "id": "Q2118",
+      "id": "Q2131",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:an"
+          "identifier": "country:cl/region:rm"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q2118"
+          "identifier": "Q2131"
         }
       ],
       "associated_wikidata_positions": [
-        "Q16140866"
+        "Q9008867"
       ],
       "type": {
         "lang:es": "región de Chile",
         "lang:en": "region of Chile"
       },
       "name": {
-        "lang:es": "Región de Antofagasta"
+        "lang:es": "Región Metropolitana de Santiago"
       },
       "parent_id": "Q298"
     },
@@ -72,29 +69,29 @@
       "parent_id": null
     },
     {
-      "id": "Q3612",
+      "id": "Q51594",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:an/municipalidad:antofagasta"
+          "identifier": "country:cl/region:rm/municipalidad:puente-alto"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q3612"
+          "identifier": "Q51594"
         }
       ],
       "associated_wikidata_positions": [
-        "Q56883957",
-        "Q56883956"
+        "Q56883974",
+        "Q56883973"
       ],
       "type": {
         "lang:es": "comuna de Chile",
         "lang:en": "commune of Chile"
       },
       "name": {
-        "lang:es": "Antofagasta"
+        "lang:es": "Puente Alto"
       },
-      "parent_id": "Q2118"
+      "parent_id": "Q2131"
     }
   ],
   "memberships": [

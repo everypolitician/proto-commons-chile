@@ -22,7 +22,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q14460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/municipalidad:la-florida"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q14460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56883968",
+        "Q56883967"
+      ],
+      "type": {
+        "lang:es": "comuna de Chile",
+        "lang:en": "commune of Chile"
+      },
+      "name": {
+        "lang:es": "La Florida"
+      },
+      "parent_id": "Q2131"
+    },
+    {
+      "id": "Q2131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q9008867"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región Metropolitana de Santiago"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

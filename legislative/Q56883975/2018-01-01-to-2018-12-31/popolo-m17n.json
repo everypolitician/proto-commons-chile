@@ -5,45 +5,45 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal council of Maipú"
+        "lang:en": "municipal council of the Commune of Santiago"
       },
-      "id": "Q56883969",
+      "id": "Q56883975",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56883969"
+          "identifier": "Q56883975"
         }
       ],
-      "area_id": "Q16918",
+      "area_id": "Q188002",
       "seat_counts": {
-        "Q56883971": "10"
+        "Q56883977": "10"
       }
     }
   ],
   "areas": [
     {
-      "id": "Q16918",
+      "id": "Q188002",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:cl/region:rm/municipalidad:maipu"
+          "identifier": "country:cl/region:rm/municipalidad:santiago"
         },
         {
           "scheme": "wikidata",
-          "identifier": "Q16918"
+          "identifier": "Q188002"
         }
       ],
       "associated_wikidata_positions": [
-        "Q56883971",
-        "Q56883970"
+        "Q56883977",
+        "Q56883976"
       ],
       "type": {
         "lang:es": "comuna de Chile",
         "lang:en": "commune of Chile"
       },
       "name": {
-        "lang:es": "Maipú"
+        "lang:es": "Santiago"
       },
       "parent_id": "Q2131"
     },
