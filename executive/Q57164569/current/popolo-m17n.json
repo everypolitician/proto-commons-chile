@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Karen Rojo",
+        "lang:en": "Karen Rojo"
+      },
+      "id": "Q5958143",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5958143"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -95,6 +110,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5958143-D18E363D-C54A-4D81-B46D-853A74CF95A5",
+      "person_id": "Q5958143",
+      "organization_id": "Q57164569",
+      "area_id": "Q3612",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56883956",
+      "role": {
+        "lang:es": "alcalde de Antofagasta",
+        "lang:en": "Alcalde of Antofagasta"
+      }
+    }
   ]
 }

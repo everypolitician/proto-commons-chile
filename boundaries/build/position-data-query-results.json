@@ -2413,10 +2413,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883963"
       },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "miembro del Concejo Municipal de Viña del Mar"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of the municipal council of Viña Del Mar"
+        "value" : "member of the municipal council of Viña del Mar"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -2454,10 +2459,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883961"
       },
+      "body_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "Concejo Municipal de Viña del Mar"
+      },
       "body_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "municipal council of Viña Del Mar"
+        "value" : "municipal council of Viña del Mar"
       },
       "positionType" : {
         "type" : "uri",

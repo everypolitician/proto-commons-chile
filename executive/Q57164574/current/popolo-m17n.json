@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Rodolfo Carter",
+        "lang:en": "Rodolfo Carter"
+      },
+      "id": "Q17155059",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17155059"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +31,20 @@
         }
       ],
       "area_id": "Q14460"
+    },
+    {
+      "name": {
+        "lang:es": "Unión Demócrata Independiente",
+        "lang:en": "Independent Democratic Union"
+      },
+      "id": "Q602131",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q602131"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +124,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17155059-681FE492-FBEE-441E-99A1-F30C49A14C37",
+      "person_id": "Q17155059",
+      "on_behalf_of_id": "Q602131",
+      "organization_id": "Q57164574",
+      "area_id": "Q14460",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56883967",
+      "role": {
+        "lang:es": "alcalde de La Florida",
+        "lang:en": "Alcalde of La Florida"
+      }
+    }
   ]
 }

@@ -1,11 +1,88 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Víctor Andaur Golmes"
+      },
+      "id": "Q57239269",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57239269"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Laura Giannici Natoli"
+      },
+      "id": "Q57239272",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57239272"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rodrigo Kopaitic Valverde"
+      },
+      "id": "Q57239275",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57239275"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Pamela Hodar",
+        "lang:en": "Pamela Hodar"
+      },
+      "id": "Q5855144",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5855144"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Gabriel Mendoza",
+        "lang:en": "Gabriel Mendoza"
+      },
+      "id": "Q938447",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q938447"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal council of Viña Del Mar"
+        "lang:es": "Concejo Municipal de Viña del Mar",
+        "lang:en": "municipal council of Viña del Mar"
       },
       "id": "Q56883961",
       "classification": "branch",
@@ -19,6 +96,62 @@
       "seat_counts": {
         "Q56883963": "10"
       }
+    },
+    {
+      "name": {
+        "lang:es": "Partido Demócrata Cristiano",
+        "lang:en": "Christian Democratic Party"
+      },
+      "id": "Q1395049",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1395049"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Renovación Nacional",
+        "lang:en": "National Renewal"
+      },
+      "id": "Q1422826",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1422826"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Partido Comunista de Chile",
+        "lang:en": "Communist Party of Chile"
+      },
+      "id": "Q317952",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q317952"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:es": "Unión Demócrata Independiente",
+        "lang:en": "Independent Democratic Union"
+      },
+      "id": "Q602131",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q602131"
+        }
+      ]
     }
   ],
   "areas": [
@@ -98,6 +231,85 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57239269-3ada6464-4a25-27de-a3f9-ea6766f4691b",
+      "person_id": "Q57239269",
+      "on_behalf_of_id": "Q317952",
+      "organization_id": "Q56883961",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56883963",
+      "role": {
+        "lang:es": "miembro del Concejo Municipal de Viña del Mar",
+        "lang:en": "member of the municipal council of Viña del Mar"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57239272-91fc7baa-47cd-7c94-04c4-aa984a5d7da6",
+      "person_id": "Q57239272",
+      "on_behalf_of_id": "Q1395049",
+      "organization_id": "Q56883961",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56883963",
+      "role": {
+        "lang:es": "miembro del Concejo Municipal de Viña del Mar",
+        "lang:en": "member of the municipal council of Viña del Mar"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57239275-1659d480-40d2-ec9f-3f1d-fd40666e26ef",
+      "person_id": "Q57239275",
+      "on_behalf_of_id": "Q1422826",
+      "organization_id": "Q56883961",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56883963",
+      "role": {
+        "lang:es": "miembro del Concejo Municipal de Viña del Mar",
+        "lang:en": "member of the municipal council of Viña del Mar"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5855144-cb08536b-4e26-94e2-e98f-a79905146873",
+      "person_id": "Q5855144",
+      "on_behalf_of_id": "Q602131",
+      "organization_id": "Q56883961",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56883963",
+      "role": {
+        "lang:es": "miembro del Concejo Municipal de Viña del Mar",
+        "lang:en": "member of the municipal council of Viña del Mar"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q938447-1f00ee55-42fd-bba3-5c9e-4e7abd8f774e",
+      "person_id": "Q938447",
+      "on_behalf_of_id": "Q602131",
+      "organization_id": "Q56883961",
+      "role_superclass_code": "Q708492",
+      "role_superclass": {
+        "lang:es": "concejal",
+        "lang:en": "councillor"
+      },
+      "role_code": "Q56883963",
+      "role": {
+        "lang:es": "miembro del Concejo Municipal de Viña del Mar",
+        "lang:en": "member of the municipal council of Viña del Mar"
+      }
+    }
   ]
 }

@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Cathy Barriga",
+        "lang:en": "Cathy Barriga"
+      },
+      "id": "Q27525281",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27525281"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +31,20 @@
         }
       ],
       "area_id": "Q16918"
+    },
+    {
+      "name": {
+        "lang:es": "Unión Demócrata Independiente",
+        "lang:en": "Independent Democratic Union"
+      },
+      "id": "Q602131",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q602131"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +124,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27525281-3FB361DC-D96D-401E-89D0-5F90A2BF02BF",
+      "person_id": "Q27525281",
+      "on_behalf_of_id": "Q602131",
+      "organization_id": "Q57164575",
+      "area_id": "Q16918",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56883970",
+      "role": {
+        "lang:es": "alcalde de Maipú",
+        "lang:en": "Alcalde of Maipú"
+      }
+    }
   ]
 }

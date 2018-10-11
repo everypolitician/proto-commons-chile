@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Jorge Sharp",
+        "lang:en": "Jorge Sharp"
+      },
+      "id": "Q27537786",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27537786"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -95,6 +110,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27537786-D443068A-7109-466E-BDCB-535FD563B842",
+      "person_id": "Q27537786",
+      "organization_id": "Q57164570",
+      "area_id": "Q33986",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56883959",
+      "role": {
+        "lang:es": "alcalde de Valparaíso",
+        "lang:en": "Alcalde of Valparaíso"
+      }
+    }
   ]
 }
