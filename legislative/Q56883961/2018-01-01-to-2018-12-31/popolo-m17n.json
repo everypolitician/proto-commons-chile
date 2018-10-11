@@ -22,7 +22,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q184345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs/municipalidad:vina-del-mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q184345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56883963",
+        "Q56883962"
+      ],
+      "type": {
+        "lang:es": "comuna de Chile",
+        "lang:en": "commune of Chile"
+      },
+      "name": {
+        "lang:es": "Viña Del Mar"
+      },
+      "parent_id": "Q219458"
+    },
+    {
+      "id": "Q219458",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q219458"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16579372"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región de Valparaíso"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

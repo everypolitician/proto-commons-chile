@@ -5,23 +5,45 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal council of Valparaíso"
+        "lang:en": "executive of the municipal council of Viña Del Mar"
       },
-      "id": "Q56883958",
+      "id": "Q57164572",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56883958"
+          "identifier": "Q57164572"
         }
       ],
-      "area_id": "Q33986",
-      "seat_counts": {
-        "Q56883960": "10"
-      }
+      "area_id": "Q184345"
     }
   ],
   "areas": [
+    {
+      "id": "Q184345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:vs/municipalidad:vina-del-mar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q184345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56883963",
+        "Q56883962"
+      ],
+      "type": {
+        "lang:es": "comuna de Chile",
+        "lang:en": "commune of Chile"
+      },
+      "name": {
+        "lang:es": "Viña Del Mar"
+      },
+      "parent_id": "Q219458"
+    },
     {
       "id": "Q219458",
       "identifiers": [
@@ -70,31 +92,6 @@
         "lang:en": "Republic of Chile"
       },
       "parent_id": null
-    },
-    {
-      "id": "Q33986",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:cl/region:vs/municipalidad:valparaiso"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q33986"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q56883960",
-        "Q56883959"
-      ],
-      "type": {
-        "lang:es": "comuna de Chile",
-        "lang:en": "commune of Chile"
-      },
-      "name": {
-        "lang:es": "Valparaíso"
-      },
-      "parent_id": "Q219458"
     }
   ],
   "memberships": [

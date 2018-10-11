@@ -627,6 +627,23 @@
     }
   },
   {
+    "role_id": "Q56883956",
+    "role_name": {
+      "lang:en": "Alcalde of Antofagasta"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q57164569",
+    "organization_name": {
+      "lang:en": "executive of the municipal council of Antofagasta"
+    }
+  },
+  {
     "role_id": "Q56883957",
     "role_name": {
       "lang:en": "member of the municipal council of Antofagasta"
@@ -641,6 +658,23 @@
     "organization_id": "Q56883955",
     "organization_name": {
       "lang:en": "municipal council of Antofagasta"
+    }
+  },
+  {
+    "role_id": "Q56883959",
+    "role_name": {
+      "lang:en": "Alcalde of Valparaíso"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q57164570",
+    "organization_name": {
+      "lang:en": "executive of the municipal council of Valparaíso"
     }
   },
   {
@@ -661,6 +695,23 @@
     }
   },
   {
+    "role_id": "Q56883962",
+    "role_name": {
+      "lang:en": "Alcalde of Viña Del Mar"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284 Q515",
+    "role_type": null,
+    "organization_id": "Q57164572",
+    "organization_name": {
+      "lang:en": "executive of the municipal council of Viña Del Mar"
+    }
+  },
+  {
     "role_id": "Q56883963",
     "role_name": {
       "lang:en": "member of the municipal council of Viña Del Mar"
@@ -675,6 +726,23 @@
     "organization_id": "Q56883961",
     "organization_name": {
       "lang:en": "municipal council of Viña Del Mar"
+    }
+  },
+  {
+    "role_id": "Q56883967",
+    "role_name": {
+      "lang:en": "Alcalde of La Florida"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57164574",
+    "organization_name": {
+      "lang:en": "executive of the municipal council of La Florida"
     }
   },
   {
@@ -695,6 +763,23 @@
     }
   },
   {
+    "role_id": "Q56883970",
+    "role_name": {
+      "lang:en": "Alcalde of Maipú"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57164575",
+    "organization_name": {
+      "lang:en": "executive of the municipal council of Maipú"
+    }
+  },
+  {
     "role_id": "Q56883971",
     "role_name": {
       "lang:en": "member of the municipal council of Maipú"
@@ -712,6 +797,23 @@
     }
   },
   {
+    "role_id": "Q56883973",
+    "role_name": {
+      "lang:en": "Alcalde of Puente Alto"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q15284",
+    "role_type": null,
+    "organization_id": "Q57164578",
+    "organization_name": {
+      "lang:en": "executive of the municipal council of Puente Alto"
+    }
+  },
+  {
     "role_id": "Q56883974",
     "role_name": {
       "lang:en": "member of the municipal council of Puente Alto"
@@ -726,6 +828,40 @@
     "organization_id": "Q56883972",
     "organization_name": {
       "lang:en": "municipal council of Puente Alto"
+    }
+  },
+  {
+    "role_id": "Q56883976",
+    "role_name": {
+      "lang:en": "Alcalde of the Commune of Santiago"
+    },
+    "generic_role_id": "Q30185",
+    "generic_role_name": {
+      "lang:es": "alcalde",
+      "lang:en": "mayor"
+    },
+    "role_level": "Q24238356",
+    "role_type": null,
+    "organization_id": "Q57164582",
+    "organization_name": {
+      "lang:en": "executive of the municipal council of the Commune of Santiago"
+    }
+  },
+  {
+    "role_id": "Q56883977",
+    "role_name": {
+      "lang:en": "member of the municipal council of the Commune of Santiago"
+    },
+    "generic_role_id": "Q708492",
+    "generic_role_name": {
+      "lang:es": "concejal",
+      "lang:en": "councillor"
+    },
+    "role_level": "Q24238356",
+    "role_type": "Q4175034",
+    "organization_id": "Q56883975",
+    "organization_name": {
+      "lang:en": "municipal council of the Commune of Santiago"
     }
   },
   {

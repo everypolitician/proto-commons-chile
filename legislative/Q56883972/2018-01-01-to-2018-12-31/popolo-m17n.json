@@ -22,7 +22,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q2131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q9008867"
+      ],
+      "type": {
+        "lang:es": "región de Chile",
+        "lang:en": "region of Chile"
+      },
+      "name": {
+        "lang:es": "Región Metropolitana de Santiago"
+      },
+      "parent_id": "Q298"
+    },
+    {
+      "id": "Q298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q466956"
+      ],
+      "type": {
+        "lang:es": "país",
+        "lang:en": "country"
+      },
+      "name": {
+        "lang:es": "República de Chile",
+        "lang:en": "Republic of Chile"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q51594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:cl/region:rm/municipalidad:puente-alto"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q56883974",
+        "Q56883973"
+      ],
+      "type": {
+        "lang:es": "comuna de Chile",
+        "lang:en": "commune of Chile"
+      },
+      "name": {
+        "lang:es": "Puente Alto"
+      },
+      "parent_id": "Q2131"
+    }
   ],
   "memberships": [
 

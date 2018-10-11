@@ -5,20 +5,17 @@
   "organizations": [
     {
       "name": {
-        "lang:en": "municipal council of Maipú"
+        "lang:en": "executive of the municipal council of Maipú"
       },
-      "id": "Q56883969",
+      "id": "Q57164575",
       "classification": "branch",
       "identifiers": [
         {
           "scheme": "wikidata",
-          "identifier": "Q56883969"
+          "identifier": "Q57164575"
         }
       ],
-      "area_id": "Q16918",
-      "seat_counts": {
-        "Q56883971": "10"
-      }
+      "area_id": "Q16918"
     }
   ],
   "areas": [
