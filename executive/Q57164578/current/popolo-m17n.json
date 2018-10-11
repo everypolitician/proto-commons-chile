@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Germán Codina",
+        "lang:en": "Germán Codina"
+      },
+      "id": "Q5878645",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5878645"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +31,20 @@
         }
       ],
       "area_id": "Q51594"
+    },
+    {
+      "name": {
+        "lang:es": "Renovación Nacional",
+        "lang:en": "National Renewal"
+      },
+      "id": "Q1422826",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1422826"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +124,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5878645-18FBFE0F-3DA3-4A30-A2E9-942A06C20D81",
+      "person_id": "Q5878645",
+      "on_behalf_of_id": "Q1422826",
+      "organization_id": "Q57164578",
+      "area_id": "Q51594",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56883973",
+      "role": {
+        "lang:es": "alcalde de Puente Alto",
+        "lang:en": "Alcalde of Puente Alto"
+      }
+    }
   ]
 }

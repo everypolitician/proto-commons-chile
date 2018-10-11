@@ -714,7 +714,8 @@
   {
     "role_id": "Q56883963",
     "role_name": {
-      "lang:en": "member of the municipal council of Viña Del Mar"
+      "lang:es": "miembro del Concejo Municipal de Viña del Mar",
+      "lang:en": "member of the municipal council of Viña del Mar"
     },
     "generic_role_id": "Q708492",
     "generic_role_name": {
@@ -725,7 +726,8 @@
     "role_type": "Q4175034",
     "organization_id": "Q56883961",
     "organization_name": {
-      "lang:en": "municipal council of Viña Del Mar"
+      "lang:es": "Concejo Municipal de Viña del Mar",
+      "lang:en": "municipal council of Viña del Mar"
     }
   },
   {

@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Felipe Alessandri Vergara",
+        "lang:en": "Felipe Alessandri Vergara"
+      },
+      "id": "Q16938235",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16938235"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +31,20 @@
         }
       ],
       "area_id": "Q188002"
+    },
+    {
+      "name": {
+        "lang:es": "Renovación Nacional",
+        "lang:en": "National Renewal"
+      },
+      "id": "Q1422826",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1422826"
+        }
+      ]
     }
   ],
   "areas": [
@@ -95,6 +124,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16938235-3E37B31B-9404-4B71-9C58-C0BDDD6BF1A9",
+      "person_id": "Q16938235",
+      "on_behalf_of_id": "Q1422826",
+      "organization_id": "Q57164582",
+      "area_id": "Q188002",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:es": "alcalde",
+        "lang:en": "mayor"
+      },
+      "role_code": "Q56883976",
+      "role": {
+        "lang:es": "alcalde de la Comuna de Santiago",
+        "lang:en": "Alcalde of the Commune of Santiago"
+      }
+    }
   ]
 }
