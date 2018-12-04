@@ -8,7 +8,8 @@
     "terms": [
       {
         "comment": "55th legislature of the National Congress of Chile",
-        "term_item_id": "Q55807225"
+        "term_item_id": "Q55807225",
+        "start_date": "2018-03-11"
       }
     ]
   },
@@ -21,7 +22,8 @@
     "terms": [
       {
         "comment": "55th legislature of the National Congress of Chile",
-        "term_item_id": "Q55807225"
+        "term_item_id": "Q55807225",
+        "start_date": "2018-03-11"
       }
     ]
   },
@@ -34,7 +36,9 @@
     "terms": [
       {
         "comment": "7th legislature of the Regional council of Antofagasta",
-        "term_item_id": "Q54844440"
+        "term_item_id": "Q54844440",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -47,7 +51,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of La Ataucania",
-        "term_item_id": "Q54844444"
+        "term_item_id": "Q54844444",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -60,7 +66,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Arica and Parinacota",
-        "term_item_id": "Q54844447"
+        "term_item_id": "Q54844447",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -73,7 +81,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Atacama",
-        "term_item_id": "Q54844451"
+        "term_item_id": "Q54844451",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -86,7 +96,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Aysén of General Carlos Ibáñez del Campo",
-        "term_item_id": "Q54844453"
+        "term_item_id": "Q54844453",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -99,7 +111,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Bío Bío",
-        "term_item_id": "Q54844455"
+        "term_item_id": "Q54844455",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -112,7 +126,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Coquimbo",
-        "term_item_id": "Q54844456"
+        "term_item_id": "Q54844456",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -125,7 +141,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Los Lagos",
-        "term_item_id": "Q54844457"
+        "term_item_id": "Q54844457",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -138,7 +156,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Los Rios",
-        "term_item_id": "Q54844458"
+        "term_item_id": "Q54844458",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -151,7 +171,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional council of Magellan and the Chilean Antarctic",
-        "term_item_id": "Q54844462"
+        "term_item_id": "Q54844462",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -164,7 +186,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional government of Libertador General Bernardo O'Higgins",
-        "term_item_id": "Q54844464"
+        "term_item_id": "Q54844464",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -177,7 +201,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional government of Metropolitan Area of Santiago",
-        "term_item_id": "Q54844465"
+        "term_item_id": "Q54844465",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -190,7 +216,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional government of Tarapacá",
-        "term_item_id": "Q54844466"
+        "term_item_id": "Q54844466",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
@@ -203,7 +231,9 @@
     "terms": [
       {
         "comment": "7th Legislature of the Regional government of Valparaíso",
-        "term_item_id": "Q54844480"
+        "term_item_id": "Q54844480",
+        "start_date": "2018-03-11",
+        "end_date": "2022-03-01"
       }
     ]
   },
