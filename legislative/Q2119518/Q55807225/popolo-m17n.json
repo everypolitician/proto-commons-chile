@@ -1677,6 +1677,7 @@
     },
     {
       "name": {
+        "lang:es": "Esteban Velásquez",
         "lang:en": "Esteban Velásquez"
       },
       "id": "Q56246015",
@@ -1771,6 +1772,21 @@
     },
     {
       "name": {
+        "lang:es": "Raúl Soto"
+      },
+      "id": "Q57601220",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57601220"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:es": "Maya Fernández",
         "lang:en": "Maya Fernández"
       },
@@ -1790,8 +1806,8 @@
     },
     {
       "name": {
-        "lang:es": "Eduardo Duran Salinas",
-        "lang:en": "Eduardo Duran Salinas"
+        "lang:es": "Eduardo Durán Salinas",
+        "lang:en": "Eduardo Durán Salinas"
       },
       "id": "Q5819175",
       "identifiers": [
@@ -5516,6 +5532,22 @@
       "person_id": "Q5750685",
       "on_behalf_of_id": "Q20859150",
       "organization_id": "Q2119518",
+      "role_superclass_code": "Q1055894",
+      "role_superclass": {
+        "lang:es": "diputado",
+        "lang:en": "deputy"
+      },
+      "role_code": "Q18067639",
+      "role": {
+        "lang:es": "diputado de Chile",
+        "lang:en": "member of the Chamber of Deputies of Chile"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57601220-0c35e510-479c-3a22-f557-27dbf254649b",
+      "person_id": "Q57601220",
+      "organization_id": "Q2119518",
+      "start_date": "2018-03-11",
       "role_superclass_code": "Q1055894",
       "role_superclass": {
         "lang:es": "diputado",

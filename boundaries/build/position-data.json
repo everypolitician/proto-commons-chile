@@ -192,7 +192,7 @@
   {
     "role_id": "Q16579379",
     "role_name": {
-      "lang:es": "Intendente de la Región del Biobío",
+      "lang:es": "intendente de la Región del Biobío",
       "lang:en": "Intendant of the Biobio"
     },
     "generic_role_id": "Q7887637",
@@ -225,25 +225,6 @@
     "organization_name": {
       "lang:es": "Gobierno Regional de O'Higgins",
       "lang:en": "Regional Government of Libertador General Bernardo O'Higgins"
-    }
-  },
-  {
-    "role_id": "Q16579384",
-    "role_name": {
-      "lang:es": "Intendente de la Región del Maule",
-      "lang:en": "Intendant of Maule"
-    },
-    "generic_role_id": "Q7887637",
-    "generic_role_name": {
-      "lang:es": "intendente de Chile",
-      "lang:en": "intendant"
-    },
-    "role_level": "Q10864048",
-    "role_type": null,
-    "organization_id": "Q42700559",
-    "organization_name": {
-      "lang:es": "Gobierno Regional del Maule",
-      "lang:en": "Regional Government of Maule"
     }
   },
   {
@@ -513,25 +494,6 @@
     }
   },
   {
-    "role_id": "Q54846758",
-    "role_name": {
-      "lang:es": "consejero de la Consejo Regional del Maule",
-      "lang:en": "counselor of the Regional Council del Maule"
-    },
-    "generic_role_id": "Q4175034",
-    "generic_role_name": {
-      "lang:es": "legislador",
-      "lang:en": "legislator"
-    },
-    "role_level": "Q10864048",
-    "role_type": "Q4175034",
-    "organization_id": "Q54830922",
-    "organization_name": {
-      "lang:es": "Consejo Regional del Maule",
-      "lang:en": "Regional Council of Maule"
-    }
-  },
-  {
     "role_id": "Q54846759",
     "role_name": {
       "lang:es": "consejero del Consejo Regional del Libertador General Bernardo O'Higgins",
@@ -629,6 +591,7 @@
   {
     "role_id": "Q56883956",
     "role_name": {
+      "lang:es": "alcalde de Antofagasta",
       "lang:en": "Alcalde of Antofagasta"
     },
     "generic_role_id": "Q30185",
@@ -663,6 +626,7 @@
   {
     "role_id": "Q56883959",
     "role_name": {
+      "lang:es": "alcalde de Valparaíso",
       "lang:en": "Alcalde of Valparaíso"
     },
     "generic_role_id": "Q30185",
@@ -697,7 +661,8 @@
   {
     "role_id": "Q56883962",
     "role_name": {
-      "lang:en": "Alcalde of Viña Del Mar"
+      "lang:es": "alcalde de Viña del Mar",
+      "lang:en": "Alcalde of Viña del Mar"
     },
     "generic_role_id": "Q30185",
     "generic_role_name": {
@@ -733,6 +698,7 @@
   {
     "role_id": "Q56883967",
     "role_name": {
+      "lang:es": "alcalde de La Florida",
       "lang:en": "Alcalde of La Florida"
     },
     "generic_role_id": "Q30185",
@@ -767,6 +733,7 @@
   {
     "role_id": "Q56883970",
     "role_name": {
+      "lang:es": "alcalde de Maipú",
       "lang:en": "Alcalde of Maipú"
     },
     "generic_role_id": "Q30185",
@@ -801,6 +768,7 @@
   {
     "role_id": "Q56883973",
     "role_name": {
+      "lang:es": "alcalde de Puente Alto",
       "lang:en": "Alcalde of Puente Alto"
     },
     "generic_role_id": "Q30185",
@@ -835,6 +803,7 @@
   {
     "role_id": "Q56883976",
     "role_name": {
+      "lang:es": "alcalde de la Comuna de Santiago",
       "lang:en": "Alcalde of the Commune of Santiago"
     },
     "generic_role_id": "Q30185",

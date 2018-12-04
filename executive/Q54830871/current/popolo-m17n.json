@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:es": "Jorge Atton",
+        "lang:en": "Jorge Atton"
+      },
+      "id": "Q59100065",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59100065"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -71,6 +86,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59100065-1eb1a389-4eff-43b4-80e6-2114d9cf8d8d",
+      "person_id": "Q59100065",
+      "organization_id": "Q54830871",
+      "area_id": "Q2176",
+      "start_date": "2018-11-21",
+      "role_superclass_code": "Q7887637",
+      "role_superclass": {
+        "lang:es": "intendente de Chile",
+        "lang:en": "intendant"
+      },
+      "role_code": "Q16579375",
+      "role": {
+        "lang:es": "Intendente de la Región de la Araucanía",
+        "lang:en": "Intendant of La Araucania"
+      }
+    }
   ]
 }

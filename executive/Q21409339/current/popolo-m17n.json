@@ -2,21 +2,6 @@
   "persons": [
     {
       "name": {
-        "lang:es": "Jorge Iván Ulloa Aguillón"
-      },
-      "id": "Q56479521",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q56479521"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:es": "Jorge Ulloa",
         "lang:en": "Jorge Ulloa"
       },
@@ -119,22 +104,6 @@
   ],
   "memberships": [
     {
-      "id": "http://www.wikidata.org/entity/statement/Q56479521-9DC8766E-040A-45A3-B9A8-BB477CCC5F9B",
-      "person_id": "Q56479521",
-      "organization_id": "Q21409339",
-      "area_id": "Q2170",
-      "role_superclass_code": "Q7887637",
-      "role_superclass": {
-        "lang:es": "intendente de Chile",
-        "lang:en": "intendant"
-      },
-      "role_code": "Q16579379",
-      "role": {
-        "lang:es": "Intendente de la Región del Biobío",
-        "lang:en": "Intendant of the Biobio"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q5936177-3A782AAF-C15C-4C69-99D2-ADDAE8CE4D30",
       "person_id": "Q5936177",
       "on_behalf_of_id": "Q602131",
@@ -148,7 +117,7 @@
       },
       "role_code": "Q16579379",
       "role": {
-        "lang:es": "Intendente de la Región del Biobío",
+        "lang:es": "intendente de la Región del Biobío",
         "lang:en": "Intendant of the Biobio"
       }
     }
