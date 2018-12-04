@@ -36,18 +36,8 @@ WHERE {
 } GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
 
   }
-  OPTIONAL {
-  ?position rdfs:label ?position_name_es
-  FILTER(LANG(?position_name_es) = "es")
-}
-
-OPTIONAL {
-  ?position rdfs:label ?position_name_en
-  FILTER(LANG(?position_name_en) = "en")
-}
-
+  ?body wdt:P1001 ?adminArea .
   ?body wdt:P527|wdt:P2670|wdt:P2388 ?position .
-  MINUS { ?body wdt:P576|wdt:P582 ?bodyEnd . FILTER(?bodyEnd < NOW()) }
   OPTIONAL {
   ?body rdfs:label ?body_es
   FILTER(LANG(?body_es) = "es")
@@ -58,7 +48,18 @@ OPTIONAL {
   FILTER(LANG(?body_en) = "en")
 }
 
-  ?body wdt:P1001 ?adminArea .
+  OPTIONAL {
+  ?position rdfs:label ?position_name_es
+  FILTER(LANG(?position_name_es) = "es")
+}
+
+OPTIONAL {
+  ?position rdfs:label ?position_name_en
+  FILTER(LANG(?position_name_en) = "en")
+}
+
+  MINUS { ?body wdt:P576|wdt:P582 ?bodyEnd . FILTER(?bodyEnd < NOW()) }
+  MINUS { ?position wdt:P576|wdt:P582 ?positionEnd . FILTER(?positionEnd < NOW()) }
   OPTIONAL {
   ?adminArea rdfs:label ?admin_area_es
   FILTER(LANG(?admin_area_es) = "es")
