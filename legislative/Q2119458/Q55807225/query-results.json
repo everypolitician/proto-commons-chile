@@ -421,7 +421,7 @@
       "name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Carolina Goic"
+        "value" : "Carolina Goić Borojević"
       },
       "org" : {
         "type" : "uri",
@@ -449,7 +449,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Carolina Goic Boroevic"
+        "value" : "Carolina Goić Borojević"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",

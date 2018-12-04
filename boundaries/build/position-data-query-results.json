@@ -217,7 +217,7 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Arica y Parinacota Region"
+        "value" : "Region de arica"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -621,7 +621,7 @@
       "position_name_es" : {
         "xml:lang" : "es",
         "type" : "literal",
-        "value" : "Intendente de la Región del Biobío"
+        "value" : "intendente de la Región del Biobío"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -734,67 +734,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Regional Government of Libertador General Bernardo O'Higgins"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16579384"
-      },
-      "position_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Intendente de la Región del Maule"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Intendant of Maule"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2166"
-      },
-      "admin_area_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Maule"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maule"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7887637"
-      },
-      "position_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "intendente de Chile"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "intendant"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q42700559"
-      },
-      "body_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Gobierno Regional del Maule"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regional Government of Maule"
       }
     }, {
       "position" : {
@@ -1270,7 +1209,7 @@
       "admin_area_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Arica y Parinacota Region"
+        "value" : "Region de arica"
       },
       "positionSuperclass" : {
         "type" : "uri",
@@ -1762,71 +1701,6 @@
     }, {
       "position" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54846758"
-      },
-      "position_name_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "consejero de la Consejo Regional del Maule"
-      },
-      "position_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "counselor of the Regional Council del Maule"
-      },
-      "adminAreaTypes" : {
-        "type" : "literal",
-        "value" : "Q10864048"
-      },
-      "adminArea" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2166"
-      },
-      "admin_area_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Maule"
-      },
-      "admin_area_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maule"
-      },
-      "positionSuperclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      },
-      "position_superclass_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "legislador"
-      },
-      "position_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "legislator"
-      },
-      "body" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q54830922"
-      },
-      "body_es" : {
-        "xml:lang" : "es",
-        "type" : "literal",
-        "value" : "Consejo Regional del Maule"
-      },
-      "body_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Regional Council of Maule"
-      },
-      "positionType" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4175034"
-      }
-    }, {
-      "position" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q54846759"
       },
       "position_name_es" : {
@@ -2150,6 +2024,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883956"
       },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "alcalde de Antofagasta"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2255,6 +2134,11 @@
       "position" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883959"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "alcalde de Valparaíso"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2362,10 +2246,15 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883962"
       },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "alcalde de Viña del Mar"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alcalde of Viña Del Mar"
+        "value" : "Alcalde of Viña del Mar"
       },
       "adminAreaTypes" : {
         "type" : "literal",
@@ -2478,6 +2367,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883967"
       },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "alcalde de La Florida"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2583,6 +2477,11 @@
       "position" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883970"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "alcalde de Maipú"
       },
       "position_name_en" : {
         "xml:lang" : "en",
@@ -2690,6 +2589,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883973"
       },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "alcalde de Puente Alto"
+      },
       "position_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -2795,6 +2699,11 @@
       "position" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q56883976"
+      },
+      "position_name_es" : {
+        "xml:lang" : "es",
+        "type" : "literal",
+        "value" : "alcalde de la Comuna de Santiago"
       },
       "position_name_en" : {
         "xml:lang" : "en",
