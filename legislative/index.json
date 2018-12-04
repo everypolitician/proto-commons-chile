@@ -156,19 +156,6 @@
     ]
   },
   {
-    "comment": "Regional Council of Maule",
-    "house_item_id": "Q54830922",
-    "seat_count": "20",
-    "area_id": "Q2166",
-    "position_item_id": "Q54846758",
-    "terms": [
-      {
-        "comment": "7th Legislature of the Regional council of Maule",
-        "term_item_id": "Q54844463"
-      }
-    ]
-  },
-  {
     "comment": "Regional Council of Libertador General Bernardo O'Higgins",
     "house_item_id": "Q54830929",
     "seat_count": "16",
