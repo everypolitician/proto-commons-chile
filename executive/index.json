@@ -99,17 +99,6 @@
     ]
   },
   {
-    "comment": "Regional Government of Maule",
-    "area_id": "Q2166",
-    "executive_item_id": "Q42700559",
-    "positions": [
-      {
-        "comment": "Intendant of Maule",
-        "position_item_id": "Q16579384"
-      }
-    ]
-  },
-  {
     "comment": "Regional Government of Antofagasta",
     "area_id": "Q2118",
     "executive_item_id": "Q54830868",
@@ -172,6 +161,17 @@
       {
         "comment": "Intendant of Tarapaca",
         "position_item_id": "Q16579369"
+      }
+    ]
+  },
+  {
+    "comment": "Regional Government of Ñuble",
+    "area_id": "Q24076693",
+    "executive_item_id": "Q56481339",
+    "positions": [
+      {
+        "comment": "Intendant of Ñuble",
+        "position_item_id": "Q56480727"
       }
     ]
   },
